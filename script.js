@@ -18,6 +18,7 @@ function mostrarProductos(productos) {
             <h2>${producto.Nombre}</h2>
             <p class="sku">SKU: ${producto.SKU}</p>
             <p class="precio">C$ ${producto.Precio}</p>
+            <p class="">${producto}</p>
         `;
         
         catalogo.appendChild(div);
