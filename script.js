@@ -14,10 +14,10 @@ function mostrarProductos(productos) {
         div.classList.add('producto');
         
         div.innerHTML = `
-            <img src="${producto.Imagen}" alt="${producto.Nombre}">
-            <h2>${producto.Nombre}</h2>
-            <p class="sku">SKU: ${producto.SKU}</p>
-            <p class="precio">C$ ${producto.Precio}</p>
+            // <img src="${producto.Imagen}" alt="${producto.Nombre}">
+            // <h2>${producto.Nombre}</h2>
+            // <p class="sku">SKU: ${producto.SKU}</p>
+            // <p class="precio">C$ ${producto.Precio}</p>
             <p class="">${producto}</p>
         `;
         
