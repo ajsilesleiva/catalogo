@@ -1,14 +1,24 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Catálogo de Productos</title>
+    <title>Catálogo de Productos - AjSiles Mayorista</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <h1>Catálogo de Productos</h1>
-    <div id="catalogo"></div>
+    <header>
+        <h1>AjSiles Mayorista</h1>
+    </header>
+    
+    <div id="catalogo" class="catalogo"></div>
+    
+    <footer>
+        <p>www.ajsiles.com</p>
+    </footer>
+
+    <!-- Incluyendo PapaParse para parsear el CSV -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.0/papaparse.min.js"></script>
     <script src="script.js"></script>
 </body>
 </html>
