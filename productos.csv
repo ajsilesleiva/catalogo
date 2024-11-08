@@ -4,7 +4,7 @@ B0045-BD-12,Perfume Innovator tubular 35ml,21.18,1,16.00,VB
 BD-4,Perfume 2i2 Party 100ml,42.35,1,36.00,VB
 DS319-1,Shampoo Contra La Caida del Cabello Clasico Disaar 200ml,47.06,1,40.00,VB
 LC719,Brillo Labial Dear Darling Magic,12.94,1,12.94,VB
-BOCR/009,Body 3 Pzas Pink in Sweet BOCR-009,74.12,1,63.00,VB
+BOCR:009,Body 3 Pzas Pink in Sweet BOCR-009,74.12,1,63.00,VB
 8342,Balsamo + Exfoliante Labial,32.94,1,28.00,VB
 006-003995-0,Champu Sachet Vinilady Ondas Y Cachos,37.65,1,32.00,Mayz
 S17-007,Tratamiento Para Cabello Coco 800g Stay,108.00,1,72.00,Stay
@@ -76,7 +76,6 @@ S17-005,Tratamiento Para Cabello Argan 800g Stay,108.00,18,72.00,Stay
 S35-003,Exfoliante Corporal Cocoa 532ml,69.00,19,47.00,Stay
 BX3535,Set De Maquillaje,105.88,20,90.00,VB
 GJ7182,Locion Retinol 100g,58.82,20,50.00,VB
-,Tarjeta de Regalo AjSiles/C$500.00,500.00,20,500.00,
 ES4061-2,Sombra de Ojos My Life Dreams,49.41,21,42.00,Ushas
 B35,Perfume Tom Ford Tuscan Leather 100ml,129.41,22,110.00,VB
 S2-1276,Set para Ceja Set 3 Pzas,35.96,22,32.00,Stay
@@ -103,7 +102,7 @@ Z204,Primer Kaliya Beauty,12.94,24,11.00,VB
 FP-3032,Esponja Puff,47.06,24,40.00,VB
 S2-0971,Desmaquillante Facial,66.29,24,59.00,Stay
 WA-033,Shampoo Y Acondicionador Wao 1380 Ml Romero,286.00,24,200.00,
-WA-009,Locion Refrescante After Shave P/Hombre 8 Onzas,39.00,26,44.00,Stay
+WA-009,Locion Refrescante After Shave P Hombre 8 Onzas,39.00,26,44.00,Stay
 SD30878,Ampolla Facial con Acido Hialuronico 7pcs x 2ml,32.94,27,28.00,VB
 F-A18,Body Victorias Fleur Forever Emotion 250ml,76.47,29,65.00,VB
 006-003936-5,Champu Vinilady 325ml Vinilady Natural Relax,59.00,29,57.00,Mayz
@@ -168,7 +167,7 @@ B0042-DOT,Spray fragancia para cabello Pink in Sweet 100ml,37.65,60,32.00,VB
 S2-1371,Rizador de Pestaña Stay,40.45,60,36.00,Stay
 9603V,Polvo Compacto + Rubor Viktorisa Sempre,37.65,60,32.00,VB
 OLU938-30,Perfume Disell,59.00,60,59.00,VB
-S35-0606,Talco P/Pies 24 Horas,47.19,61,42.00,Stay
+S35-0606,Talco P Pies 24 Horas,47.19,61,42.00,Stay
 WHD-A03,Serum Facial de Aloe Vera 30ml,30.59,62,26.00,VB
 OLU938-21,Perfume IEAU DISSAY para hombre 100ml,59.00,63,48.00,VB
 WA-034,Shampoo Y Acondicionador Wao 1380 Ml Aloe,286.00,64,200.00,Stay
@@ -366,7 +365,7 @@ F007B,Primer CHANLANYA transparente,37.65,204,32.00,VB
 161-003,Toallas Humedas 25pcs,16.47,205,14.00,VB
 SE812,Sombra para ojos y contorno Scanlon,32.94,207,28.00,VB
 OLU938-5,Perfume 2i2 VIP Men,59.00,210,48.00,VB
-006-132574,Espuma P/Afeitar Janti 200ml regular,40.00,212,34.00,Mayz
+006-132574,Espuma P Afeitar Janti 200ml regular,40.00,212,34.00,Mayz
 M2227,Mascara a prueba de agua 4D Romantiic,22.00,216,17.13,BISUTERIA
 OTX056,Corrector 6 colores Overture,42.00,216,32.94,BISUTERIA
 LP2294,Labial en Barra Beauty Kiss,21.18,216,18.00,Ushas
@@ -623,9 +622,9 @@ H98149-24B,Lápiz Labial Huda Colores que duran todo el dia,14.12,3672,12.00,VB
 ,Alcohol Gel para Niñ@s/Jungla,18.00,3808,18.00,
 P004,Primer baby skin Maybelline borrador de poros,18.00,3828,14.00,VB
 H98144-A,Lápiz Labial Huda Matte H98144-A,14.12,3930,12.00,VB
-,Alcohol Gel para Niñ@s/Unicor,18.00,4970,18.00,
+,Alcohol Gel para Niños Unicor,18.00,4970,18.00,
 006-C04,Shampoo Miya para Niños 12oz 2 En 1,45.00,5375,42.00,Mayz
 MM-048,Parche Para Ojos De Colágeno,5.00,9326,4.00,VB
 161-SHVDT500CO,Shampoo Tinte VIDA Castaño Oscuro 500ml,129.00,10007,129.00,
 161-SHVDT500CN,Shampoo Tinte VIDA Castaño Natural 500ml,129.00,10008,129.00,
-161-SHVDT500N,Shampoo Tinte VIDA Negro 500ml,129.00,20063,129.00
+161-SHVDT500N,Shampoo Tinte VIDA Negro 500ml,129.00,20063,129.00,
