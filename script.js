@@ -14,7 +14,7 @@ function mostrarProductos(productos) {
         div.classList.add('producto');
         
         div.innerHTML = `
-             <img src="${producto.Imagen}" alt="${producto.Nombre}">
+             <img src="https://ibrizantstorage.s3.sa-east-1.amazonaws.com/Catalogo2024/${producto.Imagen}.jpg" alt="${producto.Nombre}">
              <h2>${producto.Nombre}</h2>
              <p class="sku">SKU: ${producto.SKU}</p>
              <p class="precio">C$ ${producto.Precio}</p>
