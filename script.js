@@ -14,8 +14,10 @@ function mostrarProductos(productos) {
         div.classList.add('producto');
 
         // URLs para .jpg y .png
-        const urlImagenJpg = `https://ibrizantstorage.s3.sa-east-1.amazonaws.com/Catalogo2024/${producto.SKU}.jpg`;
-        const urlImagenPng = `https://ibrizantstorage.s3.sa-east-1.amazonaws.com/Catalogo2024/${producto.SKU}.png`;
+        const skuEncoded = producto.SKU.replace('#', '%23');
+        const urlImagenJpg = `https://ibrizantstorage.s3.sa-east-1.amazonaws.com/Catalogo2024/${skuEncoded}.jpg`;
+        const urlImagenPng = `https://ibrizantstorage.s3.sa-east-1.amazonaws.com/Catalogo2024/${skuEncoded}.png`;
+
 
         const imagen = new Image();
 
