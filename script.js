@@ -12,9 +12,12 @@ function mostrarProductos(productos) {
     productos.forEach(producto => {
         const div = document.createElement('div');
         div.classList.add('producto');
-
-        // Verifica si la imagen .jpg o .png está disponible y luego la muestra
-        verificarImagen(producto.SKU, (urlImagen) => {
+        
+        const urlImagen = `https://ibrizantstorage.s3.sa-east-1.amazonaws.com/Catalogo2024/${producto.SKU}.jpg`;
+        const imagen = new Image();
+        
+        // Si la imagen carga correctamente, agrégala al DOM
+        imagen.onload = function() {
             div.innerHTML = `
                 <img src="${urlImagen}" alt="${producto.Nombre}">
                 <h2>${producto.Nombre}</h2>
@@ -22,28 +25,22 @@ function mostrarProductos(productos) {
                 <p class="precio">C$ ${producto.Precio}</p>
             `;
             catalogo.appendChild(div);
-        });
-    });
-}
+        };
 
-// Función para verificar si una imagen .jpg o .png existe en el servidor
-function verificarImagen(sku, callback) {
-    const urlJpg = `https://ibrizantstorage.s3.sa-east-1.amazonaws.com/Catalogo2024/${sku}.jpg`;
-    const urlPng = `https://ibrizantstorage.s3.sa-east-1.amazonaws.com/Catalogo2024/${sku}.png`;
+        // Si falla después de un tiempo, muestra la imagen de respaldo
+        setTimeout(() => {
+            if (!imagen.complete || imagen.naturalWidth === 0) {
+                div.innerHTML = `
+                    <img src="https://via.placeholder.com/150" alt="${producto.Nombre}">
+                    <h2>${producto.Nombre}</h2>
+                    <p class="sku">SKU: ${producto.SKU}</p>
+                    <p class="precio">C$ ${producto.Precio}</p>
+                `;
+                catalogo.appendChild(div);
+            }
+        }, 5000); // Espera de 1 segundo antes de mostrar imagen de respaldo
 
-    fetch(urlJpg).then(response => {
-        if (response.ok) {
-            callback(urlJpg);
-        } else {
-            // Si la imagen .jpg no está disponible, intenta cargar .png
-            fetch(urlPng).then(response => {
-                if (response.ok) {
-                    callback(urlPng);
-                } else {
-                    // Si no encuentra ninguna de las dos, usa una imagen de respaldo
-                    callback('https://via.placeholder.com/150'); // Imagen de respaldo
-                }
-            });
-        }
+        // Establece la fuente de la imagen para iniciar la carga
+        imagen.src = urlImagen;
     });
 }
