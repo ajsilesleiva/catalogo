@@ -1,0 +1,6282 @@
+[
+  {
+    "SKU": "006-000659-9",
+    "Nombre": "Champu Vinilady 325ml Vinilady Fuerza Maxima",
+    "Precio": "NIO 65.00",
+    "Existencias": 7,
+    "Costo": "NIO 65.00",
+    "Proveedor": "Mayz",
+    "Status": "Active",
+    "Vencimiento": "2025-02-01"
+  },
+  {
+    "SKU": "006-000661-0",
+    "Nombre": "Champu Vinilady 325ml Liso Intenso",
+    "Precio": "NIO 67.06",
+    "Existencias": 3,
+    "Costo": "NIO 57.00",
+    "Proveedor": "Mayz",
+    "Status": "Inactive",
+    "Vencimiento": ""
+  },
+  {
+    "SKU": "006-002852-5",
+    "Nombre": "Protector Solar Karite & Vitamina E Fps50 Vinilady 120g",
+    "Precio": "NIO 189.00",
+    "Existencias": 6,
+    "Costo": "NIO 248.00",
+    "Proveedor": "Mayz",
+    "Status": "Inactive",
+    "Vencimiento": "2024-11-01"
+  },
+  {
+    "SKU": "006-002985-8",
+    "Nombre": "Shampoo Anti Caspa Mentol For Men Vinilady 190ml",
+    "Precio": "NIO 89.00",
+    "Existencias": 45,
+    "Costo": "NIO 86.00",
+    "Proveedor": "Mayz",
+    "Status": "Active",
+    "Vencimiento": "2025-03-01"
+  },
+  {
+    "SKU": "006-003015-5",
+    "Nombre": "Kit Champu 330ml + Acond 310g Vinilady Forca Maxima",
+    "Precio": "NIO 109.00",
+    "Existencias": 12,
+    "Costo": "NIO 102.00",
+    "Proveedor": "Mayz",
+    "Status": "Inactive",
+    "Vencimiento": "2025-03-01"
+  },
+  {
+    "SKU": "006-003493-2",
+    "Nombre": "Acondicionador Vinilady Liso Intenso",
+    "Precio": "NIO 99.00",
+    "Existencias": 76,
+    "Costo": "NIO 90.00",
+    "Proveedor": "Mayz",
+    "Status": "Active",
+    "Vencimiento": "2025-03-01"
+  },
+  {
+    "SKU": "006-003830-0",
+    "Nombre": "Crema Peinar Vinilady Aguacate (Super Boom) 300ml",
+    "Precio": "NIO 67.06",
+    "Existencias": 428,
+    "Costo": "NIO 57.00",
+    "Proveedor": "Mayz",
+    "Status": "Active",
+    "Vencimiento": "2026-01-01"
+  },
+  {
+    "SKU": "006-003936-5",
+    "Nombre": "Champu Vinilady 325ml Vinilady Natural Relax",
+    "Precio": "NIO 59.00",
+    "Existencias": 29,
+    "Costo": "NIO 57.00",
+    "Proveedor": "Mayz",
+    "Status": "Active",
+    "Vencimiento": "2025-05-01"
+  },
+  {
+    "SKU": "006-003994-2",
+    "Nombre": "Champu Sachet Vinilady Brillo Intenso",
+    "Precio": "NIO 29.00",
+    "Existencias": 32,
+    "Costo": "NIO 32.00",
+    "Proveedor": "Mayz",
+    "Status": "Active",
+    "Vencimiento": "2025-02-01"
+  },
+  {
+    "SKU": "006-003995-0",
+    "Nombre": "Champu Sachet Vinilady Ondas Y Cachos",
+    "Precio": "NIO 37.65",
+    "Existencias": 1,
+    "Costo": "NIO 32.00",
+    "Proveedor": "Mayz",
+    "Status": "Inactive",
+    "Vencimiento": "2025-01-01"
+  },
+  {
+    "SKU": "006-004049-5",
+    "Nombre": "Champú Vinilady 325ml Vinilady Negro Absoluto",
+    "Precio": "NIO 67.06",
+    "Existencias": 2,
+    "Costo": "NIO 67.06",
+    "Proveedor": "Mayz",
+    "Status": "Active",
+    "Vencimiento": "2026-01-01"
+  },
+  {
+    "SKU": "006-004092-4",
+    "Nombre": "Crema Peinar Vinilady Reparación Total 290",
+    "Precio": "NIO 67.06",
+    "Existencias": 365,
+    "Costo": "NIO 57.00",
+    "Proveedor": "Mayz",
+    "Status": "Active",
+    "Vencimiento": "2025-10-01"
+  },
+  {
+    "SKU": "006-01086",
+    "Nombre": "Shampoo Olive`n Body 400ml",
+    "Precio": "NIO 75.00",
+    "Existencias": 12,
+    "Costo": "NIO 59.00",
+    "Proveedor": "Mayz",
+    "Status": "Inactive",
+    "Vencimiento": "2025-08-01"
+  },
+  {
+    "SKU": "006-102884-7",
+    "Nombre": "Champu Vinilady 325ml Ondas",
+    "Precio": "NIO 67.06",
+    "Existencias": 3,
+    "Costo": "NIO 57.00",
+    "Proveedor": "Mayz",
+    "Status": "Inactive",
+    "Vencimiento": ""
+  },
+  {
+    "SKU": "006-128713",
+    "Nombre": "Espuma P/Afeitar Majix 200ml Cool",
+    "Precio": "NIO 49.41",
+    "Existencias": 473,
+    "Costo": "NIO 42.00",
+    "Proveedor": "Mayz",
+    "Status": "Inactive",
+    "Vencimiento": "2026-12-01"
+  },
+  {
+    "SKU": "006-132574",
+    "Nombre": "Espuma P/Afeitar Janti 200ml regular",
+    "Precio": "NIO 40.00",
+    "Existencias": 212,
+    "Costo": "NIO 34.00",
+    "Proveedor": "Mayz",
+    "Status": "Active",
+    "Vencimiento": "2026-11-01"
+  },
+  {
+    "SKU": "006-132581",
+    "Nombre": "Espuma para Afeitar Janti 200ml Sensitive",
+    "Precio": "NIO 40.00",
+    "Existencias": 177,
+    "Costo": "NIO 34.00",
+    "Proveedor": "Mayz",
+    "Status": "Active",
+    "Vencimiento": "2026-11-01"
+  },
+  {
+    "SKU": "006-485514",
+    "Nombre": "Crema corporal Miya 12oz Avena",
+    "Precio": "NIO 45.00",
+    "Existencias": 223,
+    "Costo": "NIO 42.00",
+    "Proveedor": "Mayz",
+    "Status": "Active",
+    "Vencimiento": "2025-04-30"
+  },
+  {
+    "SKU": "006-485515",
+    "Nombre": "Crema corporal Aloe Miya 12 Oz",
+    "Precio": "NIO 45.00",
+    "Existencias": 278,
+    "Costo": "NIO 42.00",
+    "Proveedor": "Mayz",
+    "Status": "Active",
+    "Vencimiento": "2025-04-01"
+  },
+  {
+    "SKU": "006-485516",
+    "Nombre": "Crema Miya Corporal Cocoa 12oz",
+    "Precio": "NIO 45.00",
+    "Existencias": 645,
+    "Costo": "NIO 42.00",
+    "Proveedor": "Mayz",
+    "Status": "Active",
+    "Vencimiento": "2025-04-01"
+  },
+  {
+    "SKU": "006-alcoholGel",
+    "Nombre": "Alcohol Gel para Niñ@s",
+    "Precio": "NIO 18.00",
+    "Existencias": 2801,
+    "Costo": "NIO 18.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": ""
+  },
+  {
+    "SKU": "006-C04",
+    "Nombre": "Shampoo Miya para Niños 12oz 2 En 1",
+    "Precio": "NIO 45.00",
+    "Existencias": 5375,
+    "Costo": "NIO 42.00",
+    "Proveedor": "Mayz",
+    "Status": "Active",
+    "Vencimiento": "2025-03-01"
+  },
+  {
+    "SKU": "006-FM08890",
+    "Nombre": "Crema para Pies Fasmc 100ml",
+    "Precio": "NIO 39.00",
+    "Existencias": 313,
+    "Costo": "NIO 37.00",
+    "Proveedor": "Mayz",
+    "Status": "Inactive",
+    "Vencimiento": "2024-09-01"
+  },
+  {
+    "SKU": "006-M1647",
+    "Nombre": "Mascarilla Hidroplastica Facial de Olivo Skin White 120g",
+    "Precio": "NIO 49.00",
+    "Existencias": 756,
+    "Costo": "NIO 44.00",
+    "Proveedor": "Mayz",
+    "Status": "Active",
+    "Vencimiento": "2025-12-01"
+  },
+  {
+    "SKU": "006-M1648",
+    "Nombre": "Mascarilla Hidroplastica Facial Tea Tree 120g",
+    "Precio": "NIO 49.00",
+    "Existencias": 561,
+    "Costo": "NIO 44.00",
+    "Proveedor": "Mayz",
+    "Status": "Active",
+    "Vencimiento": "2025-12-01"
+  },
+  {
+    "SKU": "006-SP404A",
+    "Nombre": "Crema Miya Corporal 15ozs Aloe Vera",
+    "Precio": "NIO 45.00",
+    "Existencias": 2271,
+    "Costo": "NIO 42.00",
+    "Proveedor": "Mayz",
+    "Status": "Active",
+    "Vencimiento": "2025-04-28"
+  },
+  {
+    "SKU": "006-SP404B",
+    "Nombre": "Crema Miya Corporal 15ozs Vitamina E",
+    "Precio": "NIO 45.00",
+    "Existencias": 2313,
+    "Costo": "NIO 42.00",
+    "Proveedor": "Mayz",
+    "Status": "Active",
+    "Vencimiento": "2025-04-01"
+  },
+  {
+    "SKU": "006-WKL176",
+    "Nombre": "Gel Para Ducha 550ml Bamboo Wokali",
+    "Precio": "NIO 70.00",
+    "Existencias": 116,
+    "Costo": "NIO 63.00",
+    "Proveedor": "Mayz",
+    "Status": "Active",
+    "Vencimiento": "2024-10-01"
+  },
+  {
+    "SKU": "006-WKL258",
+    "Nombre": "Gel Para Ducha 550ml Lanolin Wokali",
+    "Precio": "NIO 70.00",
+    "Existencias": 33,
+    "Costo": "NIO 63.00",
+    "Proveedor": "Mayz",
+    "Status": "Active",
+    "Vencimiento": "2025-03-01"
+  },
+  {
+    "SKU": "006-WKL52931",
+    "Nombre": "Crema Blanqueadora Wokali 100ml",
+    "Precio": "NIO 75.00",
+    "Existencias": 17,
+    "Costo": "NIO 69.00",
+    "Proveedor": "Mayz",
+    "Status": "Active",
+    "Vencimiento": "2024-09-01"
+  },
+  {
+    "SKU": "006-X2096",
+    "Nombre": "Removedor Corporal de Manchas Naranja XQM 100ml",
+    "Precio": "NIO 39.00",
+    "Existencias": 682,
+    "Costo": "NIO 42.00",
+    "Proveedor": "Mayz",
+    "Status": "Active",
+    "Vencimiento": "2025-12-01"
+  },
+  {
+    "SKU": "006-X2097",
+    "Nombre": "Removedor Corporal Manchas Coconut XQM 100ml",
+    "Precio": "NIO 39.00",
+    "Existencias": 707,
+    "Costo": "NIO 42.00",
+    "Proveedor": "Mayz",
+    "Status": "Active",
+    "Vencimiento": "2025-12-01"
+  },
+  {
+    "SKU": "0455",
+    "Nombre": "Base Liquida Skinwera Efecto Mate Larga Duracion Top Face",
+    "Precio": "NIO 12.94",
+    "Existencias": 480,
+    "Costo": "NIO 11.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2026-01-01"
+  },
+  {
+    "SKU": "0457",
+    "Nombre": "Base Liquida Acabado Radiante Y Humectante Top Face",
+    "Precio": "NIO 12.94",
+    "Existencias": 216,
+    "Costo": "NIO 11.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2027-08-01"
+  },
+  {
+    "SKU": "046-U218570",
+    "Nombre": "Mascarilla Charcoal Beauty Formulas 100ml",
+    "Precio": "NIO 65.00",
+    "Existencias": 693,
+    "Costo": "NIO 59.00",
+    "Proveedor": "Mayz",
+    "Status": "Active",
+    "Vencimiento": "2025-06-01"
+  },
+  {
+    "SKU": "046-U325127",
+    "Nombre": "Parches de Gel Para Ojos Carbón Beauty Formula 6UND",
+    "Precio": "NIO 78.82",
+    "Existencias": 128,
+    "Costo": "NIO 67.00",
+    "Proveedor": "Mayz",
+    "Status": "Active",
+    "Vencimiento": "2025-12-01"
+  },
+  {
+    "SKU": "046-U401232",
+    "Nombre": "Crema Facial Hidratante de Dia Vit C Beauty Formulas 100ml",
+    "Precio": "NIO 78.82",
+    "Existencias": 756,
+    "Costo": "NIO 67.00",
+    "Proveedor": "Mayz",
+    "Status": "Active",
+    "Vencimiento": "2025-12-01"
+  },
+  {
+    "SKU": "046-U401240",
+    "Nombre": "Tónico Facial Vit C Beauty Formula 150ml",
+    "Precio": "NIO 81.18",
+    "Existencias": 423,
+    "Costo": "NIO 69.00",
+    "Proveedor": "Mayz",
+    "Status": "Active",
+    "Vencimiento": "2026-01-01"
+  },
+  {
+    "SKU": "046-U423020",
+    "Nombre": "Limpiador Facial Vit C Beauty Formula 150ml",
+    "Precio": "NIO 81.18",
+    "Existencias": 168,
+    "Costo": "NIO 69.00",
+    "Proveedor": "Mayz",
+    "Status": "Active",
+    "Vencimiento": "2026-01-01"
+  },
+  {
+    "SKU": "0460",
+    "Nombre": "Primer Top Face Para Pieles Secas Rellena & Refresca",
+    "Precio": "NIO 12.94",
+    "Existencias": 720,
+    "Costo": "NIO 11.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2027-07-01"
+  },
+  {
+    "SKU": 123,
+    "Nombre": "Bálsamo Para Labios Cute Fruit",
+    "Precio": "NIO 12.94",
+    "Existencias": 960,
+    "Costo": "NIO 11.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2026-03-01"
+  },
+  {
+    "SKU": "161-003",
+    "Nombre": "Toallas Humedas 25pcs",
+    "Precio": "NIO 16.47",
+    "Existencias": 205,
+    "Costo": "NIO 14.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2026-07-01"
+  },
+  {
+    "SKU": "161-008",
+    "Nombre": "Rizador De Pestaña Princess Art",
+    "Precio": "NIO 25.88",
+    "Existencias": 160,
+    "Costo": "NIO 22.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2029-01-01"
+  },
+  {
+    "SKU": "161-009",
+    "Nombre": "Cosmetiquera",
+    "Precio": "NIO 58.82",
+    "Existencias": 39,
+    "Costo": "NIO 50.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2029-01-01"
+  },
+  {
+    "SKU": "161-014",
+    "Nombre": "Cosmetiquera #014",
+    "Precio": "NIO 52.94",
+    "Existencias": 38,
+    "Costo": "NIO 45.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2029-01-01"
+  },
+  {
+    "SKU": "161-015",
+    "Nombre": "Cosmetiquera #015",
+    "Precio": "NIO 52.94",
+    "Existencias": 155,
+    "Costo": "NIO 45.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2029-01-01"
+  },
+  {
+    "SKU": "161-0462",
+    "Nombre": "Base Alta Cobertura Reducción De Poros",
+    "Precio": "NIO 21.18",
+    "Existencias": 528,
+    "Costo": "NIO 18.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2026-08-01"
+  },
+  {
+    "SKU": "161-065",
+    "Nombre": "Primer para rostro Kaliya Beauty Vitamina C",
+    "Precio": "NIO 12.94",
+    "Existencias": 405,
+    "Costo": "NIO 11.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2028-08-01"
+  },
+  {
+    "SKU": "161-095",
+    "Nombre": "Primer para rostro Kaliya Beauty Alta adherencia",
+    "Precio": "NIO 12.94",
+    "Existencias": 1152,
+    "Costo": "NIO 11.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2028-08-01"
+  },
+  {
+    "SKU": "161-3020",
+    "Nombre": "Primer para rostro Kaliya Beauty Aloe 16H",
+    "Precio": "NIO 12.94",
+    "Existencias": 1335,
+    "Costo": "NIO 11.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2028-08-01"
+  },
+  {
+    "SKU": "161-3024",
+    "Nombre": "Primer para rostro Kaliya Beauty Acabado húmedo definitivo",
+    "Precio": "NIO 12.94",
+    "Existencias": 1248,
+    "Costo": "NIO 11.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2028-08-01"
+  },
+  {
+    "SKU": "161-334",
+    "Nombre": "Máscara de Pestañas Big Shot",
+    "Precio": "NIO 14.12",
+    "Existencias": 288,
+    "Costo": "NIO 12.00",
+    "Proveedor": "Ushas",
+    "Status": "Inactive",
+    "Vencimiento": ""
+  },
+  {
+    "SKU": "161-Bigpuff",
+    "Nombre": "Insecticida Big Puff",
+    "Precio": "NIO 135.00",
+    "Existencias": 480,
+    "Costo": "NIO 115.00",
+    "Proveedor": "AjSiles",
+    "Status": "Inactive",
+    "Vencimiento": ""
+  },
+  {
+    "SKU": "161-SHVD1LTARG",
+    "Nombre": "Shampoo & Acondicionador Vida 1000ml Argan",
+    "Precio": "NIO 279.00",
+    "Existencias": 1518,
+    "Costo": "NIO 279.00",
+    "Proveedor": "",
+    "Status": "Active",
+    "Vencimiento": "2027-06-25"
+  },
+  {
+    "SKU": "161-SHVD1LTGR",
+    "Nombre": "Shampoo & Acondicionador Vida 1000ml Ginger",
+    "Precio": "NIO 279.00",
+    "Existencias": 1506,
+    "Costo": "NIO 279.00",
+    "Proveedor": "",
+    "Status": "Active",
+    "Vencimiento": "2027-06-25"
+  },
+  {
+    "SKU": "161-SHVD1LTKT",
+    "Nombre": "Shampoo & Acondicionador Vida 1000ml Keratina",
+    "Precio": "NIO 279.00",
+    "Existencias": 1518,
+    "Costo": "NIO 279.00",
+    "Proveedor": "",
+    "Status": "Active",
+    "Vencimiento": "2027-06-25"
+  },
+  {
+    "SKU": "161-SHVD1LTM",
+    "Nombre": "Shampoo & Acondicionador Vida 1000ml Menta",
+    "Precio": "NIO 279.00",
+    "Existencias": 1518,
+    "Costo": "NIO 279.00",
+    "Proveedor": "",
+    "Status": "Active",
+    "Vencimiento": "2027-06-24"
+  },
+  {
+    "SKU": "161-SHVD500ARG",
+    "Nombre": "Shampoo & Acondicionador Vida 500ml Argan",
+    "Precio": "NIO 169.00",
+    "Existencias": 2685,
+    "Costo": "NIO 169.00",
+    "Proveedor": "",
+    "Status": "Active",
+    "Vencimiento": "2027-06-25"
+  },
+  {
+    "SKU": "161-SHVD500GR",
+    "Nombre": "Shampoo & Acondicionador Vida 500ml Ginger",
+    "Precio": "NIO 169.00",
+    "Existencias": 2679,
+    "Costo": "NIO 169.00",
+    "Proveedor": "",
+    "Status": "Active",
+    "Vencimiento": "2027-06-25"
+  },
+  {
+    "SKU": "161-SHVD500KT",
+    "Nombre": "Shampoo & Acondicionador Vida 500ml Keratina",
+    "Precio": "NIO 169.00",
+    "Existencias": 2691,
+    "Costo": "NIO 169.00",
+    "Proveedor": "",
+    "Status": "Active",
+    "Vencimiento": "2027-06-25"
+  },
+  {
+    "SKU": "161-SHVD500M",
+    "Nombre": "Shampoo & Acondicionador Vida 500ml Menta",
+    "Precio": "NIO 169.00",
+    "Existencias": 2673,
+    "Costo": "NIO 169.00",
+    "Proveedor": "",
+    "Status": "Active",
+    "Vencimiento": "2027-06-24"
+  },
+  {
+    "SKU": "161-SHVDT500CN",
+    "Nombre": "Shampoo Tinte VIDA Castaño Natural 500ml",
+    "Precio": "NIO 129.00",
+    "Existencias": 10008,
+    "Costo": "NIO 129.00",
+    "Proveedor": "",
+    "Status": "Active",
+    "Vencimiento": "2027-06-25"
+  },
+  {
+    "SKU": "161-SHVDT500CO",
+    "Nombre": "Shampoo Tinte VIDA Castaño Oscuro 500ml",
+    "Precio": "NIO 129.00",
+    "Existencias": 10007,
+    "Costo": "NIO 129.00",
+    "Proveedor": "",
+    "Status": "Active",
+    "Vencimiento": "2027-06-25"
+  },
+  {
+    "SKU": "161-SHVDT500N",
+    "Nombre": "Shampoo Tinte VIDA Negro 500ml",
+    "Precio": "NIO 129.00",
+    "Existencias": 20063,
+    "Costo": "NIO 129.00",
+    "Proveedor": "",
+    "Status": "Active",
+    "Vencimiento": "2027-06-25"
+  },
+  {
+    "SKU": "161-TRVD500ARG",
+    "Nombre": "Tratamiento VIDA 500ml Argan",
+    "Precio": "NIO 129.00",
+    "Existencias": 1362,
+    "Costo": "NIO 129.00",
+    "Proveedor": "",
+    "Status": "Active",
+    "Vencimiento": "2027-06-25"
+  },
+  {
+    "SKU": "161-TRVD500GR",
+    "Nombre": "Tratamiento VIDA 500ml Ginger",
+    "Precio": "NIO 129.00",
+    "Existencias": 1368,
+    "Costo": "NIO 129.00",
+    "Proveedor": "",
+    "Status": "Active",
+    "Vencimiento": "2027-06-25"
+  },
+  {
+    "SKU": "161-TRVD500KT",
+    "Nombre": "Tratamiento VIDA 500ml Keratina",
+    "Precio": "NIO 129.00",
+    "Existencias": 1368,
+    "Costo": "NIO 129.00",
+    "Proveedor": "",
+    "Status": "Active",
+    "Vencimiento": "2027-06-25"
+  },
+  {
+    "SKU": "161-TRVD500M",
+    "Nombre": "Tratamiento VIDA 500ml Menta",
+    "Precio": "NIO 129.00",
+    "Existencias": 1362,
+    "Costo": "NIO 129.00",
+    "Proveedor": "",
+    "Status": "Active",
+    "Vencimiento": "2027-06-25"
+  },
+  {
+    "SKU": "161-USH-14",
+    "Nombre": "Encrespador de Pestañas Pastel Ruby",
+    "Precio": "NIO 29.41",
+    "Existencias": 24,
+    "Costo": "NIO 25.00",
+    "Proveedor": "Ushas",
+    "Status": "Inactive",
+    "Vencimiento": ""
+  },
+  {
+    "SKU": "161-USH-15",
+    "Nombre": "Encrespador de Pestañas Ruby Lashes Mood",
+    "Precio": "NIO 29.41",
+    "Existencias": 36,
+    "Costo": "NIO 25.00",
+    "Proveedor": "Ushas",
+    "Status": "Inactive",
+    "Vencimiento": "2026-01-01"
+  },
+  {
+    "SKU": "1721N-B",
+    "Nombre": "Polvo Compacto Note Worthy 1721N-B",
+    "Precio": "NIO 28.24",
+    "Existencias": 672,
+    "Costo": "NIO 24.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2027-12-01"
+  },
+  {
+    "SKU": "18-313",
+    "Nombre": "Esponja Para Cocina 5pcs 18-313",
+    "Precio": "NIO 15.73",
+    "Existencias": 142,
+    "Costo": "NIO 14.00",
+    "Proveedor": "Stay",
+    "Status": "Inactive",
+    "Vencimiento": "2029-01-01"
+  },
+  {
+    "SKU": "1808W",
+    "Nombre": "Brocha Individual Shadow Brush",
+    "Precio": "NIO 14.12",
+    "Existencias": 666,
+    "Costo": "NIO 12.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2029-01-01"
+  },
+  {
+    "SKU": 2056,
+    "Nombre": "Primer 24k Rose Silver Kaliya Beauty",
+    "Precio": "NIO 12.94",
+    "Existencias": 624,
+    "Costo": "NIO 11.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2028-08-01"
+  },
+  {
+    "SKU": 2075,
+    "Nombre": "Base Beauty City BB cream",
+    "Precio": "NIO 61.18",
+    "Existencias": 131,
+    "Costo": "NIO 52.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2027-10-01"
+  },
+  {
+    "SKU": "2118N-A",
+    "Nombre": "Polvo compacto Note Worthy Glitter Story",
+    "Precio": "NIO 28.24",
+    "Existencias": 695,
+    "Costo": "NIO 24.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2027-12-01"
+  },
+  {
+    "SKU": "21261VS-C",
+    "Nombre": "Rubor 2 en 1 Sombra y Rubor",
+    "Precio": "NIO 14.12",
+    "Existencias": 384,
+    "Costo": "NIO 12.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2026-01-01"
+  },
+  {
+    "SKU": "2188VS",
+    "Nombre": "Polvo Suelto Viktorisa Sempre",
+    "Precio": "NIO 29.41",
+    "Existencias": 948,
+    "Costo": "NIO 25.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2026-12-01"
+  },
+  {
+    "SKU": "2280-47",
+    "Nombre": "Fijador De Maquillaje Karité Aloe Vera Control de aceite y refrescante",
+    "Precio": "NIO 44.71",
+    "Existencias": 11,
+    "Costo": "NIO 38.00",
+    "Proveedor": "VB",
+    "Status": "Inactive",
+    "Vencimiento": "2028-03-22"
+  },
+  {
+    "SKU": 23526,
+    "Nombre": "Mascara Pestañas y Cejas KIKO",
+    "Precio": "NIO 14.12",
+    "Existencias": 264,
+    "Costo": "NIO 12.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2026-01-01"
+  },
+  {
+    "SKU": "2368-47",
+    "Nombre": "Fijador De Maquillaje Kiss beauty Antioxidante & Control de grasa",
+    "Precio": "NIO 56.47",
+    "Existencias": 14,
+    "Costo": "NIO 48.00",
+    "Proveedor": "VB",
+    "Status": "Inactive",
+    "Vencimiento": ""
+  },
+  {
+    "SKU": "2377-47A",
+    "Nombre": "Limpiador Facial Karité 150ml Aloe",
+    "Precio": "NIO 70.59",
+    "Existencias": 288,
+    "Costo": "NIO 60.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2028-06-01"
+  },
+  {
+    "SKU": "2377-47B",
+    "Nombre": "Limpiador Facial Karité 150ml Rosas",
+    "Precio": "NIO 70.59",
+    "Existencias": 348,
+    "Costo": "NIO 60.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2028-06-01"
+  },
+  {
+    "SKU": "2377-47C",
+    "Nombre": "Limpiador Facial Karité 150ml Vitamin E",
+    "Precio": "NIO 70.59",
+    "Existencias": 359,
+    "Costo": "NIO 60.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2028-06-01"
+  },
+  {
+    "SKU": "2929-03",
+    "Nombre": "Bálsamo Labial Aloe Kiss Beauty",
+    "Precio": "NIO 10.35",
+    "Existencias": 36,
+    "Costo": "NIO 8.80",
+    "Proveedor": "VB",
+    "Status": "Inactive",
+    "Vencimiento": "2028-12-01"
+  },
+  {
+    "SKU": "2950-47ABCDEF",
+    "Nombre": "Bálsamo Labial de Karité",
+    "Precio": "NIO 11.76",
+    "Existencias": 528,
+    "Costo": "NIO 10.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2028-03-01"
+  },
+  {
+    "SKU": 30640,
+    "Nombre": "Esponja De Silicona Delicate",
+    "Precio": "NIO 17.65",
+    "Existencias": 336,
+    "Costo": "NIO 15.00",
+    "Proveedor": "Mayz",
+    "Status": "Inactive",
+    "Vencimiento": "2029-01-01"
+  },
+  {
+    "SKU": "35002-1",
+    "Nombre": "Lapiz Labial Mate Beauty Model Matte 35002-1",
+    "Precio": "NIO 12.94",
+    "Existencias": 978,
+    "Costo": "NIO 11.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2027-06-01"
+  },
+  {
+    "SKU": 35006,
+    "Nombre": "Lapiz labial Matte Beauty Model",
+    "Precio": "NIO 12.94",
+    "Existencias": 312,
+    "Costo": "NIO 11.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2028-06-01"
+  },
+  {
+    "SKU": "35008-1",
+    "Nombre": "Lapiz Labial Mate Beauty Model Matte 35008-1",
+    "Precio": "NIO 12.94",
+    "Existencias": 666,
+    "Costo": "NIO 11.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2027-09-01"
+  },
+  {
+    "SKU": 35010,
+    "Nombre": "Lápiz Labial Mate Beauty Model Matte 35010",
+    "Precio": "NIO 12.94",
+    "Existencias": 768,
+    "Costo": "NIO 11.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2027-07-01"
+  },
+  {
+    "SKU": "36380-47",
+    "Nombre": "Labial Matte Karité",
+    "Precio": "NIO 17.65",
+    "Existencias": 1368,
+    "Costo": "NIO 15.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2028-04-01"
+  },
+  {
+    "SKU": "5090A",
+    "Nombre": "Labial Matte 26H-A",
+    "Precio": "NIO 9.41",
+    "Existencias": 90,
+    "Costo": "NIO 8.00",
+    "Proveedor": "Ushas",
+    "Status": "Inactive",
+    "Vencimiento": "2026-08-01"
+  },
+  {
+    "SKU": "5090B",
+    "Nombre": "Labial Matte 26H B",
+    "Precio": "NIO 9.41",
+    "Existencias": 144,
+    "Costo": "NIO 8.00",
+    "Proveedor": "Ushas",
+    "Status": "Inactive",
+    "Vencimiento": "2028-08-01"
+  },
+  {
+    "SKU": 5323,
+    "Nombre": "Lápiz Labial Huda Beauty Matte 5323",
+    "Precio": "NIO 14.12",
+    "Existencias": 617,
+    "Costo": "NIO 12.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2026-01-01"
+  },
+  {
+    "SKU": 5338,
+    "Nombre": "Lápiz Labial CHANLANYA Matte 5338",
+    "Precio": "NIO 14.12",
+    "Existencias": 960,
+    "Costo": "NIO 12.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2026-01-01"
+  },
+  {
+    "SKU": 5360,
+    "Nombre": "Lápiz Labial CHANLANYA Matte 5360",
+    "Precio": "NIO 14.12",
+    "Existencias": 312,
+    "Costo": "NIO 12.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2026-01-01"
+  },
+  {
+    "SKU": 5389,
+    "Nombre": "Labial Matte Chanlanya",
+    "Precio": "NIO 18.00",
+    "Existencias": 192,
+    "Costo": "NIO 14.05",
+    "Proveedor": "BISUTERIA",
+    "Status": "Active",
+    "Vencimiento": "2028-01-01"
+  },
+  {
+    "SKU": 5513,
+    "Nombre": "Lápiz Labial CHANLANYA Matte 5513",
+    "Precio": "NIO 14.12",
+    "Existencias": 1200,
+    "Costo": "NIO 12.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2027-01-01"
+  },
+  {
+    "SKU": "56821-03",
+    "Nombre": "Máscara gel para ceja 3D Kiss Beauty",
+    "Precio": "NIO 31.75",
+    "Existencias": 24,
+    "Costo": "NIO 27.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2028-01-01"
+  },
+  {
+    "SKU": "56839-03",
+    "Nombre": "Gel Para Cejas Invisible",
+    "Precio": "NIO 23.53",
+    "Existencias": 227,
+    "Costo": "NIO 20.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2028-06-01"
+  },
+  {
+    "SKU": "56853-47",
+    "Nombre": "Mascara pestaña Karite 56853-47",
+    "Precio": "NIO 25.88",
+    "Existencias": 144,
+    "Costo": "NIO 22.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2027-11-01"
+  },
+  {
+    "SKU": "56939-03HA",
+    "Nombre": "Gel de cejas con Ácido Hialurónico",
+    "Precio": "NIO 21.18",
+    "Existencias": 432,
+    "Costo": "NIO 18.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2028-04-01"
+  },
+  {
+    "SKU": "56964-47",
+    "Nombre": "Mascara Para Pestañas Transparente",
+    "Precio": "NIO 25.88",
+    "Existencias": 180,
+    "Costo": "NIO 22.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2028-07-01"
+  },
+  {
+    "SKU": 5786,
+    "Nombre": "Lápiz Labial Mate Golden Rose",
+    "Precio": "NIO 20.00",
+    "Existencias": 96,
+    "Costo": "NIO 15.81",
+    "Proveedor": "BISUTERIA",
+    "Status": "Active",
+    "Vencimiento": "2028-10-01"
+  },
+  {
+    "SKU": 6001,
+    "Nombre": "Protector Solar",
+    "Precio": "NIO 32.94",
+    "Existencias": 645,
+    "Costo": "NIO 28.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2025-05-01"
+  },
+  {
+    "SKU": 6038,
+    "Nombre": "Tinte agua para Labios Victorias",
+    "Precio": "NIO 24.00",
+    "Existencias": 36,
+    "Costo": "NIO 18.45",
+    "Proveedor": "BISUTERIA",
+    "Status": "Inactive",
+    "Vencimiento": "2026-01-01"
+  },
+  {
+    "SKU": "628F",
+    "Nombre": "Paleta Sombra, Blush, Iluminador, Glitter Tutu Time",
+    "Precio": "NIO 94.00",
+    "Existencias": 120,
+    "Costo": "NIO 74.66",
+    "Proveedor": "BISUTERIA",
+    "Status": "Active",
+    "Vencimiento": "2029-03-25"
+  },
+  {
+    "SKU": "68532-47A",
+    "Nombre": "Protector Solar Karité 60ml SPF90",
+    "Precio": "NIO 37.65",
+    "Existencias": 129,
+    "Costo": "NIO 32.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2028-08-01"
+  },
+  {
+    "SKU": "68555-03",
+    "Nombre": "Primer Beauty Plump Prime",
+    "Precio": "NIO 56.47",
+    "Existencias": 156,
+    "Costo": "NIO 48.00",
+    "Proveedor": "VB",
+    "Status": "Inactive",
+    "Vencimiento": "2028-06-01"
+  },
+  {
+    "SKU": "68603-47",
+    "Nombre": "Corrector Super BB",
+    "Precio": "NIO 21.18",
+    "Existencias": 384,
+    "Costo": "NIO 18.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2028-05-01"
+  },
+  {
+    "SKU": "68960-03CN",
+    "Nombre": "Protector Solar 90+",
+    "Precio": "NIO 35.29",
+    "Existencias": 3,
+    "Costo": "NIO 30.00",
+    "Proveedor": "VB",
+    "Status": "Inactive",
+    "Vencimiento": "2028-09-01"
+  },
+  {
+    "SKU": "7152E",
+    "Nombre": "Lapiz Labial Mate",
+    "Precio": "NIO 21.18",
+    "Existencias": 975,
+    "Costo": "NIO 18.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2027-06-01"
+  },
+  {
+    "SKU": "7166E",
+    "Nombre": "Labial Ever Beauty",
+    "Precio": "NIO 23.53",
+    "Existencias": 672,
+    "Costo": "NIO 20.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2028-01-01"
+  },
+  {
+    "SKU": 7233,
+    "Nombre": "Lipgloss Filler Ever Beauty",
+    "Precio": "NIO 18.82",
+    "Existencias": 2,
+    "Costo": "NIO 16.00",
+    "Proveedor": "VB",
+    "Status": "Inactive",
+    "Vencimiento": "2028-08-01"
+  },
+  {
+    "SKU": 8138,
+    "Nombre": "Sombra AnyLady Little",
+    "Precio": "NIO 35.29",
+    "Existencias": 695,
+    "Costo": "NIO 30.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2027-06-01"
+  },
+  {
+    "SKU": 8158,
+    "Nombre": "Sombra AnyLady",
+    "Precio": "NIO 44.71",
+    "Existencias": 401,
+    "Costo": "NIO 38.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2027-05-01"
+  },
+  {
+    "SKU": "8166-01#",
+    "Nombre": "Sombra para Ojos Anylady Believe in yourselve",
+    "Precio": "NIO 64.71",
+    "Existencias": 24,
+    "Costo": "NIO 55.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2027-03-05"
+  },
+  {
+    "SKU": 8171,
+    "Nombre": "Sombra AnyLady Only You",
+    "Precio": "NIO 41.18",
+    "Existencias": 1581,
+    "Costo": "NIO 35.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2027-06-01"
+  },
+  {
+    "SKU": 8243,
+    "Nombre": "Mascara Para Pies",
+    "Precio": "NIO 35.29",
+    "Existencias": 36,
+    "Costo": "NIO 30.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2025-12-01"
+  },
+  {
+    "SKU": 8294,
+    "Nombre": "Mascara de Pestañas 24H Sky High",
+    "Precio": "NIO 18.82",
+    "Existencias": 839,
+    "Costo": "NIO 16.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2025-12-01"
+  },
+  {
+    "SKU": 8342,
+    "Nombre": "Balsamo + Exfoliante Labial",
+    "Precio": "NIO 32.94",
+    "Existencias": 1,
+    "Costo": "NIO 28.00",
+    "Proveedor": "VB",
+    "Status": "Inactive",
+    "Vencimiento": ""
+  },
+  {
+    "SKU": "85377-03",
+    "Nombre": "Fijador de polvo suelto Kiss Beauty",
+    "Precio": "NIO 30.50",
+    "Existencias": 12,
+    "Costo": "NIO 25.60",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2028-10-01"
+  },
+  {
+    "SKU": "8658FC",
+    "Nombre": "Sombra para Ojos Sombra, Iluminador, Blush Anylady",
+    "Precio": "NIO 97.00",
+    "Existencias": 108,
+    "Costo": "NIO 76.86",
+    "Proveedor": "BISUTERIA",
+    "Status": "Active",
+    "Vencimiento": "2028-04-01"
+  },
+  {
+    "SKU": "8658FD",
+    "Nombre": "Sombra Wild Sombra, Iluminador, Blush Anylady",
+    "Precio": "NIO 97.00",
+    "Existencias": 96,
+    "Costo": "NIO 76.86",
+    "Proveedor": "BISUTERIA",
+    "Status": "Active",
+    "Vencimiento": "2028-01-01"
+  },
+  {
+    "SKU": "8658FF",
+    "Nombre": "Paleta Sombra, Blush e Iluminador Anylady",
+    "Precio": "NIO 97.00",
+    "Existencias": 60,
+    "Costo": "NIO 76.86",
+    "Proveedor": "BISUTERIA",
+    "Status": "Active",
+    "Vencimiento": "2028-04-01"
+  },
+  {
+    "SKU": "8658FI",
+    "Nombre": "Sombra Blush, Vanidad y Labial Anylady",
+    "Precio": "NIO 97.00",
+    "Existencias": 96,
+    "Costo": "NIO 76.86",
+    "Proveedor": "BISUTERIA",
+    "Status": "Active",
+    "Vencimiento": "2028-01-03"
+  },
+  {
+    "SKU": 878,
+    "Nombre": "Sombra AnyLady",
+    "Precio": "NIO 28.24",
+    "Existencias": 624,
+    "Costo": "NIO 24.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2027-05-01"
+  },
+  {
+    "SKU": "8814F-32",
+    "Nombre": "Sombra todo en uno, Blush, Polvo, Crema para labios Anylady",
+    "Precio": "NIO 92.00",
+    "Existencias": 84,
+    "Costo": "NIO 73.35",
+    "Proveedor": "BISUTERIA",
+    "Status": "Active",
+    "Vencimiento": "2027-12-30"
+  },
+  {
+    "SKU": "8814H-69",
+    "Nombre": "Sombra todo en uno, Blush, Polvo, Sombra Anylady",
+    "Precio": "NIO 92.00",
+    "Existencias": 72,
+    "Costo": "NIO 73.35",
+    "Proveedor": "BISUTERIA",
+    "Status": "Active",
+    "Vencimiento": "2030-12-27"
+  },
+  {
+    "SKU": "8842E",
+    "Nombre": "Corrector Mate Ever Beauty 8842E",
+    "Precio": "NIO 21.18",
+    "Existencias": 179,
+    "Costo": "NIO 18.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2028-07-01"
+  },
+  {
+    "SKU": "8843E",
+    "Nombre": "Corrector Mate Ever Beauty 8843E",
+    "Precio": "NIO 21.18",
+    "Existencias": 696,
+    "Costo": "NIO 18.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2028-07-01"
+  },
+  {
+    "SKU": "8844E",
+    "Nombre": "Corrector Mate Ever Beauty 8844E",
+    "Precio": "NIO 21.18",
+    "Existencias": 467,
+    "Costo": "NIO 18.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2028-06-01"
+  },
+  {
+    "SKU": "9206N",
+    "Nombre": "Polvo Compacto Note Flash Touch 9206N",
+    "Precio": "NIO 21.18",
+    "Existencias": 840,
+    "Costo": "NIO 18.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2026-01-01"
+  },
+  {
+    "SKU": "9206N-L9",
+    "Nombre": "Polvo compacto Note Worthy Flash touch 9206N-L9",
+    "Precio": "NIO 27.06",
+    "Existencias": 1008,
+    "Costo": "NIO 23.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2026-01-01"
+  },
+  {
+    "SKU": 9218,
+    "Nombre": "Labios mas carnosos Chanlanya",
+    "Precio": "NIO 21.00",
+    "Existencias": 120,
+    "Costo": "NIO 16.69",
+    "Proveedor": "BISUTERIA",
+    "Status": "Active",
+    "Vencimiento": "2029-01-01"
+  },
+  {
+    "SKU": 9219,
+    "Nombre": "Labios mas carnosos Chanlanya",
+    "Precio": "NIO 21.00",
+    "Existencias": 96,
+    "Costo": "NIO 16.69",
+    "Proveedor": "BISUTERIA",
+    "Status": "Active",
+    "Vencimiento": "2029-01-01"
+  },
+  {
+    "SKU": "9301N-B",
+    "Nombre": "Polvo compacto Note Worthy Natural nude",
+    "Precio": "NIO 28.24",
+    "Existencias": 528,
+    "Costo": "NIO 24.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2027-12-01"
+  },
+  {
+    "SKU": "9301VS",
+    "Nombre": "Rubor Victorisa Sempre",
+    "Precio": "NIO 28.24",
+    "Existencias": 815,
+    "Costo": "NIO 24.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2027-12-01"
+  },
+  {
+    "SKU": 953,
+    "Nombre": "Blush 4 colores Anylady",
+    "Precio": "NIO 41.20",
+    "Existencias": 160,
+    "Costo": "NIO 35.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2027-04-01"
+  },
+  {
+    "SKU": "9603V",
+    "Nombre": "Polvo Compacto + Rubor Viktorisa Sempre",
+    "Precio": "NIO 37.65",
+    "Existencias": 60,
+    "Costo": "NIO 32.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2027-12-01"
+  },
+  {
+    "SKU": 974,
+    "Nombre": "Sombra AnyLady Dream Big",
+    "Precio": "NIO 47.06",
+    "Existencias": 96,
+    "Costo": "NIO 40.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2027-05-01"
+  },
+  {
+    "SKU": "9815V",
+    "Nombre": "Polvo Compacto 2 en 1 Viktorisa Sempre",
+    "Precio": "NIO 28.24",
+    "Existencias": 696,
+    "Costo": "NIO 24.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2026-12-01"
+  },
+  {
+    "SKU": "994-01#",
+    "Nombre": "Sombra Anylady 15 tonos #1",
+    "Precio": "NIO 47.06",
+    "Existencias": 84,
+    "Costo": "NIO 40.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2027-06-01"
+  },
+  {
+    "SKU": "994-02#",
+    "Nombre": "Sombra Anylady 15 tonos #2",
+    "Precio": "NIO 47.06",
+    "Existencias": 84,
+    "Costo": "NIO 40.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2027-03-01"
+  },
+  {
+    "SKU": "A-3495",
+    "Nombre": "Polvo Compacto Mayeiline A-3495",
+    "Precio": "NIO 35.29",
+    "Existencias": 839,
+    "Costo": "NIO 30.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2028-05-01"
+  },
+  {
+    "SKU": "A-3496",
+    "Nombre": "Polvo Compacto Mayeiline A-3496",
+    "Precio": "NIO 35.29",
+    "Existencias": 828,
+    "Costo": "NIO 30.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2028-05-01"
+  },
+  {
+    "SKU": "A052",
+    "Nombre": "Delineador Note",
+    "Precio": "NIO 18.00",
+    "Existencias": 72,
+    "Costo": "NIO 14.05",
+    "Proveedor": "BISUTERIA",
+    "Status": "Active",
+    "Vencimiento": "2028-01-01"
+  },
+  {
+    "SKU": "A163",
+    "Nombre": "Delineador doble a prueba de Agua",
+    "Precio": "NIO 24.00",
+    "Existencias": 240,
+    "Costo": "NIO 18.45",
+    "Proveedor": "BISUTERIA",
+    "Status": "Active",
+    "Vencimiento": "2025-12-01"
+  },
+  {
+    "SKU": "AC3141",
+    "Nombre": "Contorno De Ojos Hidratante Y Aclarante De Arroz Aichun Beauty 25ml",
+    "Precio": "NIO 32.94",
+    "Existencias": 120,
+    "Costo": "NIO 28.00",
+    "Proveedor": "VB",
+    "Status": "Inactive",
+    "Vencimiento": "2027-12-01"
+  },
+  {
+    "SKU": "AC3219",
+    "Nombre": "Set 3 piezas SkinCare Colageno, Vit C, Acido Hialuronico 30ml Aichun",
+    "Precio": "NIO 94.12",
+    "Existencias": 218,
+    "Costo": "NIO 80.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2028-06-01"
+  },
+  {
+    "SKU": "B0015-BD-1",
+    "Nombre": "Body Spray Fly Away 250ml",
+    "Precio": "NIO 75.80",
+    "Existencias": 9,
+    "Costo": "NIO 75.80",
+    "Proveedor": "Ushas",
+    "Status": "Active",
+    "Vencimiento": "2028-12-01"
+  },
+  {
+    "SKU": "B0015-BD-23",
+    "Nombre": "Body Spray Pasco Pappu 250ml",
+    "Precio": "NIO 75.80",
+    "Existencias": 9,
+    "Costo": "NIO 68.25",
+    "Proveedor": "Ushas",
+    "Status": "Inactive",
+    "Vencimiento": "2028-12-01"
+  },
+  {
+    "SKU": "B0015-BD-55",
+    "Nombre": "Body Spray Glisten Paris 250ml",
+    "Precio": "NIO 75.80",
+    "Existencias": 36,
+    "Costo": "NIO 68.25",
+    "Proveedor": "Ushas",
+    "Status": "Inactive",
+    "Vencimiento": "2028-12-01"
+  },
+  {
+    "SKU": "B0015-BD-8",
+    "Nombre": "Body Spray Thirll 250ml",
+    "Precio": "NIO 75.80",
+    "Existencias": 12,
+    "Costo": "NIO 68.25",
+    "Proveedor": "Ushas",
+    "Status": "Inactive",
+    "Vencimiento": "2028-12-01"
+  },
+  {
+    "SKU": "B0015-CJN",
+    "Nombre": "Body Spray Corporal 250ml",
+    "Precio": "NIO 79.30",
+    "Existencias": 24,
+    "Costo": "NIO 71.40",
+    "Proveedor": "Ushas",
+    "Status": "Inactive",
+    "Vencimiento": "2028-12-01"
+  },
+  {
+    "SKU": "B0015-HB",
+    "Nombre": "Body Spray Corporal 250ml",
+    "Precio": "NIO 79.30",
+    "Existencias": 24,
+    "Costo": "NIO 71.40",
+    "Proveedor": "Ushas",
+    "Status": "Inactive",
+    "Vencimiento": "2028-12-01"
+  },
+  {
+    "SKU": "B0015-RL",
+    "Nombre": "Body Spray Corporal 250ml",
+    "Precio": "NIO 79.30",
+    "Existencias": 24,
+    "Costo": "NIO 71.40",
+    "Proveedor": "Ushas",
+    "Status": "Inactive",
+    "Vencimiento": "2028-12-01"
+  },
+  {
+    "SKU": "B0021-GE",
+    "Nombre": "Body Spray Pink In Sweet 250ml",
+    "Precio": "NIO 75.29",
+    "Existencias": 10,
+    "Costo": "NIO 71.40",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2029-02-01"
+  },
+  {
+    "SKU": "B0021-LA",
+    "Nombre": "Body Spray 250ml Pink and Sweet B0021-LA",
+    "Precio": "NIO 75.29",
+    "Existencias": 77,
+    "Costo": "NIO 64.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2029-01-01"
+  },
+  {
+    "SKU": "B0021-RC",
+    "Nombre": "Body Spray Pink in Sweet 250ml",
+    "Precio": "NIO 79.30",
+    "Existencias": 24,
+    "Costo": "NIO 71.40",
+    "Proveedor": "VB",
+    "Status": "Inactive",
+    "Vencimiento": ""
+  },
+  {
+    "SKU": "B0023-CC",
+    "Nombre": "Loción Corporal Pink in Sweet B0023-CC",
+    "Precio": "NIO 56.47",
+    "Existencias": 12,
+    "Costo": "NIO 48.00",
+    "Proveedor": "Ushas",
+    "Status": "Inactive",
+    "Vencimiento": ""
+  },
+  {
+    "SKU": "B0025-BV",
+    "Nombre": "Loción Corporal Pink in Sweet 88g",
+    "Precio": "NIO 29.41",
+    "Existencias": 69,
+    "Costo": "NIO 25.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": ""
+  },
+  {
+    "SKU": "B0025-ELF",
+    "Nombre": "Loción Corporal Pink in Sweet 88g",
+    "Precio": "NIO 29.41",
+    "Existencias": 48,
+    "Costo": "NIO 25.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2026-03-01"
+  },
+  {
+    "SKU": "B0042-BM",
+    "Nombre": "Spray fragancia para cabello Pink in Sweet 100ml",
+    "Precio": "NIO 37.65",
+    "Existencias": 4,
+    "Costo": "NIO 32.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2028-05-01"
+  },
+  {
+    "SKU": "B0042-DOT",
+    "Nombre": "Spray fragancia para cabello Pink in Sweet 100ml",
+    "Precio": "NIO 37.65",
+    "Existencias": 60,
+    "Costo": "NIO 32.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": ""
+  },
+  {
+    "SKU": "B0045-BD-12",
+    "Nombre": "Perfume Innovator tubular 35ml",
+    "Precio": "NIO 21.18",
+    "Existencias": 1,
+    "Costo": "NIO 16.00",
+    "Proveedor": "VB",
+    "Status": "Inactive",
+    "Vencimiento": ""
+  },
+  {
+    "SKU": "B0060-IV",
+    "Nombre": "Set de body Pink in Sweet 4pcs 20ml",
+    "Precio": "NIO 65.88",
+    "Existencias": 31,
+    "Costo": "NIO 56.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2028-10-01"
+  },
+  {
+    "SKU": "B0060-LO",
+    "Nombre": "Set de body Pink in Sweet 4pcs 20ml",
+    "Precio": "NIO 65.88",
+    "Existencias": 16,
+    "Costo": "NIO 56.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2028-10-01"
+  },
+  {
+    "SKU": "B0060-TF",
+    "Nombre": "Set de body Pink in Sweet 4pcs 20ml",
+    "Precio": "NIO 65.88",
+    "Existencias": 5,
+    "Costo": "NIO 56.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2028-03-26"
+  },
+  {
+    "SKU": "B35",
+    "Nombre": "Perfume Tom Ford Tuscan Leather 100ml",
+    "Precio": "NIO 129.41",
+    "Existencias": 22,
+    "Costo": "NIO 110.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": ""
+  },
+  {
+    "SKU": "B36",
+    "Nombre": "Perfume Tom Ford Fabulous 100ml",
+    "Precio": "NIO 129.41",
+    "Existencias": 48,
+    "Costo": "NIO 110.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": ""
+  },
+  {
+    "SKU": "B37",
+    "Nombre": "Perfume Tom Ford Oud wood 100ml",
+    "Precio": "NIO 129.41",
+    "Existencias": 48,
+    "Costo": "NIO 110.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": ""
+  },
+  {
+    "SKU": "B38",
+    "Nombre": "Perfume Tom Ford Fkg. fabulous 100ml",
+    "Precio": "NIO 129.41",
+    "Existencias": 49,
+    "Costo": "NIO 110.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": ""
+  },
+  {
+    "SKU": "B51",
+    "Nombre": "Primer Mac Skin Base Visage",
+    "Precio": "NIO 35.29",
+    "Existencias": 1332,
+    "Costo": "NIO 30.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2027-04-01"
+  },
+  {
+    "SKU": "B518-1",
+    "Nombre": "Perfume 2i2 Red 100ml",
+    "Precio": "NIO 65.88",
+    "Existencias": 14,
+    "Costo": "NIO 56.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2028-08-01"
+  },
+  {
+    "SKU": "B693",
+    "Nombre": "Perfume Giiq",
+    "Precio": "NIO 72.00",
+    "Existencias": 71,
+    "Costo": "NIO 72.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": ""
+  },
+  {
+    "SKU": "B7031",
+    "Nombre": "Lapiz Labial Mate Beauty Model 24hr",
+    "Precio": "NIO 12.94",
+    "Existencias": 672,
+    "Costo": "NIO 11.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2027-05-01"
+  },
+  {
+    "SKU": "B721",
+    "Nombre": "Perfume Invictus Gris",
+    "Precio": "NIO 109.00",
+    "Existencias": 120,
+    "Costo": "NIO 99.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": ""
+  },
+  {
+    "SKU": "B721-2",
+    "Nombre": "Perfume Invictus Aqua 100ml",
+    "Precio": "NIO 109.00",
+    "Existencias": 124,
+    "Costo": "NIO 90.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": ""
+  },
+  {
+    "SKU": "B721-3",
+    "Nombre": "Perfume Invictus Negro",
+    "Precio": "NIO 109.00",
+    "Existencias": 120,
+    "Costo": "NIO 90.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": ""
+  },
+  {
+    "SKU": "B721-4",
+    "Nombre": "Perfume Invictus Blue 100ml",
+    "Precio": "NIO 109.00",
+    "Existencias": 122,
+    "Costo": "NIO 90.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": ""
+  },
+  {
+    "SKU": "B853",
+    "Nombre": "Perfume Boos The Scent Brown 100ml",
+    "Precio": "NIO 89.00",
+    "Existencias": 86,
+    "Costo": "NIO 75.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": ""
+  },
+  {
+    "SKU": "B9",
+    "Nombre": "Perfume Aventus Creed 100ml",
+    "Precio": "NIO 141.18",
+    "Existencias": 90,
+    "Costo": "NIO 120.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": ""
+  },
+  {
+    "SKU": "B926",
+    "Nombre": "Perfume I Can",
+    "Precio": "NIO 85.00",
+    "Existencias": 36,
+    "Costo": "NIO 72.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": ""
+  },
+  {
+    "SKU": "B949-1",
+    "Nombre": "Perfume Oud Wood para hombre 100ml",
+    "Precio": "NIO 88.24",
+    "Existencias": 234,
+    "Costo": "NIO 75.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2028-09-01"
+  },
+  {
+    "SKU": "BD-4",
+    "Nombre": "Perfume 2i2 Party 100ml",
+    "Precio": "NIO 42.35",
+    "Existencias": 1,
+    "Costo": "NIO 36.00",
+    "Proveedor": "VB",
+    "Status": "Inactive",
+    "Vencimiento": "2028-07-12"
+  },
+  {
+    "SKU": "BOCR/009",
+    "Nombre": "Body 3 Pzas Pink in Sweet BOCR-009",
+    "Precio": "NIO 74.12",
+    "Existencias": 1,
+    "Costo": "NIO 63.00",
+    "Proveedor": "VB",
+    "Status": "Inactive",
+    "Vencimiento": ""
+  },
+  {
+    "SKU": "BQY74930",
+    "Nombre": "Mascarilla Facial Hidratante de Pepino",
+    "Precio": "NIO 4.71",
+    "Existencias": 10,
+    "Costo": "NIO 4.00",
+    "Proveedor": "VB",
+    "Status": "Inactive",
+    "Vencimiento": "2026-04-01"
+  },
+  {
+    "SKU": "BX-330",
+    "Nombre": "Esponja para maquillar 3pcs Kiss Lovely",
+    "Precio": "NIO 14.12",
+    "Existencias": 612,
+    "Costo": "NIO 12.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2029-01-01"
+  },
+  {
+    "SKU": "BX-3503",
+    "Nombre": "Perfiladora De Ceja",
+    "Precio": "NIO 16.47",
+    "Existencias": 764,
+    "Costo": "NIO 14.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2029-01-01"
+  },
+  {
+    "SKU": "BX-414",
+    "Nombre": "Kit para Uñas 4 Pzs",
+    "Precio": "NIO 31.76",
+    "Existencias": 287,
+    "Costo": "NIO 27.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2029-01-01"
+  },
+  {
+    "SKU": "BX-842",
+    "Nombre": "Encrespadora de Pestaña",
+    "Precio": "NIO 21.18",
+    "Existencias": 920,
+    "Costo": "NIO 18.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2029-01-01"
+  },
+  {
+    "SKU": "BX3535",
+    "Nombre": "Set De Maquillaje",
+    "Precio": "NIO 105.88",
+    "Existencias": 20,
+    "Costo": "NIO 90.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2026-01-01"
+  },
+  {
+    "SKU": "BX3600",
+    "Nombre": "Pegamento Para Uñas",
+    "Precio": "NIO 10.59",
+    "Existencias": 624,
+    "Costo": "NIO 9.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2025-12-01"
+  },
+  {
+    "SKU": "BX3612",
+    "Nombre": "Set De Limpieza Facial",
+    "Precio": "NIO 76.47",
+    "Existencias": 101,
+    "Costo": "NIO 65.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2029-01-01"
+  },
+  {
+    "SKU": "BX3626",
+    "Nombre": "Piedra Jade",
+    "Precio": "NIO 32.94",
+    "Existencias": 1080,
+    "Costo": "NIO 28.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2029-01-01"
+  },
+  {
+    "SKU": "C008",
+    "Nombre": "Esponja para maquillar 6 Piezas Kiss Lovely C008",
+    "Precio": "NIO 22.35",
+    "Existencias": 384,
+    "Costo": "NIO 19.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2029-01-01"
+  },
+  {
+    "SKU": "C009",
+    "Nombre": "Esponja para maquillar 6 Piezas Kiss Lovely C009",
+    "Precio": "NIO 22.35",
+    "Existencias": 81,
+    "Costo": "NIO 19.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2029-01-01"
+  },
+  {
+    "SKU": "C013",
+    "Nombre": "Esponjas para maquillar Kiss Lovely C013",
+    "Precio": "NIO 23.53",
+    "Existencias": 36,
+    "Costo": "NIO 20.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2029-01-01"
+  },
+  {
+    "SKU": "C3120",
+    "Nombre": "Limpiador Facial Arroz Natural Aichum Beauty Nutre La Piel 100ml",
+    "Precio": "NIO 47.06",
+    "Existencias": 10,
+    "Costo": "NIO 40.00",
+    "Proveedor": "VB",
+    "Status": "Inactive",
+    "Vencimiento": "2028-07-01"
+  },
+  {
+    "SKU": "C3142",
+    "Nombre": "Tonico Facial de Arroz Aichum Beauty Nutre Y Aclara 100ml",
+    "Precio": "NIO 41.18",
+    "Existencias": 83,
+    "Costo": "NIO 35.00",
+    "Proveedor": "VB",
+    "Status": "Inactive",
+    "Vencimiento": "2028-07-01"
+  },
+  {
+    "SKU": "CD-002",
+    "Nombre": "Perfume You Crack Me Up 200ml",
+    "Precio": "NIO 82.35",
+    "Existencias": 1,
+    "Costo": "NIO 70.00",
+    "Proveedor": "VB",
+    "Status": "Inactive",
+    "Vencimiento": ""
+  },
+  {
+    "SKU": "CE482",
+    "Nombre": "Sombra Glamor + Glitter",
+    "Precio": "NIO 47.50",
+    "Existencias": 120,
+    "Costo": "NIO 40.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2027-11-01"
+  },
+  {
+    "SKU": "CL812",
+    "Nombre": "Base de Maquillaje Scanlon CL812",
+    "Precio": "NIO 47.06",
+    "Existencias": 12,
+    "Costo": "NIO 40.00",
+    "Proveedor": "VB",
+    "Status": "Inactive",
+    "Vencimiento": "2026-01-01"
+  },
+  {
+    "SKU": "CL814",
+    "Nombre": "Corrector Scanlon Alta Cobertura",
+    "Precio": "NIO 15.29",
+    "Existencias": 336,
+    "Costo": "NIO 13.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2026-01-01"
+  },
+  {
+    "SKU": "CL822",
+    "Nombre": "Corrector Liquido Scanlon CL822",
+    "Precio": "NIO 16.47",
+    "Existencias": 384,
+    "Costo": "NIO 14.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2027-01-01"
+  },
+  {
+    "SKU": "CM-072",
+    "Nombre": "Mascara hidratante para pechos Chovemoar",
+    "Precio": "NIO 9.00",
+    "Existencias": 120,
+    "Costo": "NIO 7.03",
+    "Proveedor": "BISUTERIA",
+    "Status": "Active",
+    "Vencimiento": "2026-08-01"
+  },
+  {
+    "SKU": "COM015",
+    "Nombre": "Toalla desmaquillante 25pcs",
+    "Precio": "NIO 18.82",
+    "Existencias": 55,
+    "Costo": "NIO 16.00",
+    "Proveedor": "VB",
+    "Status": "Inactive",
+    "Vencimiento": ""
+  },
+  {
+    "SKU": "COM024",
+    "Nombre": "Toalla desinfectante 75% alcohol 10pcs",
+    "Precio": "NIO 13.50",
+    "Existencias": 1193,
+    "Costo": "NIO 12.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2026-10-01"
+  },
+  {
+    "SKU": "CS043",
+    "Nombre": "Esponja para maquillar 6pcs Envase Plastico",
+    "Precio": "NIO 18.82",
+    "Existencias": 683,
+    "Costo": "NIO 16.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2029-01-01"
+  },
+  {
+    "SKU": "CS406B",
+    "Nombre": "Kit Corrector de Ojeras Ushas B",
+    "Precio": "NIO 97.65",
+    "Existencias": 12,
+    "Costo": "NIO 83.00",
+    "Proveedor": "Ushas",
+    "Status": "Inactive",
+    "Vencimiento": "2028-09-01"
+  },
+  {
+    "SKU": "CX2059",
+    "Nombre": "Lápiz Labial 24 hrs",
+    "Precio": "NIO 20.00",
+    "Existencias": 192,
+    "Costo": "NIO 15.81",
+    "Proveedor": "BISUTERIA",
+    "Status": "Active",
+    "Vencimiento": "2027-01-01"
+  },
+  {
+    "SKU": "CX2171",
+    "Nombre": "Lápiz Labial Comfor Beauty",
+    "Precio": "NIO 20.00",
+    "Existencias": 192,
+    "Costo": "NIO 15.81",
+    "Proveedor": "BISUTERIA",
+    "Status": "Active",
+    "Vencimiento": "2027-01-01"
+  },
+  {
+    "SKU": "CX2186",
+    "Nombre": "Lápiz Labial Comfor Beauty",
+    "Precio": "NIO 20.00",
+    "Existencias": 192,
+    "Costo": "NIO 15.81",
+    "Proveedor": "BISUTERIA",
+    "Status": "Active",
+    "Vencimiento": "2027-01-01"
+  },
+  {
+    "SKU": "CX6215",
+    "Nombre": "Primer Fit me Comfor Beauty",
+    "Precio": "NIO 17.00",
+    "Existencias": 120,
+    "Costo": "NIO 13.18",
+    "Proveedor": "BISUTERIA",
+    "Status": "Inactive",
+    "Vencimiento": "2026-01-01"
+  },
+  {
+    "SKU": "CX7530",
+    "Nombre": "Primer Comfor Beauty",
+    "Precio": "NIO 17.00",
+    "Existencias": 120,
+    "Costo": "NIO 13.18",
+    "Proveedor": "BISUTERIA",
+    "Status": "Active",
+    "Vencimiento": "2026-01-01"
+  },
+  {
+    "SKU": "DE8035",
+    "Nombre": "Parches Para Ojos",
+    "Precio": "NIO 5.88",
+    "Existencias": 1428,
+    "Costo": "NIO 5.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2028-01-01"
+  },
+  {
+    "SKU": "DE8036",
+    "Nombre": "Parches Para Labios",
+    "Precio": "NIO 5.88",
+    "Existencias": 1508,
+    "Costo": "NIO 5.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2028-01-01"
+  },
+  {
+    "SKU": "DL-313",
+    "Nombre": "Shampoo Tinte Negro Dr Lana",
+    "Precio": "NIO 176.47",
+    "Existencias": 5,
+    "Costo": "NIO 150.00",
+    "Proveedor": "VB",
+    "Status": "Inactive",
+    "Vencimiento": ""
+  },
+  {
+    "SKU": "DR-E018",
+    "Nombre": "Corrector Piel Impecable 24hrs Dawang Rose",
+    "Precio": "NIO 36.00",
+    "Existencias": 120,
+    "Costo": "NIO 28.55",
+    "Proveedor": "BISUTERIA",
+    "Status": "Active",
+    "Vencimiento": "2026-01-01"
+  },
+  {
+    "SKU": "DS319-1",
+    "Nombre": "Shampoo Contra La Caida del Cabello Clasico Disaar 200ml",
+    "Precio": "NIO 47.06",
+    "Existencias": 1,
+    "Costo": "NIO 40.00",
+    "Proveedor": "VB",
+    "Status": "Inactive",
+    "Vencimiento": "2028-11-01"
+  },
+  {
+    "SKU": "DS319-2",
+    "Nombre": "Shampoo Contra La Caida del Cabello Gengibre Disaar 200ml",
+    "Precio": "NIO 47.06",
+    "Existencias": 3,
+    "Costo": "NIO 40.00",
+    "Proveedor": "VB",
+    "Status": "Inactive",
+    "Vencimiento": "2028-11-01"
+  },
+  {
+    "SKU": "DS335-1",
+    "Nombre": "Crema Depiladora Disaar 100g 3 Minutos",
+    "Precio": "NIO 41.18",
+    "Existencias": 24,
+    "Costo": "NIO 35.00",
+    "Proveedor": "VB",
+    "Status": "Inactive",
+    "Vencimiento": "2028-07-01"
+  },
+  {
+    "SKU": "DS335-2",
+    "Nombre": "Crema Depiladora Disaar 100g 5 Minutos",
+    "Precio": "NIO 41.18",
+    "Existencias": 96,
+    "Costo": "NIO 35.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2028-07-01"
+  },
+  {
+    "SKU": "DS5195",
+    "Nombre": "Protector Solar Disaar Anti-ultravioleta SPF50 50ml",
+    "Precio": "NIO 28.24",
+    "Existencias": 141,
+    "Costo": "NIO 24.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2028-08-01"
+  },
+  {
+    "SKU": "DS51994",
+    "Nombre": "Contorno De Ojos 25ml",
+    "Precio": "NIO 41.18",
+    "Existencias": 360,
+    "Costo": "NIO 35.00",
+    "Proveedor": "VB",
+    "Status": "Inactive",
+    "Vencimiento": "2028-06-01"
+  },
+  {
+    "SKU": "DS5261",
+    "Nombre": "Tónico Facial Hidratante Disaar 200ml",
+    "Precio": "NIO 47.06",
+    "Existencias": 34,
+    "Costo": "NIO 40.00",
+    "Proveedor": "VB",
+    "Status": "Inactive",
+    "Vencimiento": "2028-09-01"
+  },
+  {
+    "SKU": "E038",
+    "Nombre": "Delineador Pestañas y Cejas 36hrs SandyBeauty",
+    "Precio": "NIO 17.00",
+    "Existencias": 96,
+    "Costo": "NIO 13.18",
+    "Proveedor": "BISUTERIA",
+    "Status": "Active",
+    "Vencimiento": "2027-07-30"
+  },
+  {
+    "SKU": "E051",
+    "Nombre": "Lápiz para cejas SandyBeauty",
+    "Precio": "NIO 17.00",
+    "Existencias": 48,
+    "Costo": "NIO 13.18",
+    "Proveedor": "BISUTERIA",
+    "Status": "Active",
+    "Vencimiento": "2027-01-01"
+  },
+  {
+    "SKU": "E2231",
+    "Nombre": "Mascara Delineador Volumen Rizado",
+    "Precio": "NIO 21.00",
+    "Existencias": 140,
+    "Costo": "NIO 16.69",
+    "Proveedor": "BISUTERIA",
+    "Status": "Active",
+    "Vencimiento": "2029-01-01"
+  },
+  {
+    "SKU": "EB022A",
+    "Nombre": "Cera para cejas",
+    "Precio": "NIO 21.18",
+    "Existencias": 72,
+    "Costo": "NIO 18.00",
+    "Proveedor": "Ushas",
+    "Status": "Inactive",
+    "Vencimiento": ""
+  },
+  {
+    "SKU": "EB026-MIX",
+    "Nombre": "Lapiz + Fijador De Ceja",
+    "Precio": "NIO 35.29",
+    "Existencias": 216,
+    "Costo": "NIO 30.00",
+    "Proveedor": "Ushas",
+    "Status": "Inactive",
+    "Vencimiento": ""
+  },
+  {
+    "SKU": "EB7060",
+    "Nombre": "Lápiz Para Cejas",
+    "Precio": "NIO 11.76",
+    "Existencias": 912,
+    "Costo": "NIO 10.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2028-06-01"
+  },
+  {
+    "SKU": "EL650",
+    "Nombre": "Delineador de Ojos Dorado Miss Ushas",
+    "Precio": "NIO 21.18",
+    "Existencias": 444,
+    "Costo": "NIO 18.00",
+    "Proveedor": "Ushas",
+    "Status": "Inactive",
+    "Vencimiento": ""
+  },
+  {
+    "SKU": "EL661",
+    "Nombre": "Delineador de Ojos Colorfull Pasteles",
+    "Precio": "NIO 18.82",
+    "Existencias": 144,
+    "Costo": "NIO 16.00",
+    "Proveedor": "Ushas",
+    "Status": "Inactive",
+    "Vencimiento": ""
+  },
+  {
+    "SKU": "ES007",
+    "Nombre": "Paleta Sombra, Blush y Iluminador Moly Coco",
+    "Precio": "NIO 72.00",
+    "Existencias": 120,
+    "Costo": "NIO 57.10",
+    "Proveedor": "BISUTERIA",
+    "Status": "Active",
+    "Vencimiento": "2026-01-01"
+  },
+  {
+    "SKU": "ES3712-4",
+    "Nombre": "Sombra para Ojos True Love",
+    "Precio": "NIO 44.71",
+    "Existencias": 71,
+    "Costo": "NIO 38.00",
+    "Proveedor": "Ushas",
+    "Status": "Inactive",
+    "Vencimiento": "2028-02-01"
+  },
+  {
+    "SKU": "ES3717",
+    "Nombre": "Blush 2 Tonos",
+    "Precio": "NIO 29.41",
+    "Existencias": 300,
+    "Costo": "NIO 25.00",
+    "Proveedor": "Ushas",
+    "Status": "Inactive",
+    "Vencimiento": ""
+  },
+  {
+    "SKU": "ES3723",
+    "Nombre": "Blush Fard Ushas",
+    "Precio": "NIO 29.41",
+    "Existencias": 300,
+    "Costo": "NIO 25.00",
+    "Proveedor": "Ushas",
+    "Status": "Inactive",
+    "Vencimiento": ""
+  },
+  {
+    "SKU": "ES3884-4",
+    "Nombre": "Sombra de Ojos Good Vibes",
+    "Precio": "NIO 47.06",
+    "Existencias": 144,
+    "Costo": "NIO 40.00",
+    "Proveedor": "Ushas",
+    "Status": "Inactive",
+    "Vencimiento": "2028-04-01"
+  },
+  {
+    "SKU": "ES3922-2",
+    "Nombre": "Sombra de Ojos Matcha Love",
+    "Precio": "NIO 37.65",
+    "Existencias": 144,
+    "Costo": "NIO 32.00",
+    "Proveedor": "Ushas",
+    "Status": "Inactive",
+    "Vencimiento": "2025-01-01"
+  },
+  {
+    "SKU": "ES3931",
+    "Nombre": "Blush 2 Tono Cheeks Painting",
+    "Precio": "NIO 23.53",
+    "Existencias": 288,
+    "Costo": "NIO 20.00",
+    "Proveedor": "Ushas",
+    "Status": "Inactive",
+    "Vencimiento": ""
+  },
+  {
+    "SKU": "ES3965",
+    "Nombre": "Blush Perla Sweet",
+    "Precio": "NIO 35.29",
+    "Existencias": 48,
+    "Costo": "NIO 30.00",
+    "Proveedor": "Ushas",
+    "Status": "Inactive",
+    "Vencimiento": ""
+  },
+  {
+    "SKU": "ES4012",
+    "Nombre": "Blush 2 Tono Matte",
+    "Precio": "NIO 23.53",
+    "Existencias": 168,
+    "Costo": "NIO 20.00",
+    "Proveedor": "Ushas",
+    "Status": "Inactive",
+    "Vencimiento": ""
+  },
+  {
+    "SKU": "ES4015-2",
+    "Nombre": "Sombra de Ojos Golden Stylist-2",
+    "Precio": "NIO 80.00",
+    "Existencias": 144,
+    "Costo": "NIO 68.00",
+    "Proveedor": "Ushas",
+    "Status": "Inactive",
+    "Vencimiento": "2028-03-01"
+  },
+  {
+    "SKU": "ES4017A",
+    "Nombre": "Corrector de Ojeras en crema 8C Golden A",
+    "Precio": "NIO 68.24",
+    "Existencias": 60,
+    "Costo": "NIO 58.00",
+    "Proveedor": "Ushas",
+    "Status": "Inactive",
+    "Vencimiento": "2027-09-01"
+  },
+  {
+    "SKU": "ES4017B",
+    "Nombre": "Corrector de Ojeras en Crema 8C Golden B",
+    "Precio": "NIO 68.24",
+    "Existencias": 42,
+    "Costo": "NIO 58.00",
+    "Proveedor": "Ushas",
+    "Status": "Inactive",
+    "Vencimiento": "2027-09-01"
+  },
+  {
+    "SKU": "ES4024",
+    "Nombre": "Blush Flower Ushas",
+    "Precio": "NIO 23.53",
+    "Existencias": 192,
+    "Costo": "NIO 20.00",
+    "Proveedor": "Ushas",
+    "Status": "Inactive",
+    "Vencimiento": "2027-08-01"
+  },
+  {
+    "SKU": "ES4026",
+    "Nombre": "Glitter En Gel para Ojos, Labios y Rostro Febble",
+    "Precio": "NIO 14.12",
+    "Existencias": 156,
+    "Costo": "NIO 12.00",
+    "Proveedor": "Ushas",
+    "Status": "Inactive",
+    "Vencimiento": ""
+  },
+  {
+    "SKU": "ES4030-4",
+    "Nombre": "Sombra de Ojos 9C Pink 4 Ushas",
+    "Precio": "NIO 37.65",
+    "Existencias": 216,
+    "Costo": "NIO 32.00",
+    "Proveedor": "Ushas",
+    "Status": "Inactive",
+    "Vencimiento": "2027-09-01"
+  },
+  {
+    "SKU": "ES4038",
+    "Nombre": "Iluminador 2 Tono Estrella",
+    "Precio": "NIO 32.94",
+    "Existencias": 72,
+    "Costo": "NIO 28.00",
+    "Proveedor": "Ushas",
+    "Status": "Inactive",
+    "Vencimiento": ""
+  },
+  {
+    "SKU": "ES4047",
+    "Nombre": "Rubor Sweet Mojito",
+    "Precio": "NIO 25.88",
+    "Existencias": 96,
+    "Costo": "NIO 22.00",
+    "Proveedor": "Ushas",
+    "Status": "Inactive",
+    "Vencimiento": ""
+  },
+  {
+    "SKU": "ES4061-2",
+    "Nombre": "Sombra de Ojos My Life Dreams",
+    "Precio": "NIO 49.41",
+    "Existencias": 21,
+    "Costo": "NIO 42.00",
+    "Proveedor": "Ushas",
+    "Status": "Inactive",
+    "Vencimiento": "2028-05-01"
+  },
+  {
+    "SKU": "ES4163-2",
+    "Nombre": "Sombra para Ojos Floral 5C 2",
+    "Precio": "NIO 23.53",
+    "Existencias": 120,
+    "Costo": "NIO 20.00",
+    "Proveedor": "Ushas",
+    "Status": "Inactive",
+    "Vencimiento": ""
+  },
+  {
+    "SKU": "ES4163-4",
+    "Nombre": "Sombra para Ojos Floral 5C 4",
+    "Precio": "NIO 23.53",
+    "Existencias": 120,
+    "Costo": "NIO 20.00",
+    "Proveedor": "Ushas",
+    "Status": "Inactive",
+    "Vencimiento": ""
+  },
+  {
+    "SKU": "ES4168",
+    "Nombre": "Polvo Suelto Perfect",
+    "Precio": "NIO 37.65",
+    "Existencias": 96,
+    "Costo": "NIO 32.00",
+    "Proveedor": "Ushas",
+    "Status": "Inactive",
+    "Vencimiento": "2028-07-01"
+  },
+  {
+    "SKU": "ES4170-4",
+    "Nombre": "Sombra para Ojos Love More 4",
+    "Precio": "NIO 37.65",
+    "Existencias": 96,
+    "Costo": "NIO 32.00",
+    "Proveedor": "Ushas",
+    "Status": "Inactive",
+    "Vencimiento": "2028-04-01"
+  },
+  {
+    "SKU": "ES4194",
+    "Nombre": "Sombra para Ojos Show Time",
+    "Precio": "NIO 42.35",
+    "Existencias": 108,
+    "Costo": "NIO 36.00",
+    "Proveedor": "Ushas",
+    "Status": "Inactive",
+    "Vencimiento": "2028-07-01"
+  },
+  {
+    "SKU": "ES4195-2",
+    "Nombre": "Sombra para Ojos Show Time 2",
+    "Precio": "NIO 70.59",
+    "Existencias": 144,
+    "Costo": "NIO 60.00",
+    "Proveedor": "Ushas",
+    "Status": "Inactive",
+    "Vencimiento": "2028-07-01"
+  },
+  {
+    "SKU": "ES4195-4",
+    "Nombre": "Sombra para Ojos Show Time 4",
+    "Precio": "NIO 70.59",
+    "Existencias": 132,
+    "Costo": "NIO 60.00",
+    "Proveedor": "Ushas",
+    "Status": "Inactive",
+    "Vencimiento": "2028-07-01"
+  },
+  {
+    "SKU": "ES4198-4",
+    "Nombre": "Sombra para Ojos For You 4",
+    "Precio": "NIO 91.76",
+    "Existencias": 6,
+    "Costo": "NIO 78.00",
+    "Proveedor": "Ushas",
+    "Status": "Inactive",
+    "Vencimiento": "2028-08-01"
+  },
+  {
+    "SKU": "ES4201-2",
+    "Nombre": "Sombra para Ojos Ushas Love ES4201 2",
+    "Precio": "NIO 35.29",
+    "Existencias": 132,
+    "Costo": "NIO 30.00",
+    "Proveedor": "Ushas",
+    "Status": "Inactive",
+    "Vencimiento": "2028-08-01"
+  },
+  {
+    "SKU": "ES4201-4",
+    "Nombre": "Sombra para Ojos Ushas Love ES4201-4",
+    "Precio": "NIO 35.29",
+    "Existencias": 72,
+    "Costo": "NIO 30.00",
+    "Proveedor": "Ushas",
+    "Status": "Inactive",
+    "Vencimiento": "2028-08-01"
+  },
+  {
+    "SKU": "ES4202-4",
+    "Nombre": "Sombra Colores Nudes para Ojos",
+    "Precio": "NIO 91.76",
+    "Existencias": 6,
+    "Costo": "NIO 78.00",
+    "Proveedor": "Ushas",
+    "Status": "Inactive",
+    "Vencimiento": "2028-08-01"
+  },
+  {
+    "SKU": "ES6016",
+    "Nombre": "Sombra Favor Beauty Beach",
+    "Precio": "NIO 52.94",
+    "Existencias": 559,
+    "Costo": "NIO 45.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2026-07-01"
+  },
+  {
+    "SKU": "ES6107",
+    "Nombre": "Sombra Favor Beauty Kitty",
+    "Precio": "NIO 52.94",
+    "Existencias": 226,
+    "Costo": "NIO 45.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2026-06-01"
+  },
+  {
+    "SKU": "F-A18",
+    "Nombre": "Body Victorias Fleur Forever Emotion 250ml",
+    "Precio": "NIO 76.47",
+    "Existencias": 29,
+    "Costo": "NIO 65.00",
+    "Proveedor": "VB",
+    "Status": "Inactive",
+    "Vencimiento": ""
+  },
+  {
+    "SKU": "F-A22",
+    "Nombre": "Body Victorias Fleur Pure Seduction Shimmer 250ml",
+    "Precio": "NIO 76.47",
+    "Existencias": 12,
+    "Costo": "NIO 65.00",
+    "Proveedor": "VB",
+    "Status": "Inactive",
+    "Vencimiento": ""
+  },
+  {
+    "SKU": "F-A23",
+    "Nombre": "Body Victorias Fleur Love Spell Shimmer 250ml",
+    "Precio": "NIO 76.47",
+    "Existencias": 12,
+    "Costo": "NIO 65.00",
+    "Proveedor": "VB",
+    "Status": "Inactive",
+    "Vencimiento": ""
+  },
+  {
+    "SKU": "F-A24",
+    "Nombre": "Body Victorias Fleur Velvet Petals Shimmer 250ml",
+    "Precio": "NIO 76.47",
+    "Existencias": 12,
+    "Costo": "NIO 65.00",
+    "Proveedor": "VB",
+    "Status": "Inactive",
+    "Vencimiento": ""
+  },
+  {
+    "SKU": "F-A25",
+    "Nombre": "Body Victorias Fleur Love Spell 250ml",
+    "Precio": "NIO 76.47",
+    "Existencias": 12,
+    "Costo": "NIO 65.00",
+    "Proveedor": "VB",
+    "Status": "Inactive",
+    "Vencimiento": ""
+  },
+  {
+    "SKU": "F-A27",
+    "Nombre": "Body Victorias Fleur Velvet Petals 250ml",
+    "Precio": "NIO 76.47",
+    "Existencias": 12,
+    "Costo": "NIO 65.00",
+    "Proveedor": "VB",
+    "Status": "Inactive",
+    "Vencimiento": ""
+  },
+  {
+    "SKU": "F001",
+    "Nombre": "Base All Hours YvestSaintLaurent",
+    "Precio": "NIO 41.18",
+    "Existencias": 1240,
+    "Costo": "NIO 35.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2026-01-01"
+  },
+  {
+    "SKU": "F002",
+    "Nombre": "Base Loreal Paris Revital Fit",
+    "Precio": "NIO 35.29",
+    "Existencias": 861,
+    "Costo": "NIO 30.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2026-01-01"
+  },
+  {
+    "SKU": "F003",
+    "Nombre": "Base Maybelline SPF50+ Alta cobertura",
+    "Precio": "NIO 25.00",
+    "Existencias": 2958,
+    "Costo": "NIO 16.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2026-01-01"
+  },
+  {
+    "SKU": "F004",
+    "Nombre": "Base Lorea SPF50+ Antioxidante",
+    "Precio": "NIO 20.00",
+    "Existencias": 3341,
+    "Costo": "NIO 16.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2026-01-01"
+  },
+  {
+    "SKU": "F007A",
+    "Nombre": "Primer CHANLANYA glitter",
+    "Precio": "NIO 37.65",
+    "Existencias": 180,
+    "Costo": "NIO 32.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2026-01-01"
+  },
+  {
+    "SKU": "F007B",
+    "Nombre": "Primer CHANLANYA transparente",
+    "Precio": "NIO 37.65",
+    "Existencias": 204,
+    "Costo": "NIO 32.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2026-01-01"
+  },
+  {
+    "SKU": "FC611A",
+    "Nombre": "Iluminador Febble FC611A",
+    "Precio": "NIO 70.59",
+    "Existencias": 132,
+    "Costo": "NIO 60.00",
+    "Proveedor": "Ushas",
+    "Status": "Inactive",
+    "Vencimiento": ""
+  },
+  {
+    "SKU": "FC616B",
+    "Nombre": "Polvo Compacto Ushas-B",
+    "Precio": "NIO 35.29",
+    "Existencias": 240,
+    "Costo": "NIO 30.00",
+    "Proveedor": "Ushas",
+    "Status": "Inactive",
+    "Vencimiento": "2027-09-01"
+  },
+  {
+    "SKU": "FC647A",
+    "Nombre": "Iluminador My Custom",
+    "Precio": "NIO 44.71",
+    "Existencias": 54,
+    "Costo": "NIO 38.00",
+    "Proveedor": "Ushas",
+    "Status": "Inactive",
+    "Vencimiento": "2028-01-01"
+  },
+  {
+    "SKU": "FP-3032",
+    "Nombre": "Esponja Puff",
+    "Precio": "NIO 47.06",
+    "Existencias": 24,
+    "Costo": "NIO 40.00",
+    "Proveedor": "VB",
+    "Status": "Inactive",
+    "Vencimiento": "2029-01-26"
+  },
+  {
+    "SKU": "FP-375",
+    "Nombre": "Esponja Puff Sweet beauty FP-375",
+    "Precio": "NIO 37.65",
+    "Existencias": 9,
+    "Costo": "NIO 37.65",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2029-01-01"
+  },
+  {
+    "SKU": "FP3137",
+    "Nombre": "Esponja para maquillar Sweet Beauty",
+    "Precio": "NIO 18.82",
+    "Existencias": 788,
+    "Costo": "NIO 16.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2029-01-01"
+  },
+  {
+    "SKU": "FS195",
+    "Nombre": "Spray Liquido Corporal Shimmer",
+    "Precio": "NIO 76.47",
+    "Existencias": 144,
+    "Costo": "NIO 65.00",
+    "Proveedor": "Ushas",
+    "Status": "Inactive",
+    "Vencimiento": ""
+  },
+  {
+    "SKU": "FS292",
+    "Nombre": "Sellador de Maquillaje Ushas Rose",
+    "Precio": "NIO 88.24",
+    "Existencias": 36,
+    "Costo": "NIO 75.00",
+    "Proveedor": "Ushas",
+    "Status": "Inactive",
+    "Vencimiento": ""
+  },
+  {
+    "SKU": "FS329",
+    "Nombre": "Corrector de Ojeras Full Cover All Ushas",
+    "Precio": "NIO 32.94",
+    "Existencias": 168,
+    "Costo": "NIO 28.00",
+    "Proveedor": "Ushas",
+    "Status": "Inactive",
+    "Vencimiento": "2028-11-01"
+  },
+  {
+    "SKU": "FS338",
+    "Nombre": "Blush Corazon",
+    "Precio": "NIO 76.47",
+    "Existencias": 72,
+    "Costo": "NIO 65.00",
+    "Proveedor": "Ushas",
+    "Status": "Inactive",
+    "Vencimiento": ""
+  },
+  {
+    "SKU": "FS343",
+    "Nombre": "Sellador Para Cejas Ushas",
+    "Precio": "NIO 21.18",
+    "Existencias": 192,
+    "Costo": "NIO 18.00",
+    "Proveedor": "Ushas",
+    "Status": "Inactive",
+    "Vencimiento": "2027-07-01"
+  },
+  {
+    "SKU": "FS346A",
+    "Nombre": "Base Maquillaje Febble Pure Cover",
+    "Precio": "NIO 105.88",
+    "Existencias": 132,
+    "Costo": "NIO 90.00",
+    "Proveedor": "Ushas",
+    "Status": "Inactive",
+    "Vencimiento": "2028-05-01"
+  },
+  {
+    "SKU": "FS346B",
+    "Nombre": "Base Maquillaje Febble Pure Cover",
+    "Precio": "NIO 105.88",
+    "Existencias": 96,
+    "Costo": "NIO 90.00",
+    "Proveedor": "Ushas",
+    "Status": "Inactive",
+    "Vencimiento": "2028-05-01"
+  },
+  {
+    "SKU": "FS358",
+    "Nombre": "Primer Para Sombra Ushas",
+    "Precio": "NIO 18.82",
+    "Existencias": 168,
+    "Costo": "NIO 16.00",
+    "Proveedor": "Ushas",
+    "Status": "Inactive",
+    "Vencimiento": "2028-01-01"
+  },
+  {
+    "SKU": "FS370",
+    "Nombre": "Iluminador Corporal Cristal",
+    "Precio": "NIO 37.65",
+    "Existencias": 276,
+    "Costo": "NIO 32.00",
+    "Proveedor": "Ushas",
+    "Status": "Inactive",
+    "Vencimiento": ""
+  },
+  {
+    "SKU": "FS384",
+    "Nombre": "Sellador de Maquillaje Ushas Photo Finish",
+    "Precio": "NIO 61.18",
+    "Existencias": 60,
+    "Costo": "NIO 52.00",
+    "Proveedor": "Ushas",
+    "Status": "Inactive",
+    "Vencimiento": "2028-06-01"
+  },
+  {
+    "SKU": "FS411B",
+    "Nombre": "Base Liquida Premium",
+    "Precio": "NIO 51.76",
+    "Existencias": 264,
+    "Costo": "NIO 44.00",
+    "Proveedor": "Ushas",
+    "Status": "Inactive",
+    "Vencimiento": ""
+  },
+  {
+    "SKU": "FS417B",
+    "Nombre": "Base Maquillaje Ushas Rose B",
+    "Precio": "NIO 45.88",
+    "Existencias": 168,
+    "Costo": "NIO 39.00",
+    "Proveedor": "Ushas",
+    "Status": "Inactive",
+    "Vencimiento": ""
+  },
+  {
+    "SKU": "FS440",
+    "Nombre": "Primer Violet Hidratante",
+    "Precio": "NIO 40.00",
+    "Existencias": 72,
+    "Costo": "NIO 34.00",
+    "Proveedor": "Ushas",
+    "Status": "Inactive",
+    "Vencimiento": ""
+  },
+  {
+    "SKU": "FS442A",
+    "Nombre": "Corrector de Ojeras Full Cover Ushas A",
+    "Precio": "NIO 47.06",
+    "Existencias": 144,
+    "Costo": "NIO 40.00",
+    "Proveedor": "Ushas",
+    "Status": "Inactive",
+    "Vencimiento": "2028-11-01"
+  },
+  {
+    "SKU": "FS442B",
+    "Nombre": "Corrector de Ojeras Full Cover Ushas B",
+    "Precio": "NIO 47.06",
+    "Existencias": 96,
+    "Costo": "NIO 40.00",
+    "Proveedor": "Ushas",
+    "Status": "Inactive",
+    "Vencimiento": ""
+  },
+  {
+    "SKU": "FS445B",
+    "Nombre": "Base Maquillaje 16H Con Aplicador Ushas",
+    "Precio": "NIO 100.00",
+    "Existencias": 96,
+    "Costo": "NIO 85.00",
+    "Proveedor": "Ushas",
+    "Status": "Inactive",
+    "Vencimiento": ""
+  },
+  {
+    "SKU": "G3134",
+    "Nombre": "Balsamo Labial Arándano Orof",
+    "Precio": "NIO 11.76",
+    "Existencias": 292,
+    "Costo": "NIO 10.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2028-08-01"
+  },
+  {
+    "SKU": "G3135",
+    "Nombre": "Balsamo Labial Limon Orof",
+    "Precio": "NIO 11.76",
+    "Existencias": 605,
+    "Costo": "NIO 10.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2028-08-01"
+  },
+  {
+    "SKU": "G3136",
+    "Nombre": "Balsamo Labial Fresas 24h Orof",
+    "Precio": "NIO 11.76",
+    "Existencias": 418,
+    "Costo": "NIO 10.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2028-08-01"
+  },
+  {
+    "SKU": "G3137",
+    "Nombre": "Balsamo Labial Sandia 24h Orof",
+    "Precio": "NIO 11.76",
+    "Existencias": 559,
+    "Costo": "NIO 10.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2028-08-01"
+  },
+  {
+    "SKU": "GJ7028",
+    "Nombre": "Contorno De Ojos 20ml",
+    "Precio": "NIO 47.06",
+    "Existencias": 168,
+    "Costo": "NIO 40.00",
+    "Proveedor": "VB",
+    "Status": "Inactive",
+    "Vencimiento": "2028-03-01"
+  },
+  {
+    "SKU": "GJ7169",
+    "Nombre": "Set Skin Care Acido Kojic 5 Pcs",
+    "Precio": "NIO 282.35",
+    "Existencias": 9,
+    "Costo": "NIO 240.00",
+    "Proveedor": "VB",
+    "Status": "Inactive",
+    "Vencimiento": "2028-06-01"
+  },
+  {
+    "SKU": "GJ7181",
+    "Nombre": "Limpiador Facial Retinol 100g",
+    "Precio": "NIO 49.41",
+    "Existencias": 89,
+    "Costo": "NIO 42.00",
+    "Proveedor": "VB",
+    "Status": "Inactive",
+    "Vencimiento": "2026-05-01"
+  },
+  {
+    "SKU": "GJ7182",
+    "Nombre": "Locion Retinol 100g",
+    "Precio": "NIO 58.82",
+    "Existencias": 20,
+    "Costo": "NIO 50.00",
+    "Proveedor": "VB",
+    "Status": "Inactive",
+    "Vencimiento": "2028-05-01"
+  },
+  {
+    "SKU": "GJ7186",
+    "Nombre": "Contorno De Ojos Retinol 30g",
+    "Precio": "NIO 52.94",
+    "Existencias": 128,
+    "Costo": "NIO 45.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2028-05-01"
+  },
+  {
+    "SKU": "GJ7191",
+    "Nombre": "Limpiador Facial Acido Hialuronico 100g",
+    "Precio": "NIO 47.06",
+    "Existencias": 177,
+    "Costo": "NIO 40.00",
+    "Proveedor": "VB",
+    "Status": "Inactive",
+    "Vencimiento": "2028-05-01"
+  },
+  {
+    "SKU": "GJ7192",
+    "Nombre": "Tonico Facial de Acido Hialuronico 150ml GuanJing",
+    "Precio": "NIO 52.94",
+    "Existencias": 83,
+    "Costo": "NIO 45.00",
+    "Proveedor": "VB",
+    "Status": "Inactive",
+    "Vencimiento": "2028-05-01"
+  },
+  {
+    "SKU": "GJ7193",
+    "Nombre": "Serum Facial de Acido Hialuronico 40ml",
+    "Precio": "NIO 37.65",
+    "Existencias": 95,
+    "Costo": "NIO 32.00",
+    "Proveedor": "VB",
+    "Status": "Inactive",
+    "Vencimiento": "2028-05-01"
+  },
+  {
+    "SKU": "GJ7194",
+    "Nombre": "Locion Acido Hialuronico 100g",
+    "Precio": "NIO 52.94",
+    "Existencias": 72,
+    "Costo": "NIO 45.00",
+    "Proveedor": "VB",
+    "Status": "Inactive",
+    "Vencimiento": "2028-05-01"
+  },
+  {
+    "SKU": "GZ8060165",
+    "Nombre": "Corrector 6 tonos Mlundo",
+    "Precio": "NIO 27.00",
+    "Existencias": 120,
+    "Costo": "NIO 21.08",
+    "Proveedor": "BISUTERIA",
+    "Status": "Active",
+    "Vencimiento": "2028-10-01"
+  },
+  {
+    "SKU": "GZ8100088",
+    "Nombre": "Serum Facial de Arroz 30ml",
+    "Precio": "NIO 33.00",
+    "Existencias": 120,
+    "Costo": "NIO 25.91",
+    "Proveedor": "BISUTERIA",
+    "Status": "Active",
+    "Vencimiento": "2029-01-01"
+  },
+  {
+    "SKU": "GZ8100089",
+    "Nombre": "Serum Facial Aloe Vera Mlundo",
+    "Precio": "NIO 33.00",
+    "Existencias": 120,
+    "Costo": "NIO 25.91",
+    "Proveedor": "BISUTERIA",
+    "Status": "Active",
+    "Vencimiento": "2028-03-01"
+  },
+  {
+    "SKU": "GZ8100090",
+    "Nombre": "Serum Facial Arroz, Vit C, Acido Hialurónico, Aloe Vera",
+    "Precio": "NIO 33.00",
+    "Existencias": 48,
+    "Costo": "NIO 25.91",
+    "Proveedor": "BISUTERIA",
+    "Status": "Active",
+    "Vencimiento": "2028-03-01"
+  },
+  {
+    "SKU": "GZ8100130",
+    "Nombre": "Serum Facial de Colageno Mlundo",
+    "Precio": "NIO 33.00",
+    "Existencias": 120,
+    "Costo": "NIO 25.91",
+    "Proveedor": "BISUTERIA",
+    "Status": "Active",
+    "Vencimiento": "2028-08-01"
+  },
+  {
+    "SKU": "H64026 C",
+    "Nombre": "Base Huda Beauty Fauxlens",
+    "Precio": "NIO 44.71",
+    "Existencias": 708,
+    "Costo": "NIO 38.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2028-04-01"
+  },
+  {
+    "SKU": "H64070 C",
+    "Nombre": "Base Huda Beauty Matte FPS 50+ todo tipo de pieles",
+    "Precio": "NIO 49.41",
+    "Existencias": 996,
+    "Costo": "NIO 42.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2028-04-01"
+  },
+  {
+    "SKU": "H7043",
+    "Nombre": "Iluminador con Glitter Huda Beauty",
+    "Precio": "NIO 25.88",
+    "Existencias": 2,
+    "Costo": "NIO 22.00",
+    "Proveedor": "VB",
+    "Status": "Inactive",
+    "Vencimiento": "2028-10-01"
+  },
+  {
+    "SKU": "H96040",
+    "Nombre": "Serum Facial Aloe Vera 30ml",
+    "Precio": "NIO 29.41",
+    "Existencias": 167,
+    "Costo": "NIO 25.00",
+    "Proveedor": "VB",
+    "Status": "Inactive",
+    "Vencimiento": "2028-07-01"
+  },
+  {
+    "SKU": "H96041",
+    "Nombre": "Serum Facial Vitamina C 30ml",
+    "Precio": "NIO 29.41",
+    "Existencias": 95,
+    "Costo": "NIO 25.00",
+    "Proveedor": "VB",
+    "Status": "Inactive",
+    "Vencimiento": "2028-07-01"
+  },
+  {
+    "SKU": "H98142-A",
+    "Nombre": "Lápiz Labial Huda Mate",
+    "Precio": "NIO 14.12",
+    "Existencias": 1073,
+    "Costo": "NIO 12.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2028-05-01"
+  },
+  {
+    "SKU": "H98144-A",
+    "Nombre": "Lápiz Labial Huda Matte H98144-A",
+    "Precio": "NIO 14.12",
+    "Existencias": 3930,
+    "Costo": "NIO 12.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2028-06-01"
+  },
+  {
+    "SKU": "H98149-24B",
+    "Nombre": "Lápiz Labial Huda Colores que duran todo el dia",
+    "Precio": "NIO 14.12",
+    "Existencias": 3672,
+    "Costo": "NIO 12.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2028-04-01"
+  },
+  {
+    "SKU": "HA-3054",
+    "Nombre": "Protector Solar Kids 35+",
+    "Precio": "NIO 47.06",
+    "Existencias": 48,
+    "Costo": "NIO 40.00",
+    "Proveedor": "Ushas",
+    "Status": "Inactive",
+    "Vencimiento": "2028-11-01"
+  },
+  {
+    "SKU": "HA069",
+    "Nombre": "Espuma Facial Limpiadora de Rosa",
+    "Precio": "NIO 74.12",
+    "Existencias": 24,
+    "Costo": "NIO 63.00",
+    "Proveedor": "Ushas",
+    "Status": "Inactive",
+    "Vencimiento": ""
+  },
+  {
+    "SKU": "HA070",
+    "Nombre": "Espuma Facial Limpiadora de Vit-C",
+    "Precio": "NIO 74.12",
+    "Existencias": 24,
+    "Costo": "NIO 63.00",
+    "Proveedor": "Ushas",
+    "Status": "Inactive",
+    "Vencimiento": ""
+  },
+  {
+    "SKU": "HA072",
+    "Nombre": "Espuma Facial Limpiadora con Aminoácidos",
+    "Precio": "NIO 74.12",
+    "Existencias": 48,
+    "Costo": "NIO 63.00",
+    "Proveedor": "Ushas",
+    "Status": "Inactive",
+    "Vencimiento": ""
+  },
+  {
+    "SKU": "HA073",
+    "Nombre": "Espuma Facial Limpiadora de Uva",
+    "Precio": "NIO 74.12",
+    "Existencias": 72,
+    "Costo": "NIO 63.00",
+    "Proveedor": "Ushas",
+    "Status": "Inactive",
+    "Vencimiento": ""
+  },
+  {
+    "SKU": "HA082",
+    "Nombre": "Tonico Facial Refrescante Rose",
+    "Precio": "NIO 64.71",
+    "Existencias": 60,
+    "Costo": "NIO 55.00",
+    "Proveedor": "Ushas",
+    "Status": "Inactive",
+    "Vencimiento": ""
+  },
+  {
+    "SKU": "HA273",
+    "Nombre": "Serum Facial Gotero Acido Hyaluronico",
+    "Precio": "NIO 94.12",
+    "Existencias": 120,
+    "Costo": "NIO 80.00",
+    "Proveedor": "Ushas",
+    "Status": "Inactive",
+    "Vencimiento": ""
+  },
+  {
+    "SKU": "HA274",
+    "Nombre": "Serum Facial Gotero, Collagen",
+    "Precio": "NIO 94.12",
+    "Existencias": 144,
+    "Costo": "NIO 80.00",
+    "Proveedor": "Ushas",
+    "Status": "Inactive",
+    "Vencimiento": ""
+  },
+  {
+    "SKU": "HA276",
+    "Nombre": "Serum Facial con Gotero, Aloe Vera",
+    "Precio": "NIO 94.12",
+    "Existencias": 144,
+    "Costo": "NIO 80.00",
+    "Proveedor": "Ushas",
+    "Status": "Inactive",
+    "Vencimiento": ""
+  },
+  {
+    "SKU": "HA277",
+    "Nombre": "Serum Facial Gotero Rugosa Rose",
+    "Precio": "NIO 94.12",
+    "Existencias": 132,
+    "Costo": "NIO 80.00",
+    "Proveedor": "Ushas",
+    "Status": "Inactive",
+    "Vencimiento": ""
+  },
+  {
+    "SKU": "HB5224",
+    "Nombre": "Brillo Labial Hold Morning Cute Hello Lovely",
+    "Precio": "NIO 12.94",
+    "Existencias": 240,
+    "Costo": "NIO 11.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2027-08-01"
+  },
+  {
+    "SKU": "HCC323",
+    "Nombre": "Corrector Y Contorno",
+    "Precio": "NIO 25.88",
+    "Existencias": 168,
+    "Costo": "NIO 22.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2028-08-01"
+  },
+  {
+    "SKU": "HCC331",
+    "Nombre": "Corrector Huda Beauty Borrador instantáneo multi-uso",
+    "Precio": "NIO 32.94",
+    "Existencias": 1152,
+    "Costo": "NIO 28.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2028-07-01"
+  },
+  {
+    "SKU": "HL5559",
+    "Nombre": "Brillo Labial Hold Morning HL5569",
+    "Precio": "NIO 12.94",
+    "Existencias": 528,
+    "Costo": "NIO 11.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2027-10-01"
+  },
+  {
+    "SKU": "HL5566",
+    "Nombre": "Brillo para Labios Hold Morning HL5566",
+    "Precio": "NIO 12.94",
+    "Existencias": 12,
+    "Costo": "NIO 11.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2027-10-01"
+  },
+  {
+    "SKU": "HL5570",
+    "Nombre": "Brillo Labial Hold Morning Cute Candy",
+    "Precio": "NIO 12.94",
+    "Existencias": 528,
+    "Costo": "NIO 11.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2027-10-01"
+  },
+  {
+    "SKU": "HS033",
+    "Nombre": "Espejo Gatita",
+    "Precio": "NIO 84.71",
+    "Existencias": 11,
+    "Costo": "NIO 72.00",
+    "Proveedor": "VB",
+    "Status": "Inactive",
+    "Vencimiento": "2026-01-01"
+  },
+  {
+    "SKU": "HS1023",
+    "Nombre": "Cera laminada para cejas Mecow",
+    "Precio": "NIO 15.50",
+    "Existencias": 693,
+    "Costo": "NIO 12.80",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2027-11-01"
+  },
+  {
+    "SKU": "HS1195",
+    "Nombre": "Iluminador Make-up Mecow",
+    "Precio": "NIO 24.00",
+    "Existencias": 48,
+    "Costo": "NIO 20.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2028-12-01"
+  },
+  {
+    "SKU": "J826",
+    "Nombre": "Primer Cubreporos",
+    "Precio": "NIO 12.94",
+    "Existencias": 672,
+    "Costo": "NIO 11.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2025-04-01"
+  },
+  {
+    "SKU": "J827",
+    "Nombre": "Primer Mattefyng Suncreeen",
+    "Precio": "NIO 12.94",
+    "Existencias": 504,
+    "Costo": "NIO 11.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2025-04-01"
+  },
+  {
+    "SKU": "JH8010",
+    "Nombre": "Mascara Pestañas Essence",
+    "Precio": "NIO 14.12",
+    "Existencias": 264,
+    "Costo": "NIO 12.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2026-04-01"
+  },
+  {
+    "SKU": "JM-4119",
+    "Nombre": "Pestañas 2pcs 3D",
+    "Precio": "NIO 17.65",
+    "Existencias": 720,
+    "Costo": "NIO 15.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2026-01-01"
+  },
+  {
+    "SKU": "JM-544",
+    "Nombre": "Pestañas Postizas 8mm",
+    "Precio": "NIO 23.53",
+    "Existencias": 408,
+    "Costo": "NIO 20.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2026-01-01"
+  },
+  {
+    "SKU": "JM-570",
+    "Nombre": "Pestañas 1pcs Nooralazawi Nudes 3D",
+    "Precio": "NIO 11.76",
+    "Existencias": 196,
+    "Costo": "NIO 10.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2026-01-01"
+  },
+  {
+    "SKU": "JM-599",
+    "Nombre": "Pestañas 1 pcs Nooralazawi hechas a mano 3D",
+    "Precio": "NIO 11.76",
+    "Existencias": 146,
+    "Costo": "NIO 10.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2026-01-01"
+  },
+  {
+    "SKU": "JM-603",
+    "Nombre": "Pestañas 1pcs Nooralazawi hechas a mano 5D",
+    "Precio": "NIO 11.76",
+    "Existencias": 104,
+    "Costo": "NIO 10.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2026-01-01"
+  },
+  {
+    "SKU": "JM4010",
+    "Nombre": "Pestañas 3pcs",
+    "Precio": "NIO 25.88",
+    "Existencias": 51,
+    "Costo": "NIO 22.00",
+    "Proveedor": "VB",
+    "Status": "Inactive",
+    "Vencimiento": "2026-01-01"
+  },
+  {
+    "SKU": "JS-1228",
+    "Nombre": "Pegamento para Pestañas",
+    "Precio": "NIO 8.24",
+    "Existencias": 218,
+    "Costo": "NIO 7.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2025-12-01"
+  },
+  {
+    "SKU": "K-7775",
+    "Nombre": "Labial de Hadas Miss Betty",
+    "Precio": "NIO 21.00",
+    "Existencias": 72,
+    "Costo": "NIO 16.69",
+    "Proveedor": "BISUTERIA",
+    "Status": "Active",
+    "Vencimiento": "2028-01-01"
+  },
+  {
+    "SKU": "K3324",
+    "Nombre": "Labial Matte 24 hrs Miss Betty",
+    "Precio": "NIO 22.00",
+    "Existencias": 168,
+    "Costo": "NIO 17.57",
+    "Proveedor": "BISUTERIA",
+    "Status": "Active",
+    "Vencimiento": "2027-01-01"
+  },
+  {
+    "SKU": "KQ-6201",
+    "Nombre": "Serum Facial Vitamina C Erha21 30ml",
+    "Precio": "NIO 29.41",
+    "Existencias": 585,
+    "Costo": "NIO 25.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2026-06-01"
+  },
+  {
+    "SKU": "KQ-BNS100",
+    "Nombre": "Serum Facial de Acido Hialuronico 100ml",
+    "Precio": "NIO 47.06",
+    "Existencias": 250,
+    "Costo": "NIO 40.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2026-03-01"
+  },
+  {
+    "SKU": "KQ-DM100",
+    "Nombre": "Serum Facial de Arroz 100ml",
+    "Precio": "NIO 47.06",
+    "Existencias": 179,
+    "Costo": "NIO 40.00",
+    "Proveedor": "VB",
+    "Status": "Inactive",
+    "Vencimiento": "2026-06-01"
+  },
+  {
+    "SKU": "KQ-VC150X",
+    "Nombre": "Limpiador Facial 150ml Vitamina C",
+    "Precio": "NIO 52.94",
+    "Existencias": 81,
+    "Costo": "NIO 45.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2026-03-01"
+  },
+  {
+    "SKU": "KQ-VE100",
+    "Nombre": "Serum Facial de Vitamina E 100ml",
+    "Precio": "NIO 47.06",
+    "Existencias": 142,
+    "Costo": "NIO 40.00",
+    "Proveedor": "VB",
+    "Status": "Inactive",
+    "Vencimiento": "2026-03-01"
+  },
+  {
+    "SKU": "L014",
+    "Nombre": "Primer Fit me! Alta duracion Love is beauty 24hr",
+    "Precio": "NIO 35.29",
+    "Existencias": 1253,
+    "Costo": "NIO 30.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2026-01-01"
+  },
+  {
+    "SKU": "L3455",
+    "Nombre": "Brillo Labial Larga duración Miss Betty",
+    "Precio": "NIO 28.00",
+    "Existencias": 24,
+    "Costo": "NIO 21.96",
+    "Proveedor": "BISUTERIA",
+    "Status": "Active",
+    "Vencimiento": "2028-12-01"
+  },
+  {
+    "SKU": "L3518",
+    "Nombre": "Brillo Labial Miss Betty",
+    "Precio": "NIO 20.00",
+    "Existencias": 72,
+    "Costo": "NIO 15.37",
+    "Proveedor": "BISUTERIA",
+    "Status": "Active",
+    "Vencimiento": "2029-01-01"
+  },
+  {
+    "SKU": "LC05",
+    "Nombre": "Brillo Labial 99% Aloe Magic",
+    "Precio": "NIO 14.12",
+    "Existencias": 237,
+    "Costo": "NIO 12.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2028-11-01"
+  },
+  {
+    "SKU": "LC1141",
+    "Nombre": "Tinte Para Labios Ice Cream",
+    "Precio": "NIO 14.12",
+    "Existencias": 264,
+    "Costo": "NIO 12.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2028-05-01"
+  },
+  {
+    "SKU": "LC1147",
+    "Nombre": "Aceite Labial + Tinte Para Labios",
+    "Precio": "NIO 25.88",
+    "Existencias": 432,
+    "Costo": "NIO 22.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2028-06-01"
+  },
+  {
+    "SKU": "LC1157",
+    "Nombre": "Brillo Labial Mariposita Magic",
+    "Precio": "NIO 12.94",
+    "Existencias": 696,
+    "Costo": "NIO 11.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2028-05-01"
+  },
+  {
+    "SKU": "LC1161",
+    "Nombre": "Aceite Labial Magic LC1161",
+    "Precio": "NIO 12.94",
+    "Existencias": 2640,
+    "Costo": "NIO 11.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2028-06-01"
+  },
+  {
+    "SKU": "LC1164",
+    "Nombre": "Aceite Labial Magic LC1164",
+    "Precio": "NIO 12.94",
+    "Existencias": 1144,
+    "Costo": "NIO 11.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2028-07-01"
+  },
+  {
+    "SKU": "LC1182",
+    "Nombre": "Aceite Labial + Tinte Para Labios",
+    "Precio": "NIO 21.18",
+    "Existencias": 353,
+    "Costo": "NIO 18.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2028-06-01"
+  },
+  {
+    "SKU": "LC1197",
+    "Nombre": "Aceite Labial Magic LC1197",
+    "Precio": "NIO 12.94",
+    "Existencias": 624,
+    "Costo": "NIO 11.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2028-07-01"
+  },
+  {
+    "SKU": "LC1201",
+    "Nombre": "Aceite Labial Magic LC1201",
+    "Precio": "NIO 12.94",
+    "Existencias": 1360,
+    "Costo": "NIO 11.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2028-06-01"
+  },
+  {
+    "SKU": "LC1204",
+    "Nombre": "Aceite Labial Magic LC1204",
+    "Precio": "NIO 12.94",
+    "Existencias": 424,
+    "Costo": "NIO 11.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2028-06-01"
+  },
+  {
+    "SKU": "LC1207",
+    "Nombre": "Brillo Para Labios Mate Magic Be sweet",
+    "Precio": "NIO 12.94",
+    "Existencias": 216,
+    "Costo": "NIO 11.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2028-07-01"
+  },
+  {
+    "SKU": "LC1218",
+    "Nombre": "Aceite Labial Magic LC1218",
+    "Precio": "NIO 12.94",
+    "Existencias": 192,
+    "Costo": "NIO 11.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2028-07-01"
+  },
+  {
+    "SKU": "LC1220",
+    "Nombre": "Aceite Labial Magic LC1220",
+    "Precio": "NIO 12.94",
+    "Existencias": 336,
+    "Costo": "NIO 11.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2028-07-01"
+  },
+  {
+    "SKU": "LC1227",
+    "Nombre": "Brillo Para Labios Mate Magic color perfecto",
+    "Precio": "NIO 12.94",
+    "Existencias": 216,
+    "Costo": "NIO 11.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2028-10-01"
+  },
+  {
+    "SKU": "LC1230",
+    "Nombre": "Balsamo Para Labios Magic LC1230",
+    "Precio": "NIO 12.94",
+    "Existencias": 1500,
+    "Costo": "NIO 11.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2028-07-01"
+  },
+  {
+    "SKU": "LC1253",
+    "Nombre": "Brillo Para Labios Magic Dear Darling",
+    "Precio": "NIO 12.94",
+    "Existencias": 1668,
+    "Costo": "NIO 11.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2025-03-22"
+  },
+  {
+    "SKU": "LC1305",
+    "Nombre": "Balsamo para Labios Osito Magic",
+    "Precio": "NIO 14.12",
+    "Existencias": 24,
+    "Costo": "NIO 12.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2028-12-01"
+  },
+  {
+    "SKU": "LC1310",
+    "Nombre": "Mascara para pestañas y cejas en gel con Acido Hialuronico Magic",
+    "Precio": "NIO 12.94",
+    "Existencias": 405,
+    "Costo": "NIO 11.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2028-11-01"
+  },
+  {
+    "SKU": "LC607",
+    "Nombre": "Brillo para Labios",
+    "Precio": "NIO 15.29",
+    "Existencias": 1556,
+    "Costo": "NIO 13.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2028-07-01"
+  },
+  {
+    "SKU": "LC643",
+    "Nombre": "Brillo Labial OLanney",
+    "Precio": "NIO 18.00",
+    "Existencias": 72,
+    "Costo": "NIO 14.05",
+    "Proveedor": "BISUTERIA",
+    "Status": "Active",
+    "Vencimiento": "2028-11-01"
+  },
+  {
+    "SKU": "LC719",
+    "Nombre": "Brillo Labial Dear Darling Magic",
+    "Precio": "NIO 12.94",
+    "Existencias": 1,
+    "Costo": "NIO 12.94",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2028-10-01"
+  },
+  {
+    "SKU": "LC911",
+    "Nombre": "Bálsamo Para Labios Magic corazón doble",
+    "Precio": "NIO 13.00",
+    "Existencias": 216,
+    "Costo": "NIO 11.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2027-11-01"
+  },
+  {
+    "SKU": "LC929",
+    "Nombre": "Brillo para Labios Magic corazón love",
+    "Precio": "NIO 12.94",
+    "Existencias": 24,
+    "Costo": "NIO 11.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2028-04-01"
+  },
+  {
+    "SKU": "LC991",
+    "Nombre": "Brillo Para Labios 24h",
+    "Precio": "NIO 12.94",
+    "Existencias": 167,
+    "Costo": "NIO 11.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2028-06-01"
+  },
+  {
+    "SKU": "LG2218",
+    "Nombre": "Brillo Labial Natural Mix",
+    "Precio": "NIO 23.53",
+    "Existencias": 264,
+    "Costo": "NIO 20.00",
+    "Proveedor": "Ushas",
+    "Status": "Inactive",
+    "Vencimiento": "2027-12-01"
+  },
+  {
+    "SKU": "LG2367",
+    "Nombre": "Brillo de labios Maximizer",
+    "Precio": "NIO 21.18",
+    "Existencias": 216,
+    "Costo": "NIO 18.00",
+    "Proveedor": "Ushas",
+    "Status": "Inactive",
+    "Vencimiento": ""
+  },
+  {
+    "SKU": "LG2400",
+    "Nombre": "Brillo Labial Shine On",
+    "Precio": "NIO 21.18",
+    "Existencias": 192,
+    "Costo": "NIO 18.00",
+    "Proveedor": "Ushas",
+    "Status": "Inactive",
+    "Vencimiento": "2028-06-01"
+  },
+  {
+    "SKU": "LG2416",
+    "Nombre": "Brillo Labial Ushas Aloe",
+    "Precio": "NIO 18.82",
+    "Existencias": 216,
+    "Costo": "NIO 16.00",
+    "Proveedor": "Ushas",
+    "Status": "Inactive",
+    "Vencimiento": "2028-06-01"
+  },
+  {
+    "SKU": "LG2419B",
+    "Nombre": "Brillo Labial Music Star Matte",
+    "Precio": "NIO 23.53",
+    "Existencias": 168,
+    "Costo": "NIO 20.00",
+    "Proveedor": "Ushas",
+    "Status": "Inactive",
+    "Vencimiento": ""
+  },
+  {
+    "SKU": "LG2471A",
+    "Nombre": "Brillo Labial Luxurious Ushas A",
+    "Precio": "NIO 24.71",
+    "Existencias": 288,
+    "Costo": "NIO 21.00",
+    "Proveedor": "Ushas",
+    "Status": "Inactive",
+    "Vencimiento": "2026-01-01"
+  },
+  {
+    "SKU": "LG2471B",
+    "Nombre": "Brillo Labial Luxurious Ushas B",
+    "Precio": "NIO 24.71",
+    "Existencias": 288,
+    "Costo": "NIO 21.00",
+    "Proveedor": "Ushas",
+    "Status": "Inactive",
+    "Vencimiento": "2026-01-01"
+  },
+  {
+    "SKU": "LG2500",
+    "Nombre": "Rubor Love Pretty",
+    "Precio": "NIO 20.00",
+    "Existencias": 72,
+    "Costo": "NIO 17.00",
+    "Proveedor": "Ushas",
+    "Status": "Inactive",
+    "Vencimiento": "2026-06-01"
+  },
+  {
+    "SKU": "LG2504B",
+    "Nombre": "Labial Matte Ushas",
+    "Precio": "NIO 30.59",
+    "Existencias": 264,
+    "Costo": "NIO 26.00",
+    "Proveedor": "Ushas",
+    "Status": "Inactive",
+    "Vencimiento": ""
+  },
+  {
+    "SKU": "LG2513",
+    "Nombre": "Brillo Labial Ice Drink",
+    "Precio": "NIO 21.18",
+    "Existencias": 192,
+    "Costo": "NIO 18.00",
+    "Proveedor": "Ushas",
+    "Status": "Inactive",
+    "Vencimiento": ""
+  },
+  {
+    "SKU": "LG2519A",
+    "Nombre": "Labial Matte Ushas",
+    "Precio": "NIO 21.18",
+    "Existencias": 284,
+    "Costo": "NIO 18.00",
+    "Proveedor": "Ushas",
+    "Status": "Inactive",
+    "Vencimiento": "2026-08-01"
+  },
+  {
+    "SKU": "LG2522",
+    "Nombre": "Labial Beauty Kiss",
+    "Precio": "NIO 25.88",
+    "Existencias": 288,
+    "Costo": "NIO 22.00",
+    "Proveedor": "Ushas",
+    "Status": "Inactive",
+    "Vencimiento": ""
+  },
+  {
+    "SKU": "LG2525F",
+    "Nombre": "Brillo Labial Tinta Juicy",
+    "Precio": "NIO 27.06",
+    "Existencias": 120,
+    "Costo": "NIO 23.00",
+    "Proveedor": "Ushas",
+    "Status": "Inactive",
+    "Vencimiento": ""
+  },
+  {
+    "SKU": "LG2532",
+    "Nombre": "Brillo Labial Boom",
+    "Precio": "NIO 17.65",
+    "Existencias": 120,
+    "Costo": "NIO 15.00",
+    "Proveedor": "Ushas",
+    "Status": "Inactive",
+    "Vencimiento": "2028-07-01"
+  },
+  {
+    "SKU": "LO902",
+    "Nombre": "Polvo Suelto Scalon",
+    "Precio": "NIO 25.88",
+    "Existencias": 23,
+    "Costo": "NIO 22.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2027-01-01"
+  },
+  {
+    "SKU": "LO903",
+    "Nombre": "Polvo suelto banana Scanlon",
+    "Precio": "NIO 31.76",
+    "Existencias": 36,
+    "Costo": "NIO 27.00",
+    "Proveedor": "VB",
+    "Status": "Inactive",
+    "Vencimiento": "2027-01-01"
+  },
+  {
+    "SKU": "LO904",
+    "Nombre": "Polvo Banana Suelto Scanlon Iluminador Bronzing",
+    "Precio": "NIO 11.76",
+    "Existencias": 57,
+    "Costo": "NIO 10.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2026-01-01"
+  },
+  {
+    "SKU": "LP2282B",
+    "Nombre": "Labial Matte Dorado",
+    "Precio": "NIO 22.35",
+    "Existencias": 120,
+    "Costo": "NIO 19.00",
+    "Proveedor": "Ushas",
+    "Status": "Inactive",
+    "Vencimiento": "2028-05-01"
+  },
+  {
+    "SKU": "LP2288A",
+    "Nombre": "Lápiz Labial Kiss A",
+    "Precio": "NIO 21.18",
+    "Existencias": 288,
+    "Costo": "NIO 18.00",
+    "Proveedor": "Ushas",
+    "Status": "Inactive",
+    "Vencimiento": "2028-06-01"
+  },
+  {
+    "SKU": "LP2288B",
+    "Nombre": "Lápiz Labial Kiss-B",
+    "Precio": "NIO 21.18",
+    "Existencias": 264,
+    "Costo": "NIO 18.00",
+    "Proveedor": "Ushas",
+    "Status": "Inactive",
+    "Vencimiento": "2028-06-01"
+  },
+  {
+    "SKU": "LP2290",
+    "Nombre": "Balsamo Para Labios Ushas Aloe Vera",
+    "Precio": "NIO 20.00",
+    "Existencias": 264,
+    "Costo": "NIO 17.00",
+    "Proveedor": "Ushas",
+    "Status": "Inactive",
+    "Vencimiento": ""
+  },
+  {
+    "SKU": "LP2291",
+    "Nombre": "Balsamo Para Labios Ushas That Well",
+    "Precio": "NIO 18.82",
+    "Existencias": 192,
+    "Costo": "NIO 16.00",
+    "Proveedor": "Ushas",
+    "Status": "Inactive",
+    "Vencimiento": ""
+  },
+  {
+    "SKU": "LP2294",
+    "Nombre": "Labial en Barra Beauty Kiss",
+    "Precio": "NIO 21.18",
+    "Existencias": 216,
+    "Costo": "NIO 18.00",
+    "Proveedor": "Ushas",
+    "Status": "Inactive",
+    "Vencimiento": "2028-08-01"
+  },
+  {
+    "SKU": "LP2300",
+    "Nombre": "Balsamo para Labios Ushas",
+    "Precio": "NIO 15.29",
+    "Existencias": 480,
+    "Costo": "NIO 13.00",
+    "Proveedor": "Ushas",
+    "Status": "Inactive",
+    "Vencimiento": ""
+  },
+  {
+    "SKU": "LS112",
+    "Nombre": "Balsamo Para Labios Magic paleta espiral",
+    "Precio": "NIO 12.94",
+    "Existencias": 840,
+    "Costo": "NIO 11.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2028-05-01"
+  },
+  {
+    "SKU": "LS115",
+    "Nombre": "Balsamo Para Labios Magic Taza gatito",
+    "Precio": "NIO 14.12",
+    "Existencias": 744,
+    "Costo": "NIO 12.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2028-07-01"
+  },
+  {
+    "SKU": "LS116",
+    "Nombre": "Balsamo Para Labios Magic refresco",
+    "Precio": "NIO 14.12",
+    "Existencias": 2184,
+    "Costo": "NIO 12.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2028-07-01"
+  },
+  {
+    "SKU": "LS824",
+    "Nombre": "Balsamo para Labios Magic",
+    "Precio": "NIO 17.00",
+    "Existencias": 24,
+    "Costo": "NIO 13.18",
+    "Proveedor": "BISUTERIA",
+    "Status": "Inactive",
+    "Vencimiento": "2028-01-01"
+  },
+  {
+    "SKU": "M0010",
+    "Nombre": "Base Million Pauline Esencia de caracol SPF 25+",
+    "Precio": "NIO 44.71",
+    "Existencias": 192,
+    "Costo": "NIO 38.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2025-09-01"
+  },
+  {
+    "SKU": "M0045",
+    "Nombre": "Polvo Compacto Doble Million Pauline 24hr",
+    "Precio": "NIO 52.94",
+    "Existencias": 96,
+    "Costo": "NIO 45.00",
+    "Proveedor": "VB",
+    "Status": "Inactive",
+    "Vencimiento": "2026-04-01"
+  },
+  {
+    "SKU": "M0195",
+    "Nombre": "Primer Million Pauline",
+    "Precio": "NIO 40.00",
+    "Existencias": 240,
+    "Costo": "NIO 34.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2025-11-01"
+  },
+  {
+    "SKU": "M0273",
+    "Nombre": "Mascara de Pestañas 7D Million Pauline",
+    "Precio": "NIO 24.71",
+    "Existencias": 428,
+    "Costo": "NIO 21.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2026-06-01"
+  },
+  {
+    "SKU": "M0281",
+    "Nombre": "Base Velvet Touch SPF+ 10 Million Pauline",
+    "Precio": "NIO 41.18",
+    "Existencias": 348,
+    "Costo": "NIO 35.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2026-10-01"
+  },
+  {
+    "SKU": "M22-51",
+    "Nombre": "Polvo Compacto Doble Million Pauline tono claro",
+    "Precio": "NIO 52.94",
+    "Existencias": 81,
+    "Costo": "NIO 45.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2026-01-01"
+  },
+  {
+    "SKU": "M22-81",
+    "Nombre": "Mascara Million Pauline Ma XXL",
+    "Precio": "NIO 28.24",
+    "Existencias": 1260,
+    "Costo": "NIO 24.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2026-04-01"
+  },
+  {
+    "SKU": "M2227",
+    "Nombre": "Mascara a prueba de agua 4D Romantiic",
+    "Precio": "NIO 22.00",
+    "Existencias": 216,
+    "Costo": "NIO 17.13",
+    "Proveedor": "BISUTERIA",
+    "Status": "Active",
+    "Vencimiento": "2028-10-01"
+  },
+  {
+    "SKU": "M23-157",
+    "Nombre": "Mascara De Pestañas Million Pauline Sube El Volumen",
+    "Precio": "NIO 18.82",
+    "Existencias": 168,
+    "Costo": "NIO 16.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2026-10-01"
+  },
+  {
+    "SKU": "M23-27",
+    "Nombre": "Polvo Compacto y corrector Million Pauline Mate",
+    "Precio": "NIO 52.94",
+    "Existencias": 6,
+    "Costo": "NIO 52.94",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2027-04-01"
+  },
+  {
+    "SKU": "M23-36",
+    "Nombre": "Mascara Million Pauline Refresca y revive",
+    "Precio": "NIO 28.24",
+    "Existencias": 1255,
+    "Costo": "NIO 24.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2026-05-01"
+  },
+  {
+    "SKU": "M23-48",
+    "Nombre": "Mascara de Pestañas Sky High",
+    "Precio": "NIO 27.06",
+    "Existencias": 1032,
+    "Costo": "NIO 23.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2026-04-01"
+  },
+  {
+    "SKU": "M2602",
+    "Nombre": "Corrector Antiojeras 24h",
+    "Precio": "NIO 15.29",
+    "Existencias": 720,
+    "Costo": "NIO 13.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2026-01-01"
+  },
+  {
+    "SKU": "M610",
+    "Nombre": "Mascara Para Pestañas",
+    "Precio": "NIO 15.29",
+    "Existencias": 1056,
+    "Costo": "NIO 13.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2029-01-26"
+  },
+  {
+    "SKU": "MA1072",
+    "Nombre": "Máscara de Pestañas Love Febble",
+    "Precio": "NIO 31.76",
+    "Existencias": 192,
+    "Costo": "NIO 27.00",
+    "Proveedor": "Ushas",
+    "Status": "Inactive",
+    "Vencimiento": "2026-08-01"
+  },
+  {
+    "SKU": "MA1073",
+    "Nombre": "Mascara para cejas 3D Ushas",
+    "Precio": "NIO 25.88",
+    "Existencias": 216,
+    "Costo": "NIO 22.00",
+    "Proveedor": "Ushas",
+    "Status": "Inactive",
+    "Vencimiento": "2026-06-01"
+  },
+  {
+    "SKU": "MA1075",
+    "Nombre": "Máscara De Pestaña Ushas Transparente",
+    "Precio": "NIO 21.18",
+    "Existencias": 192,
+    "Costo": "NIO 18.00",
+    "Proveedor": "Ushas",
+    "Status": "Inactive",
+    "Vencimiento": "2026-06-01"
+  },
+  {
+    "SKU": "MA1087",
+    "Nombre": "Mascara De Pestañas",
+    "Precio": "NIO 27.06",
+    "Existencias": 216,
+    "Costo": "NIO 23.00",
+    "Proveedor": "Ushas",
+    "Status": "Inactive",
+    "Vencimiento": "2028-07-01"
+  },
+  {
+    "SKU": "MB-022",
+    "Nombre": "Lápiz Delineador Negro",
+    "Precio": "NIO 14.12",
+    "Existencias": 718,
+    "Costo": "NIO 12.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2026-01-01"
+  },
+  {
+    "SKU": "MB-023",
+    "Nombre": "Lapiz para cejas",
+    "Precio": "NIO 21.00",
+    "Existencias": 168,
+    "Costo": "NIO 18.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2026-01-01"
+  },
+  {
+    "SKU": "MM-048",
+    "Nombre": "Parche Para Ojos De Colágeno",
+    "Precio": "NIO 5.00",
+    "Existencias": 9326,
+    "Costo": "NIO 4.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2025-08-01"
+  },
+  {
+    "SKU": "MS1117B",
+    "Nombre": "Sombra Iluminador, sombra y blush Mels",
+    "Precio": "NIO 75.00",
+    "Existencias": 120,
+    "Costo": "NIO 59.29",
+    "Proveedor": "BISUTERIA",
+    "Status": "Active",
+    "Vencimiento": "2026-07-01"
+  },
+  {
+    "SKU": "N-8636P",
+    "Nombre": "Sombra de ojos Anylady Super Girl",
+    "Precio": "NIO 94.12",
+    "Existencias": 108,
+    "Costo": "NIO 80.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2027-07-01"
+  },
+  {
+    "SKU": "N220",
+    "Nombre": "Base Liquida Detoxificar Y Proteger Note",
+    "Precio": "NIO 12.94",
+    "Existencias": 528,
+    "Costo": "NIO 11.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2027-06-01"
+  },
+  {
+    "SKU": "N221",
+    "Nombre": "Primer Top Face Rellena & Refresca",
+    "Precio": "NIO 12.94",
+    "Existencias": 696,
+    "Costo": "NIO 11.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2025-12-01"
+  },
+  {
+    "SKU": "OLU909-112",
+    "Nombre": "Perfume Tubular Mome Blang",
+    "Precio": "NIO 21.18",
+    "Existencias": 141,
+    "Costo": "NIO 18.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": ""
+  },
+  {
+    "SKU": "OLU909-113",
+    "Nombre": "Perfume Tubular 212 Sexy Man",
+    "Precio": "NIO 21.18",
+    "Existencias": 47,
+    "Costo": "NIO 18.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": ""
+  },
+  {
+    "SKU": "OLU909-171",
+    "Nombre": "Perfume Tubular Invictus V",
+    "Precio": "NIO 21.18",
+    "Existencias": 72,
+    "Costo": "NIO 18.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": ""
+  },
+  {
+    "SKU": "OLU909-2",
+    "Nombre": "Perfume Tubular Billion Men",
+    "Precio": "NIO 21.18",
+    "Existencias": 71,
+    "Costo": "NIO 18.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": ""
+  },
+  {
+    "SKU": "OLU909-31",
+    "Nombre": "Perfume Tubular Blue De Chenale",
+    "Precio": "NIO 21.18",
+    "Existencias": 72,
+    "Costo": "NIO 18.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": ""
+  },
+  {
+    "SKU": "OLU909-50",
+    "Nombre": "Perfume Tubular Boos",
+    "Precio": "NIO 21.18",
+    "Existencias": 23,
+    "Costo": "NIO 18.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": ""
+  },
+  {
+    "SKU": "OLU909-6",
+    "Nombre": "Perfume Tubular Vercage",
+    "Precio": "NIO 21.18",
+    "Existencias": 96,
+    "Costo": "NIO 18.00",
+    "Proveedor": "VB",
+    "Status": "Inactive",
+    "Vencimiento": ""
+  },
+  {
+    "SKU": "OLU909-81",
+    "Nombre": "Perfume Tubular Swiss Army",
+    "Precio": "NIO 21.18",
+    "Existencias": 48,
+    "Costo": "NIO 18.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": ""
+  },
+  {
+    "SKU": "OLU909-91",
+    "Nombre": "Perfume Tubular Invictus",
+    "Precio": "NIO 21.18",
+    "Existencias": 47,
+    "Costo": "NIO 18.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": ""
+  },
+  {
+    "SKU": "OLU938-1",
+    "Nombre": "Perfume Legend para hombre 100ml",
+    "Precio": "NIO 59.00",
+    "Existencias": 119,
+    "Costo": "NIO 48.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": ""
+  },
+  {
+    "SKU": "OLU938-10",
+    "Nombre": "Perfume Bozzs para hombre 100ml",
+    "Precio": "NIO 59.00",
+    "Existencias": 70,
+    "Costo": "NIO 48.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": ""
+  },
+  {
+    "SKU": "OLU938-20",
+    "Nombre": "Perfume Amour Amour para mujer 100ml",
+    "Precio": "NIO 59.00",
+    "Existencias": 12,
+    "Costo": "NIO 48.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": ""
+  },
+  {
+    "SKU": "OLU938-21",
+    "Nombre": "Perfume IEAU DISSAY para hombre 100ml",
+    "Precio": "NIO 59.00",
+    "Existencias": 63,
+    "Costo": "NIO 48.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": ""
+  },
+  {
+    "SKU": "OLU938-23",
+    "Nombre": "Perfume King of Seduction",
+    "Precio": "NIO 59.00",
+    "Existencias": 72,
+    "Costo": "NIO 59.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": ""
+  },
+  {
+    "SKU": "OLU938-30",
+    "Nombre": "Perfume Disell",
+    "Precio": "NIO 59.00",
+    "Existencias": 60,
+    "Costo": "NIO 59.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": ""
+  },
+  {
+    "SKU": "OLU938-32",
+    "Nombre": "Perfume Bozzs para mujer",
+    "Precio": "NIO 59.00",
+    "Existencias": 6,
+    "Costo": "NIO 59.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": ""
+  },
+  {
+    "SKU": "OLU938-35",
+    "Nombre": "Perfume Bad Boy 100ml",
+    "Precio": "NIO 59.00",
+    "Existencias": 6,
+    "Costo": "NIO 59.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": ""
+  },
+  {
+    "SKU": "OLU938-4",
+    "Nombre": "Perfume For Alway",
+    "Precio": "NIO 59.00",
+    "Existencias": 48,
+    "Costo": "NIO 59.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": ""
+  },
+  {
+    "SKU": "OLU938-5",
+    "Nombre": "Perfume 2i2 VIP Men",
+    "Precio": "NIO 59.00",
+    "Existencias": 210,
+    "Costo": "NIO 48.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": ""
+  },
+  {
+    "SKU": "OLU938-53",
+    "Nombre": "Perfume Swis Amy para mujer 100ml",
+    "Precio": "NIO 59.00",
+    "Existencias": 16,
+    "Costo": "NIO 48.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": ""
+  },
+  {
+    "SKU": "OLU938-54",
+    "Nombre": "Perfume Hello Man 2i2 100ml",
+    "Precio": "NIO 59.00",
+    "Existencias": 60,
+    "Costo": "NIO 48.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": ""
+  },
+  {
+    "SKU": "OLU938-57",
+    "Nombre": "Perfume Invictus V",
+    "Precio": "NIO 59.00",
+    "Existencias": 222,
+    "Costo": "NIO 59.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": ""
+  },
+  {
+    "SKU": "OLU988-1",
+    "Nombre": "Perfume niña science",
+    "Precio": "NIO 42.35",
+    "Existencias": 72,
+    "Costo": "NIO 36.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": ""
+  },
+  {
+    "SKU": "OTS018",
+    "Nombre": "Paleta Sombra, Contorno y Blush Overture",
+    "Precio": "NIO 52.00",
+    "Existencias": 239,
+    "Costo": "NIO 41.28",
+    "Proveedor": "BISUTERIA",
+    "Status": "Active",
+    "Vencimiento": "2027-07-01"
+  },
+  {
+    "SKU": "OTS068",
+    "Nombre": "Paleta Blush Overture",
+    "Precio": "NIO 58.00",
+    "Existencias": 192,
+    "Costo": "NIO 46.12",
+    "Proveedor": "BISUTERIA",
+    "Status": "Active",
+    "Vencimiento": "2027-11-01"
+  },
+  {
+    "SKU": "OTX056",
+    "Nombre": "Corrector 6 colores Overture",
+    "Precio": "NIO 42.00",
+    "Existencias": 216,
+    "Costo": "NIO 32.94",
+    "Proveedor": "BISUTERIA",
+    "Status": "Active",
+    "Vencimiento": "2027-10-01"
+  },
+  {
+    "SKU": "P003",
+    "Nombre": "Primer base Mate Infalible Lorel",
+    "Precio": "NIO 18.00",
+    "Existencias": 3348,
+    "Costo": "NIO 14.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2026-01-01"
+  },
+  {
+    "SKU": "P004",
+    "Nombre": "Primer baby skin Maybelline borrador de poros",
+    "Precio": "NIO 18.00",
+    "Existencias": 3828,
+    "Costo": "NIO 14.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2026-01-01"
+  },
+  {
+    "SKU": "PK145",
+    "Nombre": "Corrector Liquido Pink Key",
+    "Precio": "NIO 23.53",
+    "Existencias": 432,
+    "Costo": "NIO 20.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2027-09-01"
+  },
+  {
+    "SKU": "PK204",
+    "Nombre": "Sombra Pink Key UltraLight y rapido secado",
+    "Precio": "NIO 19.00",
+    "Existencias": 24,
+    "Costo": "NIO 16.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2027-11-01"
+  },
+  {
+    "SKU": "R182/R187",
+    "Nombre": "Balsamo para labios Paleta Romantic",
+    "Precio": "NIO 11.76",
+    "Existencias": 237,
+    "Costo": "NIO 10.00",
+    "Proveedor": "Ushas",
+    "Status": "Inactive",
+    "Vencimiento": "2026-08-01"
+  },
+  {
+    "SKU": "RE-2004",
+    "Nombre": "Secadora De Cabello Remlngton 5000w",
+    "Precio": "NIO 270.59",
+    "Existencias": 10,
+    "Costo": "NIO 230.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2029-01-26"
+  },
+  {
+    "SKU": "RE-2038",
+    "Nombre": "Secadora De Cabello Reddenton 3000w",
+    "Precio": "NIO 305.88",
+    "Existencias": 15,
+    "Costo": "NIO 260.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2029-01-26"
+  },
+  {
+    "SKU": "RKQ-2609",
+    "Nombre": "Serum Facial de Colágeno Erha21 30ml",
+    "Precio": "NIO 29.41",
+    "Existencias": 495,
+    "Costo": "NIO 25.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2026-06-01"
+  },
+  {
+    "SKU": "RKQ-DM30",
+    "Nombre": "Serum Facial de Arroz Erha21 30ml",
+    "Precio": "NIO 29.41",
+    "Existencias": 123,
+    "Costo": "NIO 25.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2026-06-01"
+  },
+  {
+    "SKU": "RX150X",
+    "Nombre": "Limpiador Facial 150ml Multi proposito",
+    "Precio": "NIO 52.94",
+    "Existencias": 181,
+    "Costo": "NIO 45.00",
+    "Proveedor": "VB",
+    "Status": "Inactive",
+    "Vencimiento": "2026-05-01"
+  },
+  {
+    "SKU": "S11-1066",
+    "Nombre": "Formador Barba Stay",
+    "Precio": "NIO 20.22",
+    "Existencias": 84,
+    "Costo": "NIO 18.00",
+    "Proveedor": "Stay",
+    "Status": "Inactive",
+    "Vencimiento": "2029-01-01"
+  },
+  {
+    "SKU": "S16-002",
+    "Nombre": "Base con Vitamina E y SPF 30+",
+    "Precio": "NIO 43.82",
+    "Existencias": 144,
+    "Costo": "NIO 39.00",
+    "Proveedor": "Stay",
+    "Status": "Active",
+    "Vencimiento": "2026-05-01"
+  },
+  {
+    "SKU": "S17-002",
+    "Nombre": "Shampoo Y Acondicionador Caja Romero Stay",
+    "Precio": "NIO 128.00",
+    "Existencias": 90,
+    "Costo": "NIO 89.00",
+    "Proveedor": "",
+    "Status": "Active",
+    "Vencimiento": ""
+  },
+  {
+    "SKU": "S17-004",
+    "Nombre": "Shampoo Y Acondicionador Caja Aloe Vera Stay",
+    "Precio": "NIO 128.00",
+    "Existencias": 66,
+    "Costo": "NIO 89.00",
+    "Proveedor": "",
+    "Status": "Active",
+    "Vencimiento": ""
+  },
+  {
+    "SKU": "S17-005",
+    "Nombre": "Tratamiento Para Cabello Argan 800g Stay",
+    "Precio": "NIO 108.00",
+    "Existencias": 18,
+    "Costo": "NIO 72.00",
+    "Proveedor": "Stay",
+    "Status": "Inactive",
+    "Vencimiento": "2027-10-07"
+  },
+  {
+    "SKU": "S17-007",
+    "Nombre": "Tratamiento Para Cabello Coco 800g Stay",
+    "Precio": "NIO 108.00",
+    "Existencias": 1,
+    "Costo": "NIO 72.00",
+    "Proveedor": "Stay",
+    "Status": "Inactive",
+    "Vencimiento": "2026-05-07"
+  },
+  {
+    "SKU": "S17-009",
+    "Nombre": "Tratamiento Para Cabello Aloe Y Keratina 800g Stay",
+    "Precio": "NIO 108.00",
+    "Existencias": 1,
+    "Costo": "NIO 71.00",
+    "Proveedor": "Stay",
+    "Status": "Inactive",
+    "Vencimiento": "2027-11-30"
+  },
+  {
+    "SKU": "S17-019",
+    "Nombre": "Shampoo Y Acondicionador 1000 Ml Oliva",
+    "Precio": "NIO 215.00",
+    "Existencias": 32,
+    "Costo": "NIO 150.00",
+    "Proveedor": "Stay",
+    "Status": "Active",
+    "Vencimiento": "2026-02-01"
+  },
+  {
+    "SKU": "S17-020",
+    "Nombre": "Shampoo Y Acondicionador Aloe Vera 1000ml Stay",
+    "Precio": "NIO 215.00",
+    "Existencias": 36,
+    "Costo": "NIO 145.00",
+    "Proveedor": "",
+    "Status": "Active",
+    "Vencimiento": ""
+  },
+  {
+    "SKU": "S17-022",
+    "Nombre": "Shampoo Y Acondicionador Caja Keratina",
+    "Precio": "NIO 128.00",
+    "Existencias": 90,
+    "Costo": "NIO 89.00",
+    "Proveedor": "",
+    "Status": "Active",
+    "Vencimiento": ""
+  },
+  {
+    "SKU": "S17-023",
+    "Nombre": "Shampoo Y Acondicionador Caja Argan",
+    "Precio": "NIO 128.00",
+    "Existencias": 104,
+    "Costo": "NIO 89.00",
+    "Proveedor": "Stay",
+    "Status": "Active",
+    "Vencimiento": "2025-07-01"
+  },
+  {
+    "SKU": "S17-024",
+    "Nombre": "Shampoo Y Acondicionador 1000 Ml Argan",
+    "Precio": "NIO 215.00",
+    "Existencias": 36,
+    "Costo": "NIO 150.00",
+    "Proveedor": "Stay",
+    "Status": "Active",
+    "Vencimiento": "2026-02-01"
+  },
+  {
+    "SKU": "S17-025",
+    "Nombre": "Shampoo Y Acondicionador Cola de caballo Romero 1000ml Stay",
+    "Precio": "NIO 215.00",
+    "Existencias": 36,
+    "Costo": "NIO 145.00",
+    "Proveedor": "",
+    "Status": "Active",
+    "Vencimiento": ""
+  },
+  {
+    "SKU": "S17-026",
+    "Nombre": "Shampoo Y Acondicionador 1000 ML Coco",
+    "Precio": "NIO 215.00",
+    "Existencias": 36,
+    "Costo": "NIO 150.00",
+    "Proveedor": "",
+    "Status": "Active",
+    "Vencimiento": ""
+  },
+  {
+    "SKU": "S17-1121",
+    "Nombre": "Shampoo 1000ml Coconut",
+    "Precio": "NIO 95.00",
+    "Existencias": 88,
+    "Costo": "NIO 84.00",
+    "Proveedor": "Stay",
+    "Status": "Active",
+    "Vencimiento": "2024-07-01"
+  },
+  {
+    "SKU": "S18-001",
+    "Nombre": "Mascarilla Facial De Aloe Vera Stay",
+    "Precio": "NIO 20.00",
+    "Existencias": 431,
+    "Costo": "NIO 17.00",
+    "Proveedor": "Stay",
+    "Status": "Inactive",
+    "Vencimiento": "2024-07-01"
+  },
+  {
+    "SKU": "S18-002",
+    "Nombre": "Mascarilla Facial De Pepino Stay",
+    "Precio": "NIO 20.00",
+    "Existencias": 438,
+    "Costo": "NIO 17.00",
+    "Proveedor": "Stay",
+    "Status": "Inactive",
+    "Vencimiento": "2024-07-01"
+  },
+  {
+    "SKU": "S18-003",
+    "Nombre": "Mascarilla Facial De Aguacate Stay",
+    "Precio": "NIO 20.00",
+    "Existencias": 999,
+    "Costo": "NIO 17.00",
+    "Proveedor": "Stay",
+    "Status": "Inactive",
+    "Vencimiento": "2024-07-01"
+  },
+  {
+    "SKU": "S2-0061",
+    "Nombre": "Lima Para Uña Stay",
+    "Precio": "NIO 11.24",
+    "Existencias": 558,
+    "Costo": "NIO 10.00",
+    "Proveedor": "Stay",
+    "Status": "Active",
+    "Vencimiento": "2029-01-01"
+  },
+  {
+    "SKU": "S2-0063",
+    "Nombre": "Pala Para Pedicure Plastica",
+    "Precio": "NIO 22.35",
+    "Existencias": 149,
+    "Costo": "NIO 19.00",
+    "Proveedor": "Stay",
+    "Status": "Active",
+    "Vencimiento": "2029-01-01"
+  },
+  {
+    "SKU": "S2-0066",
+    "Nombre": "Pala Para pies Metalica Stay",
+    "Precio": "NIO 20.00",
+    "Existencias": 341,
+    "Costo": "NIO 17.00",
+    "Proveedor": "Stay",
+    "Status": "Active",
+    "Vencimiento": "2029-01-01"
+  },
+  {
+    "SKU": "S2-0361",
+    "Nombre": "Esponja Facial Exfoliante Stay",
+    "Precio": "NIO 23.60",
+    "Existencias": 311,
+    "Costo": "NIO 21.00",
+    "Proveedor": "Stay",
+    "Status": "Inactive",
+    "Vencimiento": "2029-01-01"
+  },
+  {
+    "SKU": "S2-0511",
+    "Nombre": "Pala Y Lima De Pedicure 4 En 1",
+    "Precio": "NIO 47.06",
+    "Existencias": 3,
+    "Costo": "NIO 47.06",
+    "Proveedor": "Stay",
+    "Status": "Active",
+    "Vencimiento": "2029-01-01"
+  },
+  {
+    "SKU": "S2-0581",
+    "Nombre": "Limpia Cutícula Stay",
+    "Precio": "NIO 20.00",
+    "Existencias": 156,
+    "Costo": "NIO 15.00",
+    "Proveedor": "Stay",
+    "Status": "Active",
+    "Vencimiento": "2029-01-01"
+  },
+  {
+    "SKU": "S2-0618",
+    "Nombre": "Brocha De Barbero",
+    "Precio": "NIO 54.12",
+    "Existencias": 520,
+    "Costo": "NIO 46.00",
+    "Proveedor": "Stay",
+    "Status": "Active",
+    "Vencimiento": "2029-01-01"
+  },
+  {
+    "SKU": "S2-0658",
+    "Nombre": "Pinza Para Ceja Muñeca",
+    "Precio": "NIO 18.82",
+    "Existencias": 1,
+    "Costo": "NIO 16.00",
+    "Proveedor": "Stay",
+    "Status": "Inactive",
+    "Vencimiento": ""
+  },
+  {
+    "SKU": "S2-0737",
+    "Nombre": "Cepillo peinilla para Cabello Stay",
+    "Precio": "NIO 25.88",
+    "Existencias": 233,
+    "Costo": "NIO 22.00",
+    "Proveedor": "Stay",
+    "Status": "Active",
+    "Vencimiento": "2029-01-01"
+  },
+  {
+    "SKU": "S2-0759",
+    "Nombre": "Set de esponjas para maquillar Stay",
+    "Precio": "NIO 24.72",
+    "Existencias": 36,
+    "Costo": "NIO 22.00",
+    "Proveedor": "Stay",
+    "Status": "Active",
+    "Vencimiento": "2029-01-01"
+  },
+  {
+    "SKU": "S2-0771",
+    "Nombre": "Lima Para Pedicure Stay",
+    "Precio": "NIO 12.00",
+    "Existencias": 409,
+    "Costo": "NIO 10.00",
+    "Proveedor": "Stay",
+    "Status": "Active",
+    "Vencimiento": "2029-01-01"
+  },
+  {
+    "SKU": "S2-0796",
+    "Nombre": "Esponja Facial Makeup Puff",
+    "Precio": "NIO 25.84",
+    "Existencias": 120,
+    "Costo": "NIO 23.00",
+    "Proveedor": "Stay",
+    "Status": "Active",
+    "Vencimiento": "2029-01-01"
+  },
+  {
+    "SKU": "S2-0866",
+    "Nombre": "Encrespadora de Pestaña Stay",
+    "Precio": "NIO 29.41",
+    "Existencias": 273,
+    "Costo": "NIO 25.00",
+    "Proveedor": "Stay",
+    "Status": "Active",
+    "Vencimiento": "2029-01-01"
+  },
+  {
+    "SKU": "S2-0868",
+    "Nombre": "Pinza Depiladora para Ceja Stay",
+    "Precio": "NIO 19.00",
+    "Existencias": 342,
+    "Costo": "NIO 16.00",
+    "Proveedor": "Stay",
+    "Status": "Active",
+    "Vencimiento": "2029-01-01"
+  },
+  {
+    "SKU": "S2-0925",
+    "Nombre": "Lima Para Pedicure Azucar",
+    "Precio": "NIO 28.09",
+    "Existencias": 276,
+    "Costo": "NIO 25.00",
+    "Proveedor": "Stay",
+    "Status": "Inactive",
+    "Vencimiento": "2029-01-01"
+  },
+  {
+    "SKU": "S2-0971",
+    "Nombre": "Desmaquillante Facial",
+    "Precio": "NIO 66.29",
+    "Existencias": 24,
+    "Costo": "NIO 59.00",
+    "Proveedor": "Stay",
+    "Status": "Active",
+    "Vencimiento": "2025-12-01"
+  },
+  {
+    "SKU": "S2-1035",
+    "Nombre": "Cepillo Para Cabello Stay Osito",
+    "Precio": "NIO 51.76",
+    "Existencias": 24,
+    "Costo": "NIO 44.00",
+    "Proveedor": "Stay",
+    "Status": "Inactive",
+    "Vencimiento": "2029-01-26"
+  },
+  {
+    "SKU": "S2-1276",
+    "Nombre": "Set para Ceja Set 3 Pzas",
+    "Precio": "NIO 35.96",
+    "Existencias": 22,
+    "Costo": "NIO 32.00",
+    "Proveedor": "Stay",
+    "Status": "Inactive",
+    "Vencimiento": "2029-01-26"
+  },
+  {
+    "SKU": "S2-1371",
+    "Nombre": "Rizador de Pestaña Stay",
+    "Precio": "NIO 40.45",
+    "Existencias": 60,
+    "Costo": "NIO 36.00",
+    "Proveedor": "Stay",
+    "Status": "Active",
+    "Vencimiento": "2029-01-01"
+  },
+  {
+    "SKU": "S20-05AS",
+    "Nombre": "Esmalte Para Uña 12 Colores",
+    "Precio": "NIO 19.10",
+    "Existencias": 612,
+    "Costo": "NIO 17.00",
+    "Proveedor": "Stay",
+    "Status": "Active",
+    "Vencimiento": "2026-01-01"
+  },
+  {
+    "SKU": "S20-10AS",
+    "Nombre": "Esmalte Para Uña 4 Tonos Pasteles",
+    "Precio": "NIO 19.10",
+    "Existencias": 7,
+    "Costo": "NIO 17.00",
+    "Proveedor": "Stay",
+    "Status": "Inactive",
+    "Vencimiento": ""
+  },
+  {
+    "SKU": "S21-021",
+    "Nombre": "Pincel Para Uñas",
+    "Precio": "NIO 13.48",
+    "Existencias": 34,
+    "Costo": "NIO 12.00",
+    "Proveedor": "Stay",
+    "Status": "Inactive",
+    "Vencimiento": "2026-01-01"
+  },
+  {
+    "SKU": "S23-001",
+    "Nombre": "Exfoliante Para Rostro Durazno 500ml",
+    "Precio": "NIO 162.00",
+    "Existencias": 6,
+    "Costo": "NIO 113.00",
+    "Proveedor": "Stay",
+    "Status": "Inactive",
+    "Vencimiento": "2025-01-01"
+  },
+  {
+    "SKU": "S23-008",
+    "Nombre": "Exfoliante Para Rostro Menta 500ml",
+    "Precio": "NIO 162.00",
+    "Existencias": 16,
+    "Costo": "NIO 113.00",
+    "Proveedor": "Stay",
+    "Status": "Active",
+    "Vencimiento": "2025-01-01"
+  },
+  {
+    "SKU": "S23-009",
+    "Nombre": "Exfoliante Para Rostro Avena Y Miel 500ml Stay",
+    "Precio": "NIO 149.00",
+    "Existencias": 223,
+    "Costo": "NIO 113.00",
+    "Proveedor": "Stay",
+    "Status": "Active",
+    "Vencimiento": "2025-08-01"
+  },
+  {
+    "SKU": "S23-0538",
+    "Nombre": "Crema para Peinar Olive 300ml Stay",
+    "Precio": "NIO 97.20",
+    "Existencias": 1,
+    "Costo": "NIO 68.00",
+    "Proveedor": "Stay",
+    "Status": "Inactive",
+    "Vencimiento": "2025-12-01"
+  },
+  {
+    "SKU": "S23-1165",
+    "Nombre": "Exfoliante Para Rostro Frutos Silvestres 500ml Stay",
+    "Precio": "NIO 149.00",
+    "Existencias": 8,
+    "Costo": "NIO 149.00",
+    "Proveedor": "Stay",
+    "Status": "Active",
+    "Vencimiento": "2025-08-01"
+  },
+  {
+    "SKU": "S23-1346",
+    "Nombre": "Crema Para Peinar Y Tratamiento Coco 500ml Stay",
+    "Precio": "NIO 118.00",
+    "Existencias": 165,
+    "Costo": "NIO 82.00",
+    "Proveedor": "Stay",
+    "Status": "Active",
+    "Vencimiento": "2026-03-22"
+  },
+  {
+    "SKU": "S23-1350",
+    "Nombre": "Crema para Peinar Y Tratamiento Aloe Vera 500ml",
+    "Precio": "NIO 118.00",
+    "Existencias": 1,
+    "Costo": "NIO 82.00",
+    "Proveedor": "Stay",
+    "Status": "Inactive",
+    "Vencimiento": "2025-11-01"
+  },
+  {
+    "SKU": "S26-004",
+    "Nombre": "Navaja De Belleza 2 En 1",
+    "Precio": "NIO 22.47",
+    "Existencias": 636,
+    "Costo": "NIO 20.00",
+    "Proveedor": "Stay",
+    "Status": "Active",
+    "Vencimiento": "2029-01-01"
+  },
+  {
+    "SKU": "S29-001",
+    "Nombre": "Brocha Para Maquillaje Set 7 Pzas Stay",
+    "Precio": "NIO 58.82",
+    "Existencias": 132,
+    "Costo": "NIO 50.00",
+    "Proveedor": "Stay",
+    "Status": "Inactive",
+    "Vencimiento": "2029-01-01"
+  },
+  {
+    "SKU": "S29-1193",
+    "Nombre": "Esponja Facial Stay 6 piezas",
+    "Precio": "NIO 32.58",
+    "Existencias": 131,
+    "Costo": "NIO 29.00",
+    "Proveedor": "Stay",
+    "Status": "Active",
+    "Vencimiento": "2029-01-01"
+  },
+  {
+    "SKU": "S3-011",
+    "Nombre": "Protector Solar 50 SPF Stay",
+    "Precio": "NIO 72.00",
+    "Existencias": 72,
+    "Costo": "NIO 50.00",
+    "Proveedor": "Stay",
+    "Status": "Active",
+    "Vencimiento": "2026-11-30"
+  },
+  {
+    "SKU": "S32-1160",
+    "Nombre": "Toallas Húmeda 100 Hojas Antibacterial",
+    "Precio": "NIO 56.18",
+    "Existencias": 95,
+    "Costo": "NIO 50.00",
+    "Proveedor": "Stay",
+    "Status": "Active",
+    "Vencimiento": "2025-12-01"
+  },
+  {
+    "SKU": "S33-004",
+    "Nombre": "Jabon Para Manos Stay 413ml Mint",
+    "Precio": "NIO 44.94",
+    "Existencias": 31,
+    "Costo": "NIO 40.00",
+    "Proveedor": "Stay",
+    "Status": "Inactive",
+    "Vencimiento": "2023-04-01"
+  },
+  {
+    "SKU": "S33-008",
+    "Nombre": "Jabon Para Manos Stay 413ml Apple",
+    "Precio": "NIO 44.94",
+    "Existencias": 49,
+    "Costo": "NIO 40.00",
+    "Proveedor": "Stay",
+    "Status": "Inactive",
+    "Vencimiento": "2023-04-01"
+  },
+  {
+    "SKU": "S35-001",
+    "Nombre": "Exfoliante Corporal Green Tea 532ml",
+    "Precio": "NIO 69.00",
+    "Existencias": 7,
+    "Costo": "NIO 69.00",
+    "Proveedor": "Stay",
+    "Status": "Active",
+    "Vencimiento": "2026-07-01"
+  },
+  {
+    "SKU": "S35-002",
+    "Nombre": "Exfoliante Corporal Aloe Vera 532ml Stay",
+    "Precio": "NIO 69.00",
+    "Existencias": 9,
+    "Costo": "NIO 69.00",
+    "Proveedor": "Stay",
+    "Status": "Active",
+    "Vencimiento": "2026-07-01"
+  },
+  {
+    "SKU": "S35-003",
+    "Nombre": "Exfoliante Corporal Cocoa 532ml",
+    "Precio": "NIO 69.00",
+    "Existencias": 19,
+    "Costo": "NIO 47.00",
+    "Proveedor": "Stay",
+    "Status": "Active",
+    "Vencimiento": "2027-12-01"
+  },
+  {
+    "SKU": "S35-005",
+    "Nombre": "Locion Corporal Aloe Vera 532ml",
+    "Precio": "NIO 78.00",
+    "Existencias": 81,
+    "Costo": "NIO 54.00",
+    "Proveedor": "Stay",
+    "Status": "Active",
+    "Vencimiento": "2026-01-01"
+  },
+  {
+    "SKU": "S35-015",
+    "Nombre": "Crema depiladora de Aloe Vera",
+    "Precio": "NIO 72.00",
+    "Existencias": 11,
+    "Costo": "NIO 47.00",
+    "Proveedor": "Stay",
+    "Status": "Active",
+    "Vencimiento": "2027-10-18"
+  },
+  {
+    "SKU": "S35-023",
+    "Nombre": "Limpiador Facial Verde 200ml",
+    "Precio": "NIO 63.00",
+    "Existencias": 455,
+    "Costo": "NIO 44.00",
+    "Proveedor": "Stay",
+    "Status": "Active",
+    "Vencimiento": "2026-01-01"
+  },
+  {
+    "SKU": "S35-0606",
+    "Nombre": "Talco P/Pies 24 Horas",
+    "Precio": "NIO 47.19",
+    "Existencias": 61,
+    "Costo": "NIO 42.00",
+    "Proveedor": "Stay",
+    "Status": "Active",
+    "Vencimiento": "2026-01-01"
+  },
+  {
+    "SKU": "S35-0711",
+    "Nombre": "Exfoliante Corporal Mango Y Naranja 532ml",
+    "Precio": "NIO 69.00",
+    "Existencias": 12,
+    "Costo": "NIO 47.00",
+    "Proveedor": "Stay",
+    "Status": "Active",
+    "Vencimiento": "2027-10-01"
+  },
+  {
+    "SKU": "S35-0939",
+    "Nombre": "Limpiador Facial Rosado 200ml",
+    "Precio": "NIO 63.00",
+    "Existencias": 471,
+    "Costo": "NIO 44.00",
+    "Proveedor": "Stay",
+    "Status": "Active",
+    "Vencimiento": "2026-01-01"
+  },
+  {
+    "SKU": "S35-1151",
+    "Nombre": "Exfoliante Facial Frutos Silvestres. 6 Oz 170g",
+    "Precio": "NIO 66.00",
+    "Existencias": 230,
+    "Costo": "NIO 46.00",
+    "Proveedor": "Stay",
+    "Status": "Active",
+    "Vencimiento": "2023-11-01"
+  },
+  {
+    "SKU": "S35-1447",
+    "Nombre": "Crema depiladora 150g Stay 3 en 1",
+    "Precio": "NIO 68.00",
+    "Existencias": 180,
+    "Costo": "NIO 47.00",
+    "Proveedor": "Stay",
+    "Status": "Active",
+    "Vencimiento": "2027-10-01"
+  },
+  {
+    "SKU": "S35-1457",
+    "Nombre": "Crema corporal humectante Miel 444ml",
+    "Precio": "NIO 68.00",
+    "Existencias": 12,
+    "Costo": "NIO 47.00",
+    "Proveedor": "Stay",
+    "Status": "Active",
+    "Vencimiento": "2027-10-24"
+  },
+  {
+    "SKU": "S36-001",
+    "Nombre": "Puntero Pincel De Uñas 5 Pcs",
+    "Precio": "NIO 44.94",
+    "Existencias": 336,
+    "Costo": "NIO 40.00",
+    "Proveedor": "Stay",
+    "Status": "Active",
+    "Vencimiento": "2029-01-01"
+  },
+  {
+    "SKU": "S37-002",
+    "Nombre": "Tijera Stay",
+    "Precio": "NIO 28.24",
+    "Existencias": 168,
+    "Costo": "NIO 24.00",
+    "Proveedor": "Stay",
+    "Status": "Active",
+    "Vencimiento": "2029-01-01"
+  },
+  {
+    "SKU": "S37-0884",
+    "Nombre": "Pala para Pedicure Madera Stay",
+    "Precio": "NIO 23.60",
+    "Existencias": 169,
+    "Costo": "NIO 21.00",
+    "Proveedor": "Stay",
+    "Status": "Active",
+    "Vencimiento": "2029-01-01"
+  },
+  {
+    "SKU": "S40-1021",
+    "Nombre": "Mascarilla Hidroplastica Facial de Pepino Stay",
+    "Precio": "NIO 59.00",
+    "Existencias": 228,
+    "Costo": "NIO 57.00",
+    "Proveedor": "Stay",
+    "Status": "Inactive",
+    "Vencimiento": "2024-04-01"
+  },
+  {
+    "SKU": "S40-1150",
+    "Nombre": "Agua Micelar Desmaquillante Stay",
+    "Precio": "NIO 73.00",
+    "Existencias": 92,
+    "Costo": "NIO 62.00",
+    "Proveedor": "Stay",
+    "Status": "Active",
+    "Vencimiento": "2026-03-01"
+  },
+  {
+    "SKU": "S51-0923",
+    "Nombre": "Shampoo Genio Niño y Niña 1000ml",
+    "Precio": "NIO 149.00",
+    "Existencias": 5,
+    "Costo": "NIO 125.00",
+    "Proveedor": "Stay",
+    "Status": "Inactive",
+    "Vencimiento": ""
+  },
+  {
+    "SKU": "S6-1130",
+    "Nombre": "Delineador Liquido azul Stay",
+    "Precio": "NIO 29.00",
+    "Existencias": 165,
+    "Costo": "NIO 31.00",
+    "Proveedor": "Stay",
+    "Status": "Active",
+    "Vencimiento": "2025-03-22"
+  },
+  {
+    "SKU": "S6-1140A",
+    "Nombre": "Iluminador y bronceador Stay",
+    "Precio": "NIO 37.08",
+    "Existencias": 192,
+    "Costo": "NIO 33.00",
+    "Proveedor": "Stay",
+    "Status": "Active",
+    "Vencimiento": "2025-07-01"
+  },
+  {
+    "SKU": "S6-1140B",
+    "Nombre": "Sombra 2 En 1 Stay",
+    "Precio": "NIO 37.08",
+    "Existencias": 312,
+    "Costo": "NIO 33.00",
+    "Proveedor": "Stay",
+    "Status": "Active",
+    "Vencimiento": "2025-07-01"
+  },
+  {
+    "SKU": "S6-1234",
+    "Nombre": "Delineador Lapiz",
+    "Precio": "NIO 10.11",
+    "Existencias": 1,
+    "Costo": "NIO 9.00",
+    "Proveedor": "Stay",
+    "Status": "Inactive",
+    "Vencimiento": "2028-03-01"
+  },
+  {
+    "SKU": "S6-1362",
+    "Nombre": "Delineador 5D Waterprof",
+    "Precio": "NIO 43.82",
+    "Existencias": 120,
+    "Costo": "NIO 39.00",
+    "Proveedor": "Stay",
+    "Status": "Active",
+    "Vencimiento": "2026-03-22"
+  },
+  {
+    "SKU": "S6-1363",
+    "Nombre": "Mascara Stay ultra volumen",
+    "Precio": "NIO 34.83",
+    "Existencias": 240,
+    "Costo": "NIO 31.00",
+    "Proveedor": "Stay",
+    "Status": "Active",
+    "Vencimiento": "2025-12-01"
+  },
+  {
+    "SKU": "S6-1364",
+    "Nombre": "Corrector de color Stay",
+    "Precio": "NIO 57.30",
+    "Existencias": 192,
+    "Costo": "NIO 51.00",
+    "Proveedor": "Stay",
+    "Status": "Active",
+    "Vencimiento": "2027-03-01"
+  },
+  {
+    "SKU": "S7-001",
+    "Nombre": "Mascara Stay transparente en gel",
+    "Precio": "NIO 32.58",
+    "Existencias": 432,
+    "Costo": "NIO 29.00",
+    "Proveedor": "Stay",
+    "Status": "Active",
+    "Vencimiento": "2026-05-01"
+  },
+  {
+    "SKU": "S8-1005",
+    "Nombre": "Mascara de Pestaña Stay 2 En 1",
+    "Precio": "NIO 41.57",
+    "Existencias": 575,
+    "Costo": "NIO 37.00",
+    "Proveedor": "Stay",
+    "Status": "Active",
+    "Vencimiento": "2026-12-01"
+  },
+  {
+    "SKU": "SAC005-1",
+    "Nombre": "Removedor de maquillaje SAS",
+    "Precio": "NIO 66.00",
+    "Existencias": 60,
+    "Costo": "NIO 52.70",
+    "Proveedor": "BISUTERIA",
+    "Status": "Active",
+    "Vencimiento": "2029-01-01"
+  },
+  {
+    "SKU": "SAC005-2",
+    "Nombre": "Removedor de maquillaje SAS",
+    "Precio": "NIO 66.00",
+    "Existencias": 60,
+    "Costo": "NIO 52.70",
+    "Proveedor": "BISUTERIA",
+    "Status": "Active",
+    "Vencimiento": "2029-01-01"
+  },
+  {
+    "SKU": "SAC005-4",
+    "Nombre": "Removedor de maquillaje SAS",
+    "Precio": "NIO 66.00",
+    "Existencias": 60,
+    "Costo": "NIO 52.70",
+    "Proveedor": "BISUTERIA",
+    "Status": "Active",
+    "Vencimiento": "2029-01-01"
+  },
+  {
+    "SKU": "SB802",
+    "Nombre": "Rubor Scalon",
+    "Precio": "NIO 70.59",
+    "Existencias": 251,
+    "Costo": "NIO 60.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2028-01-01"
+  },
+  {
+    "SKU": "SD30878",
+    "Nombre": "Ampolla Facial con Acido Hialuronico 7pcs x 2ml",
+    "Precio": "NIO 32.94",
+    "Existencias": 27,
+    "Costo": "NIO 28.00",
+    "Proveedor": "VB",
+    "Status": "Inactive",
+    "Vencimiento": "2026-07-01"
+  },
+  {
+    "SKU": "SD31936",
+    "Nombre": "Ampolla Facial con Vitamina C 7pcs x 2ml",
+    "Precio": "NIO 32.94",
+    "Existencias": 141,
+    "Costo": "NIO 28.00",
+    "Proveedor": "VB",
+    "Status": "Inactive",
+    "Vencimiento": "2025-08-01"
+  },
+  {
+    "SKU": "SD31943",
+    "Nombre": "Ampolla Facial 24K Gold 7pcs x 2ml",
+    "Precio": "NIO 32.94",
+    "Existencias": 113,
+    "Costo": "NIO 28.00",
+    "Proveedor": "VB",
+    "Status": "Inactive",
+    "Vencimiento": "2025-11-01"
+  },
+  {
+    "SKU": "SE812",
+    "Nombre": "Sombra para ojos y contorno Scanlon",
+    "Precio": "NIO 32.94",
+    "Existencias": 207,
+    "Costo": "NIO 28.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2027-01-01"
+  },
+  {
+    "SKU": "SE872",
+    "Nombre": "Sombra Scanlon 35 tonos",
+    "Precio": "NIO 82.35",
+    "Existencias": 328,
+    "Costo": "NIO 70.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2027-01-01"
+  },
+  {
+    "SKU": "SL-5004",
+    "Nombre": "Color de labios de larga duración HedyBeauty",
+    "Precio": "NIO 13.00",
+    "Existencias": 24,
+    "Costo": "NIO 10.10",
+    "Proveedor": "BISUTERIA",
+    "Status": "Inactive",
+    "Vencimiento": "2025-06-01"
+  },
+  {
+    "SKU": "ST009",
+    "Nombre": "Primer L.A Girl Alta definición",
+    "Precio": "NIO 12.94",
+    "Existencias": 432,
+    "Costo": "NIO 11.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2028-04-01"
+  },
+  {
+    "SKU": "ST3311",
+    "Nombre": "Corrector Vitality Anthaway",
+    "Precio": "NIO 13.00",
+    "Existencias": 360,
+    "Costo": "NIO 13.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2028-05-13"
+  },
+  {
+    "SKU": "ST3312",
+    "Nombre": "Corrector Anthaway Alta definición",
+    "Precio": "NIO 11.76",
+    "Existencias": 1248,
+    "Costo": "NIO 10.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2028-05-01"
+  },
+  {
+    "SKU": "ST3313",
+    "Nombre": "Corrector Natural Anthaway",
+    "Precio": "NIO 12.94",
+    "Existencias": 748,
+    "Costo": "NIO 11.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2025-11-01"
+  },
+  {
+    "SKU": "ST3315",
+    "Nombre": "Corrector Anthaway Babe Skin",
+    "Precio": "NIO 12.94",
+    "Existencias": 2040,
+    "Costo": "NIO 11.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2028-05-01"
+  },
+  {
+    "SKU": "ST3342",
+    "Nombre": "Base Liviana Natural Mate ANTAWAY",
+    "Precio": "NIO 12.94",
+    "Existencias": 432,
+    "Costo": "NIO 11.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2027-03-03"
+  },
+  {
+    "SKU": "ST3343",
+    "Nombre": "Base Anthaway Multiefecto",
+    "Precio": "NIO 12.94",
+    "Existencias": 552,
+    "Costo": "NIO 11.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2027-03-01"
+  },
+  {
+    "SKU": "ST3350",
+    "Nombre": "Base Liquida 36h Hidratante Anthaway",
+    "Precio": "NIO 12.94",
+    "Existencias": 600,
+    "Costo": "NIO 11.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2027-12-01"
+  },
+  {
+    "SKU": "ST3351",
+    "Nombre": "Base Pro BB Cream Anthaway",
+    "Precio": "NIO 12.94",
+    "Existencias": 288,
+    "Costo": "NIO 11.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2027-12-01"
+  },
+  {
+    "SKU": "ST3352",
+    "Nombre": "Base Liquida 36h Vitamina C Fit me! Anthaway",
+    "Precio": "NIO 12.94",
+    "Existencias": 480,
+    "Costo": "NIO 11.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2027-12-01"
+  },
+  {
+    "SKU": "ST3361",
+    "Nombre": "Base Liquida 36h 3 in 1 Base, Primer y Corrector Anthaway",
+    "Precio": "NIO 12.94",
+    "Existencias": 456,
+    "Costo": "NIO 11.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2027-12-01"
+  },
+  {
+    "SKU": "ST3362",
+    "Nombre": "Base para maquillaje Super Stay",
+    "Precio": "NIO 12.94",
+    "Existencias": 432,
+    "Costo": "NIO 11.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2027-12-01"
+  },
+  {
+    "SKU": "ST3366",
+    "Nombre": "Corrector Mate",
+    "Precio": "NIO 12.94",
+    "Existencias": 912,
+    "Costo": "NIO 11.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2028-07-01"
+  },
+  {
+    "SKU": "ST3373",
+    "Nombre": "Corrector Anthaway 36 horas",
+    "Precio": "NIO 11.76",
+    "Existencias": 2015,
+    "Costo": "NIO 10.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2028-03-01"
+  },
+  {
+    "SKU": "ST3804",
+    "Nombre": "Corrector Alta Cobertura",
+    "Precio": "NIO 15.29",
+    "Existencias": 504,
+    "Costo": "NIO 13.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2028-05-01"
+  },
+  {
+    "SKU": "ST3816A",
+    "Nombre": "Mascara Anthaway transparente azul",
+    "Precio": "NIO 9.41",
+    "Existencias": 2496,
+    "Costo": "NIO 8.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2028-04-01"
+  },
+  {
+    "SKU": "ST3817R",
+    "Nombre": "Mascara Anthaway transparente rosado",
+    "Precio": "NIO 9.41",
+    "Existencias": 3600,
+    "Costo": "NIO 8.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2028-04-01"
+  },
+  {
+    "SKU": "ST3827",
+    "Nombre": "Brillo Para Labios Anthaway rosada",
+    "Precio": "NIO 9.41",
+    "Existencias": 1692,
+    "Costo": "NIO 8.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2028-05-01"
+  },
+  {
+    "SKU": "ST3828",
+    "Nombre": "Brillo Para Labios Anthaway azul",
+    "Precio": "NIO 9.41",
+    "Existencias": 1668,
+    "Costo": "NIO 8.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2028-05-01"
+  },
+  {
+    "SKU": "SZ-213",
+    "Nombre": "Brochas 6 Piezas",
+    "Precio": "NIO 47.06",
+    "Existencias": 12,
+    "Costo": "NIO 40.00",
+    "Proveedor": "VB",
+    "Status": "Inactive",
+    "Vencimiento": "2029-01-26"
+  },
+  {
+    "SKU": "SZ-256",
+    "Nombre": "Brocha para maquillar 5 Pzas",
+    "Precio": "NIO 29.41",
+    "Existencias": 307,
+    "Costo": "NIO 25.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2029-01-01"
+  },
+  {
+    "SKU": "SZ-997",
+    "Nombre": "Brochas para maquillar 7 Pcs",
+    "Precio": "NIO 94.12",
+    "Existencias": 424,
+    "Costo": "NIO 80.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2029-01-01"
+  },
+  {
+    "SKU": "T51036",
+    "Nombre": "Lapiz labial Matte duradero Top Lady",
+    "Precio": "NIO 14.12",
+    "Existencias": 3624,
+    "Costo": "NIO 12.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2028-06-01"
+  },
+  {
+    "SKU": "T51037",
+    "Nombre": "Lápiz Labial Top Lady",
+    "Precio": "NIO 15.00",
+    "Existencias": 2352,
+    "Costo": "NIO 12.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2028-06-01"
+  },
+  {
+    "SKU": "TP343",
+    "Nombre": "Lapiz para cejas 3-1 Ushas",
+    "Precio": "NIO 31.76",
+    "Existencias": 576,
+    "Costo": "NIO 27.00",
+    "Proveedor": "Ushas",
+    "Status": "Inactive",
+    "Vencimiento": ""
+  },
+  {
+    "SKU": "TP353",
+    "Nombre": "Lapiz con Cepillo para Cejas",
+    "Precio": "NIO 18.82",
+    "Existencias": 336,
+    "Costo": "NIO 16.00",
+    "Proveedor": "Ushas",
+    "Status": "Inactive",
+    "Vencimiento": ""
+  },
+  {
+    "SKU": "V019",
+    "Nombre": "Body Spray amber romance 250ml",
+    "Precio": "NIO 70.59",
+    "Existencias": 33,
+    "Costo": "NIO 60.00",
+    "Proveedor": "VB",
+    "Status": "Inactive",
+    "Vencimiento": ""
+  },
+  {
+    "SKU": "VS1712",
+    "Nombre": "Polvo Compacto y Bronceador Viktorisa Sempre",
+    "Precio": "NIO 37.65",
+    "Existencias": 744,
+    "Costo": "NIO 32.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2026-01-01"
+  },
+  {
+    "SKU": "VS8861",
+    "Nombre": "Polvo Compacto Viktorisa Sempre",
+    "Precio": "NIO 25.88",
+    "Existencias": 835,
+    "Costo": "NIO 22.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2028-12-01"
+  },
+  {
+    "SKU": "WA-007",
+    "Nombre": "Exfoliante Facial Wao 250ml",
+    "Precio": "NIO 66.00",
+    "Existencias": 663,
+    "Costo": "NIO 46.00",
+    "Proveedor": "Stay",
+    "Status": "Active",
+    "Vencimiento": "2023-11-01"
+  },
+  {
+    "SKU": "WA-009",
+    "Nombre": "Locion Refrescante After Shave P/Hombre 8 Onzas",
+    "Precio": "NIO 39.00",
+    "Existencias": 26,
+    "Costo": "NIO 44.00",
+    "Proveedor": "Stay",
+    "Status": "Active",
+    "Vencimiento": "2023-11-01"
+  },
+  {
+    "SKU": "WA-012",
+    "Nombre": "Rasuradora 3 Hojillas Wao azul!",
+    "Precio": "NIO 44.94",
+    "Existencias": 144,
+    "Costo": "NIO 40.00",
+    "Proveedor": "Stay",
+    "Status": "Active",
+    "Vencimiento": "2029-01-01"
+  },
+  {
+    "SKU": "WA-033",
+    "Nombre": "Shampoo Y Acondicionador Wao 1380 Ml Romero",
+    "Precio": "NIO 286.00",
+    "Existencias": 24,
+    "Costo": "NIO 200.00",
+    "Proveedor": "",
+    "Status": "Active",
+    "Vencimiento": ""
+  },
+  {
+    "SKU": "WA-034",
+    "Nombre": "Shampoo Y Acondicionador Wao 1380 Ml Aloe",
+    "Precio": "NIO 286.00",
+    "Existencias": 64,
+    "Costo": "NIO 200.00",
+    "Proveedor": "Stay",
+    "Status": "Active",
+    "Vencimiento": "2025-10-01"
+  },
+  {
+    "SKU": "WA-035",
+    "Nombre": "Shampoo Y Acondicionador Wao 1380 Ml Coco",
+    "Precio": "NIO 286.00",
+    "Existencias": 30,
+    "Costo": "NIO 200.00",
+    "Proveedor": "Stay",
+    "Status": "Active",
+    "Vencimiento": "2025-10-01"
+  },
+  {
+    "SKU": "WA-046",
+    "Nombre": "Mascara Wao! Delineador, Mascara y Lapiz de ceja",
+    "Precio": "NIO 69.00",
+    "Existencias": 188,
+    "Costo": "NIO 58.00",
+    "Proveedor": "Stay",
+    "Status": "Active",
+    "Vencimiento": "2025-12-01"
+  },
+  {
+    "SKU": "WA-047",
+    "Nombre": "Sombra para ojos Wao!",
+    "Precio": "NIO 40.45",
+    "Existencias": 216,
+    "Costo": "NIO 36.00",
+    "Proveedor": "Stay",
+    "Status": "Active",
+    "Vencimiento": "2026-05-01"
+  },
+  {
+    "SKU": "WA-048",
+    "Nombre": "Crema Para Peinar 250ml Romero Wao!",
+    "Precio": "NIO 85.00",
+    "Existencias": 137,
+    "Costo": "NIO 66.00",
+    "Proveedor": "Stay",
+    "Status": "Active",
+    "Vencimiento": "2025-12-01"
+  },
+  {
+    "SKU": "WA-049",
+    "Nombre": "Crema Para Peinar 250ml Coco Wao",
+    "Precio": "NIO 85.00",
+    "Existencias": 113,
+    "Costo": "NIO 66.00",
+    "Proveedor": "Stay",
+    "Status": "Active",
+    "Vencimiento": "2027-11-15"
+  },
+  {
+    "SKU": "WA-050",
+    "Nombre": "Crema Para Peinar 250ml Aloe Wao!",
+    "Precio": "NIO 85.00",
+    "Existencias": 119,
+    "Costo": "NIO 66.00",
+    "Proveedor": "Stay",
+    "Status": "Active",
+    "Vencimiento": "2026-05-15"
+  },
+  {
+    "SKU": "WA-146",
+    "Nombre": "Mascara Wao 3 en 1",
+    "Precio": "NIO 69.00",
+    "Existencias": 200,
+    "Costo": "NIO 63.11",
+    "Proveedor": "Stay",
+    "Status": "Inactive",
+    "Vencimiento": "2025-12-01"
+  },
+  {
+    "SKU": "WA-174",
+    "Nombre": "Polvo Compacto WAO!",
+    "Precio": "NIO 37.00",
+    "Existencias": 264,
+    "Costo": "NIO 32.00",
+    "Proveedor": "Stay",
+    "Status": "Active",
+    "Vencimiento": "2025-12-01"
+  },
+  {
+    "SKU": "WA-218",
+    "Nombre": "Rubor WAO!",
+    "Precio": "NIO 39.33",
+    "Existencias": 48,
+    "Costo": "NIO 35.00",
+    "Proveedor": "Stay",
+    "Status": "Active",
+    "Vencimiento": "2026-04-01"
+  },
+  {
+    "SKU": "WA-221",
+    "Nombre": "Mascara de Pestaña Azul WAO! 24H",
+    "Precio": "NIO 29.00",
+    "Existencias": 120,
+    "Costo": "NIO 35.00",
+    "Proveedor": "Stay",
+    "Status": "Active",
+    "Vencimiento": "2024-03-22"
+  },
+  {
+    "SKU": "WA-223",
+    "Nombre": "Afeitadora 3 Hojillas morada",
+    "Precio": "NIO 37.65",
+    "Existencias": 371,
+    "Costo": "NIO 32.00",
+    "Proveedor": "Stay",
+    "Status": "Active",
+    "Vencimiento": "2029-01-01"
+  },
+  {
+    "SKU": "WHD-A03",
+    "Nombre": "Serum Facial de Aloe Vera 30ml",
+    "Precio": "NIO 30.59",
+    "Existencias": 62,
+    "Costo": "NIO 26.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2025-09-01"
+  },
+  {
+    "SKU": "WKL327",
+    "Nombre": "Protector Solar Wokali",
+    "Precio": "NIO 62.00",
+    "Existencias": 120,
+    "Costo": "NIO 48.31",
+    "Proveedor": "BISUTERIA",
+    "Status": "Active",
+    "Vencimiento": "2029-04-12"
+  },
+  {
+    "SKU": "WKL328",
+    "Nombre": "Protector Solar Wokali 90 Spf",
+    "Precio": "NIO 62.00",
+    "Existencias": 108,
+    "Costo": "NIO 48.31",
+    "Proveedor": "BISUTERIA",
+    "Status": "Active",
+    "Vencimiento": "2029-04-12"
+  },
+  {
+    "SKU": "WKL329",
+    "Nombre": "Protector Solar Wokali 90 spf",
+    "Precio": "NIO 62.00",
+    "Existencias": 120,
+    "Costo": "NIO 48.31",
+    "Proveedor": "BISUTERIA",
+    "Status": "Active",
+    "Vencimiento": "2029-04-12"
+  },
+  {
+    "SKU": "Y-2599",
+    "Nombre": "Brillo Labial Huda Matte Me",
+    "Precio": "NIO 18.00",
+    "Existencias": 30,
+    "Costo": "NIO 14.05",
+    "Proveedor": "BISUTERIA",
+    "Status": "Active",
+    "Vencimiento": "2027-01-01"
+  },
+  {
+    "SKU": "Y-801",
+    "Nombre": "Brillo Labial",
+    "Precio": "NIO 14.12",
+    "Existencias": 165,
+    "Costo": "NIO 12.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2026-01-01"
+  },
+  {
+    "SKU": "Y3014",
+    "Nombre": "Primer Kaliya Beauty Vitamina C",
+    "Precio": "NIO 12.94",
+    "Existencias": 456,
+    "Costo": "NIO 11.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2028-06-01"
+  },
+  {
+    "SKU": "Y3015",
+    "Nombre": "Primer Kaliya Beauty Unicor",
+    "Precio": "NIO 12.94",
+    "Existencias": 3184,
+    "Costo": "NIO 11.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2028-06-01"
+  },
+  {
+    "SKU": "Y385",
+    "Nombre": "Labial Alejandra Show",
+    "Precio": "NIO 14.12",
+    "Existencias": 72,
+    "Costo": "NIO 12.00",
+    "Proveedor": "Ushas",
+    "Status": "Inactive",
+    "Vencimiento": "2025-07-01"
+  },
+  {
+    "SKU": "Y978",
+    "Nombre": "Sombra y Delineador Romantiic",
+    "Precio": "NIO 22.00",
+    "Existencias": 144,
+    "Costo": "NIO 17.57",
+    "Proveedor": "BISUTERIA",
+    "Status": "Active",
+    "Vencimiento": "2029-01-01"
+  },
+  {
+    "SKU": "YD612",
+    "Nombre": "Delineador Huda ABC WaterProof",
+    "Precio": "NIO 14.12",
+    "Existencias": 48,
+    "Costo": "NIO 12.00",
+    "Proveedor": "VB",
+    "Status": "Inactive",
+    "Vencimiento": "2026-01-01"
+  },
+  {
+    "SKU": "YMX-1123",
+    "Nombre": "Crema Facial de Acido Hialurinico 50g",
+    "Precio": "NIO 47.06",
+    "Existencias": 88,
+    "Costo": "NIO 40.00",
+    "Proveedor": "VB",
+    "Status": "Active",
+    "Vencimiento": "2027-03-01"
+  },
+  {
+    "SKU": "Z204",
+    "Nombre": "Primer Kaliya Beauty",
+    "Precio": "NIO 12.94",
+    "Existencias": 24,
+    "Costo": "NIO 11.00",
+    "Proveedor": "VB",
+    "Status": "Inactive",
+    "Vencimiento": "2025-03-01"
+  }
+]
