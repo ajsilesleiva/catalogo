@@ -1,0 +1,631 @@
+﻿SKU;Nombre;Precio;Existencias;Costo;Proveedor;Status;Vencimiento
+alcoholgel1;Alcohol Gel para Niñ@s/Jungla;NIO 18.00;3808;NIO 18.00;;Active;
+alcoholgel2;Alcohol Gel para Niñ@s/Unicornio;NIO 18.00;4970;NIO 18.00;;Active;
+006-000659-9;Champu Vinilady 325ml Vinilady Fuerza Maxima;NIO 65.00;7;NIO 65.00;Mayz;Active;2025-02-01
+006-000661-0;Champu Vinilady 325ml Liso Intenso;NIO 67.06;3;NIO 57.00;Mayz;Inactive;
+006-002852-5;Protector Solar Karite & Vitamina E Fps50 Vinilady 120g;NIO 189.00;6;NIO 248.00;Mayz;Inactive;2024-11-01
+006-002985-8;Shampoo Anti Caspa Mentol For Men Vinilady 190ml;NIO 89.00;45;NIO 86.00;Mayz;Active;2025-03-01
+006-003015-5;Kit Champu 330ml + Acond 310g Vinilady Forca Maxima;NIO 109.00;12;NIO 102.00;Mayz;Inactive;2025-03-01
+006-003493-2;Acondicionador Vinilady Liso Intenso;NIO 99.00;76;NIO 90.00;Mayz;Active;2025-03-01
+006-003830-0;Crema Peinar Vinilady Aguacate (Super Boom) 300ml;NIO 67.06;428;NIO 57.00;Mayz;Active;2026-01-01
+006-003936-5;Champu Vinilady 325ml Vinilady Natural Relax;NIO 59.00;29;NIO 57.00;Mayz;Active;2025-05-01
+006-003994-2;Champu Sachet Vinilady Brillo Intenso;NIO 29.00;32;NIO 32.00;Mayz;Active;2025-02-01
+006-003995-0;Champu Sachet Vinilady Ondas Y Cachos;NIO 37.65;1;NIO 32.00;Mayz;Inactive;2025-01-01
+006-004049-5;Champú Vinilady 325ml Vinilady Negro Absoluto;NIO 67.06;2;NIO 67.06;Mayz;Active;2026-01-01
+006-004092-4;Crema Peinar Vinilady Reparación Total 290;NIO 67.06;365;NIO 57.00;Mayz;Active;2025-10-01
+006-01086;Shampoo Olive`n Body 400ml;NIO 75.00;12;NIO 59.00;Mayz;Inactive;2025-08-01
+006-102884-7;Champu Vinilady 325ml Ondas;NIO 67.06;3;NIO 57.00;Mayz;Inactive;
+006-128713;Espuma P/Afeitar Majix 200ml Cool;NIO 49.41;473;NIO 42.00;Mayz;Inactive;2026-12-01
+006-132574;Espuma P/Afeitar Janti 200ml regular;NIO 40.00;212;NIO 34.00;Mayz;Active;2026-11-01
+006-132581;Espuma para Afeitar Janti 200ml Sensitive;NIO 40.00;177;NIO 34.00;Mayz;Active;2026-11-01
+006-485514;Crema corporal Miya 12oz Avena;NIO 45.00;223;NIO 42.00;Mayz;Active;2025-04-30
+006-485515;Crema corporal Aloe Miya 12 Oz;NIO 45.00;278;NIO 42.00;Mayz;Active;2025-04-01
+006-485516;Crema Miya Corporal Cocoa 12oz;NIO 45.00;645;NIO 42.00;Mayz;Active;2025-04-01
+006-alcoholGel;Alcohol Gel para Niñ@s;NIO 18.00;2801;NIO 18.00;VB;Active;
+006-C04;Shampoo Miya para Niños 12oz 2 En 1;NIO 45.00;5375;NIO 42.00;Mayz;Active;2025-03-01
+006-FM08890;Crema para Pies Fasmc 100ml;NIO 39.00;313;NIO 37.00;Mayz;Inactive;2024-09-01
+006-M1647;Mascarilla Hidroplastica Facial de Olivo Skin White 120g;NIO 49.00;756;NIO 44.00;Mayz;Active;2025-12-01
+006-M1648;Mascarilla Hidroplastica Facial Tea Tree 120g;NIO 49.00;561;NIO 44.00;Mayz;Active;2025-12-01
+006-SP404A;Crema Miya Corporal 15ozs Aloe Vera;NIO 45.00;2271;NIO 42.00;Mayz;Active;2025-04-28
+006-SP404B;Crema Miya Corporal 15ozs Vitamina E;NIO 45.00;2313;NIO 42.00;Mayz;Active;2025-04-01
+006-WKL176;Gel Para Ducha 550ml Bamboo Wokali;NIO 70.00;116;NIO 63.00;Mayz;Active;2024-10-01
+006-WKL258;Gel Para Ducha 550ml Lanolin Wokali;NIO 70.00;33;NIO 63.00;Mayz;Active;2025-03-01
+006-WKL52931;Crema Blanqueadora Wokali 100ml;NIO 75.00;17;NIO 69.00;Mayz;Active;2024-09-01
+006-X2096;Removedor Corporal de Manchas Naranja XQM 100ml;NIO 39.00;682;NIO 42.00;Mayz;Active;2025-12-01
+006-X2097;Removedor Corporal Manchas Coconut XQM 100ml;NIO 39.00;707;NIO 42.00;Mayz;Active;2025-12-01
+0455;Base Liquida Skinwera Efecto Mate Larga Duracion Top Face;NIO 12.94;480;NIO 11.00;VB;Active;2026-01-01
+0457;Base Liquida Acabado Radiante Y Humectante Top Face;NIO 12.94;216;NIO 11.00;VB;Active;2027-08-01
+046-U218570;Mascarilla Charcoal Beauty Formulas 100ml;NIO 65.00;693;NIO 59.00;Mayz;Active;2025-06-01
+046-U325127;Parches de Gel Para Ojos Carbón Beauty Formula 6UND;NIO 78.82;128;NIO 67.00;Mayz;Active;2025-12-01
+046-U401232;Crema Facial Hidratante de Dia Vit C Beauty Formulas 100ml;NIO 78.82;756;NIO 67.00;Mayz;Active;2025-12-01
+046-U401240;Tónico Facial Vit C Beauty Formula 150ml;NIO 81.18;423;NIO 69.00;Mayz;Active;2026-01-01
+046-U423020;Limpiador Facial Vit C Beauty Formula 150ml;NIO 81.18;168;NIO 69.00;Mayz;Active;2026-01-01
+0460;Primer Top Face Para Pieles Secas Rellena & Refresca;NIO 12.94;720;NIO 11.00;VB;Active;2027-07-01
+123;Bálsamo Para Labios Cute Fruit;NIO 12.94;960;NIO 11.00;VB;Active;2026-03-01
+161-003;Toallas Humedas 25pcs;NIO 16.47;205;NIO 14.00;VB;Active;2026-07-01
+161-008;Rizador De Pestaña Princess Art;NIO 25.88;160;NIO 22.00;VB;Active;2029-01-01
+161-009;Cosmetiquera;NIO 58.82;39;NIO 50.00;VB;Active;2029-01-01
+161-014;Cosmetiquera #014;NIO 52.94;38;NIO 45.00;VB;Active;2029-01-01
+161-015;Cosmetiquera #015;NIO 52.94;155;NIO 45.00;VB;Active;2029-01-01
+161-0462;Base Alta Cobertura Reducción De Poros;NIO 21.18;528;NIO 18.00;VB;Active;2026-08-01
+161-065;Primer para rostro Kaliya Beauty Vitamina C;NIO 12.94;405;NIO 11.00;VB;Active;2028-08-01
+161-095;Primer para rostro Kaliya Beauty Alta adherencia;NIO 12.94;1152;NIO 11.00;VB;Active;2028-08-01
+161-3020;Primer para rostro Kaliya Beauty Aloe 16H;NIO 12.94;1335;NIO 11.00;VB;Active;2028-08-01
+161-3024;Primer para rostro Kaliya Beauty Acabado húmedo definitivo;NIO 12.94;1248;NIO 11.00;VB;Active;2028-08-01
+161-334;Máscara de Pestañas Big Shot;NIO 14.12;288;NIO 12.00;Ushas;Inactive;
+161-Bigpuff;Insecticida Big Puff;NIO 135.00;480;NIO 115.00;AjSiles;Inactive;
+161-SHVD1LTARG;Shampoo & Acondicionador Vida 1000ml Argan;NIO 279.00;1518;NIO 279.00;;Active;2027-06-25
+161-SHVD1LTGR;Shampoo & Acondicionador Vida 1000ml Ginger;NIO 279.00;1506;NIO 279.00;;Active;2027-06-25
+161-SHVD1LTKT;Shampoo & Acondicionador Vida 1000ml Keratina;NIO 279.00;1518;NIO 279.00;;Active;2027-06-25
+161-SHVD1LTM;Shampoo & Acondicionador Vida 1000ml Menta;NIO 279.00;1518;NIO 279.00;;Active;2027-06-24
+161-SHVD500ARG;Shampoo & Acondicionador Vida 500ml Argan;NIO 169.00;2685;NIO 169.00;;Active;2027-06-25
+161-SHVD500GR;Shampoo & Acondicionador Vida 500ml Ginger;NIO 169.00;2679;NIO 169.00;;Active;2027-06-25
+161-SHVD500KT;Shampoo & Acondicionador Vida 500ml Keratina;NIO 169.00;2691;NIO 169.00;;Active;2027-06-25
+161-SHVD500M;Shampoo & Acondicionador Vida 500ml Menta;NIO 169.00;2673;NIO 169.00;;Active;2027-06-24
+161-SHVDT500CN;Shampoo Tinte VIDA Castaño Natural 500ml;NIO 129.00;10008;NIO 129.00;;Active;2027-06-25
+161-SHVDT500CO;Shampoo Tinte VIDA Castaño Oscuro 500ml;NIO 129.00;10007;NIO 129.00;;Active;2027-06-25
+161-SHVDT500N;Shampoo Tinte VIDA Negro 500ml;NIO 129.00;20063;NIO 129.00;;Active;2027-06-25
+161-TRVD500ARG;Tratamiento VIDA 500ml Argan;NIO 129.00;1362;NIO 129.00;;Active;2027-06-25
+161-TRVD500GR;Tratamiento VIDA 500ml Ginger;NIO 129.00;1368;NIO 129.00;;Active;2027-06-25
+161-TRVD500KT;Tratamiento VIDA 500ml Keratina;NIO 129.00;1368;NIO 129.00;;Active;2027-06-25
+161-TRVD500M;Tratamiento VIDA 500ml Menta;NIO 129.00;1362;NIO 129.00;;Active;2027-06-25
+161-USH-14;Encrespador de Pestañas Pastel Ruby;NIO 29.41;24;NIO 25.00;Ushas;Inactive;
+161-USH-15;Encrespador de Pestañas Ruby Lashes Mood;NIO 29.41;36;NIO 25.00;Ushas;Inactive;2026-01-01
+1721N-B;Polvo Compacto Note Worthy 1721N-B;NIO 28.24;672;NIO 24.00;VB;Active;2027-12-01
+18-313;Esponja Para Cocina 5pcs 18-313;NIO 15.73;142;NIO 14.00;Stay;Inactive;2029-01-01
+1808W;Brocha Individual Shadow Brush;NIO 14.12;666;NIO 12.00;VB;Active;2029-01-01
+2056;Primer 24k Rose Silver Kaliya Beauty;NIO 12.94;624;NIO 11.00;VB;Active;2028-08-01
+2075;Base Beauty City BB cream;NIO 61.18;131;NIO 52.00;VB;Active;2027-10-01
+2118N-A;Polvo compacto Note Worthy Glitter Story;NIO 28.24;695;NIO 24.00;VB;Active;2027-12-01
+21261VS-C;Rubor 2 en 1 Sombra y Rubor;NIO 14.12;384;NIO 12.00;VB;Active;2026-01-01
+2188VS;Polvo Suelto Viktorisa Sempre;NIO 29.41;948;NIO 25.00;VB;Active;2026-12-01
+2280-47;Fijador De Maquillaje Karité Aloe Vera Control de aceite y refrescante;NIO 44.71;11;NIO 38.00;VB;Inactive;2028-03-22
+23526;Mascara Pestañas y Cejas KIKO;NIO 14.12;264;NIO 12.00;VB;Active;2026-01-01
+2368-47;Fijador De Maquillaje Kiss beauty Antioxidante & Control de grasa;NIO 56.47;14;NIO 48.00;VB;Inactive;
+2377-47A;Limpiador Facial Karité 150ml Aloe;NIO 70.59;288;NIO 60.00;VB;Active;2028-06-01
+2377-47B;Limpiador Facial Karité 150ml Rosas;NIO 70.59;348;NIO 60.00;VB;Active;2028-06-01
+2377-47C;Limpiador Facial Karité 150ml Vitamin E;NIO 70.59;359;NIO 60.00;VB;Active;2028-06-01
+2929-03;Bálsamo Labial Aloe Kiss Beauty;NIO 10.35;36;NIO 8.80;VB;Inactive;2028-12-01
+2950-47ABCDEF;Bálsamo Labial de Karité;NIO 11.76;528;NIO 10.00;VB;Active;2028-03-01
+30640;Esponja De Silicona Delicate;NIO 17.65;336;NIO 15.00;Mayz;Inactive;2029-01-01
+35002-1;Lapiz Labial Mate Beauty Model Matte 35002-1;NIO 12.94;978;NIO 11.00;VB;Active;2027-06-01
+35006;Lapiz labial Matte Beauty Model;NIO 12.94;312;NIO 11.00;VB;Active;2028-06-01
+35008-1;Lapiz Labial Mate Beauty Model Matte 35008-1;NIO 12.94;666;NIO 11.00;VB;Active;2027-09-01
+35010;Lápiz Labial Mate Beauty Model Matte 35010;NIO 12.94;768;NIO 11.00;VB;Active;2027-07-01
+36380-47;Labial Matte Karité;NIO 17.65;1368;NIO 15.00;VB;Active;2028-04-01
+5090A;Labial Matte 26H-A;NIO 9.41;90;NIO 8.00;Ushas;Inactive;2026-08-01
+5090B;Labial Matte 26H B;NIO 9.41;144;NIO 8.00;Ushas;Inactive;2028-08-01
+5323;Lápiz Labial Huda Beauty Matte 5323;NIO 14.12;617;NIO 12.00;VB;Active;2026-01-01
+5338;Lápiz Labial CHANLANYA Matte 5338;NIO 14.12;960;NIO 12.00;VB;Active;2026-01-01
+5360;Lápiz Labial CHANLANYA Matte 5360;NIO 14.12;312;NIO 12.00;VB;Active;2026-01-01
+5389;Labial Matte Chanlanya;NIO 18.00;192;NIO 14.05;BISUTERIA;Active;2028-01-01
+5513;Lápiz Labial CHANLANYA Matte 5513;NIO 14.12;1200;NIO 12.00;VB;Active;2027-01-01
+56821-03;Máscara gel para ceja 3D Kiss Beauty;NIO 31.75;24;NIO 27.00;VB;Active;2028-01-01
+56839-03;Gel Para Cejas Invisible;NIO 23.53;227;NIO 20.00;VB;Active;2028-06-01
+56853-47;Mascara pestaña Karite 56853-47;NIO 25.88;144;NIO 22.00;VB;Active;2027-11-01
+56939-03HA;Gel de cejas con Ácido Hialurónico;NIO 21.18;432;NIO 18.00;VB;Active;2028-04-01
+56964-47;Mascara Para Pestañas Transparente;NIO 25.88;180;NIO 22.00;VB;Active;2028-07-01
+5786;Lápiz Labial Mate Golden Rose;NIO 20.00;96;NIO 15.81;BISUTERIA;Active;2028-10-01
+6001;Protector Solar;NIO 32.94;645;NIO 28.00;VB;Active;2025-05-01
+6038;Tinte agua para Labios Victorias;NIO 24.00;36;NIO 18.45;BISUTERIA;Inactive;2026-01-01
+628F;Paleta Sombra, Blush, Iluminador, Glitter Tutu Time;NIO 94.00;120;NIO 74.66;BISUTERIA;Active;2029-03-25
+68532-47A;Protector Solar Karité 60ml SPF90;NIO 37.65;129;NIO 32.00;VB;Active;2028-08-01
+68555-03;Primer Beauty Plump Prime;NIO 56.47;156;NIO 48.00;VB;Inactive;2028-06-01
+68603-47;Corrector Super BB;NIO 21.18;384;NIO 18.00;VB;Active;2028-05-01
+68960-03CN;Protector Solar 90+;NIO 35.29;3;NIO 30.00;VB;Inactive;2028-09-01
+7152E;Lapiz Labial Mate;NIO 21.18;975;NIO 18.00;VB;Active;2027-06-01
+7166E;Labial Ever Beauty;NIO 23.53;672;NIO 20.00;VB;Active;2028-01-01
+7233;Lipgloss Filler Ever Beauty;NIO 18.82;2;NIO 16.00;VB;Inactive;2028-08-01
+8138;Sombra AnyLady Little;NIO 35.29;695;NIO 30.00;VB;Active;2027-06-01
+8158;Sombra AnyLady;NIO 44.71;401;NIO 38.00;VB;Active;2027-05-01
+8166-01#;Sombra para Ojos Anylady Believe in yourselve;NIO 64.71;24;NIO 55.00;VB;Active;2027-03-05
+8171;Sombra AnyLady Only You;NIO 41.18;1581;NIO 35.00;VB;Active;2027-06-01
+8243;Mascara Para Pies;NIO 35.29;36;NIO 30.00;VB;Active;2025-12-01
+8294;Mascara de Pestañas 24H Sky High;NIO 18.82;839;NIO 16.00;VB;Active;2025-12-01
+8342;Balsamo + Exfoliante Labial;NIO 32.94;1;NIO 28.00;VB;Inactive;
+85377-03;Fijador de polvo suelto Kiss Beauty;NIO 30.50;12;NIO 25.60;VB;Active;2028-10-01
+8658FC;Sombra para Ojos Sombra, Iluminador, Blush Anylady;NIO 97.00;108;NIO 76.86;BISUTERIA;Active;2028-04-01
+8658FD;Sombra Wild Sombra, Iluminador, Blush Anylady;NIO 97.00;96;NIO 76.86;BISUTERIA;Active;2028-01-01
+8658FF;Paleta Sombra, Blush e Iluminador Anylady;NIO 97.00;60;NIO 76.86;BISUTERIA;Active;2028-04-01
+8658FI;Sombra Blush, Vanidad y Labial Anylady;NIO 97.00;96;NIO 76.86;BISUTERIA;Active;2028-01-03
+878;Sombra AnyLady;NIO 28.24;624;NIO 24.00;VB;Active;2027-05-01
+8814F-32;Sombra todo en uno, Blush, Polvo, Crema para labios Anylady;NIO 92.00;84;NIO 73.35;BISUTERIA;Active;2027-12-30
+8814H-69;Sombra todo en uno, Blush, Polvo, Sombra Anylady;NIO 92.00;72;NIO 73.35;BISUTERIA;Active;2030-12-27
+8842E;Corrector Mate Ever Beauty 8842E;NIO 21.18;179;NIO 18.00;VB;Active;2028-07-01
+8843E;Corrector Mate Ever Beauty 8843E;NIO 21.18;696;NIO 18.00;VB;Active;2028-07-01
+8844E;Corrector Mate Ever Beauty 8844E;NIO 21.18;467;NIO 18.00;VB;Active;2028-06-01
+9206N;Polvo Compacto Note Flash Touch 9206N;NIO 21.18;840;NIO 18.00;VB;Active;2026-01-01
+9206N-L9;Polvo compacto Note Worthy Flash touch 9206N-L9;NIO 27.06;1008;NIO 23.00;VB;Active;2026-01-01
+9218;Labios mas carnosos Chanlanya;NIO 21.00;120;NIO 16.69;BISUTERIA;Active;2029-01-01
+9219;Labios mas carnosos Chanlanya;NIO 21.00;96;NIO 16.69;BISUTERIA;Active;2029-01-01
+9301N-B;Polvo compacto Note Worthy Natural nude;NIO 28.24;528;NIO 24.00;VB;Active;2027-12-01
+9301VS;Rubor Victorisa Sempre;NIO 28.24;815;NIO 24.00;VB;Active;2027-12-01
+953;Blush 4 colores Anylady;NIO 41.20;160;NIO 35.00;VB;Active;2027-04-01
+9603V;Polvo Compacto + Rubor Viktorisa Sempre;NIO 37.65;60;NIO 32.00;VB;Active;2027-12-01
+974;Sombra AnyLady Dream Big;NIO 47.06;96;NIO 40.00;VB;Active;2027-05-01
+9815V;Polvo Compacto 2 en 1 Viktorisa Sempre;NIO 28.24;696;NIO 24.00;VB;Active;2026-12-01
+994-01#;Sombra Anylady 15 tonos #1;NIO 47.06;84;NIO 40.00;VB;Active;2027-06-01
+994-02#;Sombra Anylady 15 tonos #2;NIO 47.06;84;NIO 40.00;VB;Active;2027-03-01
+A-3495;Polvo Compacto Mayeiline A-3495;NIO 35.29;839;NIO 30.00;VB;Active;2028-05-01
+A-3496;Polvo Compacto Mayeiline A-3496;NIO 35.29;828;NIO 30.00;VB;Active;2028-05-01
+A052;Delineador Note;NIO 18.00;72;NIO 14.05;BISUTERIA;Active;2028-01-01
+A163;Delineador doble a prueba de Agua;NIO 24.00;240;NIO 18.45;BISUTERIA;Active;2025-12-01
+AC3141;Contorno De Ojos Hidratante Y Aclarante De Arroz Aichun Beauty 25ml;NIO 32.94;120;NIO 28.00;VB;Inactive;2027-12-01
+AC3219;Set 3 piezas SkinCare Colageno, Vit C, Acido Hialuronico 30ml Aichun;NIO 94.12;218;NIO 80.00;VB;Active;2028-06-01
+B0015-BD-1;Body Spray Fly Away 250ml;NIO 75.80;9;NIO 75.80;Ushas;Active;2028-12-01
+B0015-BD-23;Body Spray Pasco Pappu 250ml;NIO 75.80;9;NIO 68.25;Ushas;Inactive;2028-12-01
+B0015-BD-55;Body Spray Glisten Paris 250ml;NIO 75.80;36;NIO 68.25;Ushas;Inactive;2028-12-01
+B0015-BD-8;Body Spray Thirll 250ml;NIO 75.80;12;NIO 68.25;Ushas;Inactive;2028-12-01
+B0015-CJN;Body Spray Corporal 250ml;NIO 79.30;24;NIO 71.40;Ushas;Inactive;2028-12-01
+B0015-HB;Body Spray Corporal 250ml;NIO 79.30;24;NIO 71.40;Ushas;Inactive;2028-12-01
+B0015-RL;Body Spray Corporal 250ml;NIO 79.30;24;NIO 71.40;Ushas;Inactive;2028-12-01
+B0021-GE;Body Spray Pink In Sweet 250ml;NIO 75.29;10;NIO 71.40;VB;Active;2029-02-01
+B0021-LA;Body Spray 250ml Pink and Sweet B0021-LA;NIO 75.29;77;NIO 64.00;VB;Active;2029-01-01
+B0021-RC;Body Spray Pink in Sweet 250ml;NIO 79.30;24;NIO 71.40;VB;Inactive;
+B0023-CC;Loción Corporal Pink in Sweet B0023-CC;NIO 56.47;12;NIO 48.00;Ushas;Inactive;
+B0025-BV;Loción Corporal Pink in Sweet 88g;NIO 29.41;69;NIO 25.00;VB;Active;
+B0025-ELF;Loción Corporal Pink in Sweet 88g;NIO 29.41;48;NIO 25.00;VB;Active;2026-03-01
+B0042-BM;Spray fragancia para cabello Pink in Sweet 100ml;NIO 37.65;4;NIO 32.00;VB;Active;2028-05-01
+B0042-DOT;Spray fragancia para cabello Pink in Sweet 100ml;NIO 37.65;60;NIO 32.00;VB;Active;
+B0045-BD-12;Perfume Innovator tubular 35ml;NIO 21.18;1;NIO 16.00;VB;Inactive;
+B0060-IV;Set de body Pink in Sweet 4pcs 20ml;NIO 65.88;31;NIO 56.00;VB;Active;2028-10-01
+B0060-LO;Set de body Pink in Sweet 4pcs 20ml;NIO 65.88;16;NIO 56.00;VB;Active;2028-10-01
+B0060-TF;Set de body Pink in Sweet 4pcs 20ml;NIO 65.88;5;NIO 56.00;VB;Active;2028-03-26
+B35;Perfume Tom Ford Tuscan Leather 100ml;NIO 129.41;22;NIO 110.00;VB;Active;
+B36;Perfume Tom Ford Fabulous 100ml;NIO 129.41;48;NIO 110.00;VB;Active;
+B37;Perfume Tom Ford Oud wood 100ml;NIO 129.41;48;NIO 110.00;VB;Active;
+B38;Perfume Tom Ford Fkg. fabulous 100ml;NIO 129.41;49;NIO 110.00;VB;Active;
+B51;Primer Mac Skin Base Visage;NIO 35.29;1332;NIO 30.00;VB;Active;2027-04-01
+B518-1;Perfume 2i2 Red 100ml;NIO 65.88;14;NIO 56.00;VB;Active;2028-08-01
+B693;Perfume Giiq;NIO 72.00;71;NIO 72.00;VB;Active;
+B7031;Lapiz Labial Mate Beauty Model 24hr;NIO 12.94;672;NIO 11.00;VB;Active;2027-05-01
+B721;Perfume Invictus Gris;NIO 109.00;120;NIO 99.00;VB;Active;
+B721-2;Perfume Invictus Aqua 100ml;NIO 109.00;124;NIO 90.00;VB;Active;
+B721-3;Perfume Invictus Negro;NIO 109.00;120;NIO 90.00;VB;Active;
+B721-4;Perfume Invictus Blue 100ml;NIO 109.00;122;NIO 90.00;VB;Active;
+B853;Perfume Boos The Scent Brown 100ml;NIO 89.00;86;NIO 75.00;VB;Active;
+B9;Perfume Aventus Creed 100ml;NIO 141.18;90;NIO 120.00;VB;Active;
+B926;Perfume I Can;NIO 85.00;36;NIO 72.00;VB;Active;
+B949-1;Perfume Oud Wood para hombre 100ml;NIO 88.24;234;NIO 75.00;VB;Active;2028-09-01
+BD-4;Perfume 2i2 Party 100ml;NIO 42.35;1;NIO 36.00;VB;Inactive;2028-07-12
+BOCR/009;Body 3 Pzas Pink in Sweet BOCR-009;NIO 74.12;1;NIO 63.00;VB;Inactive;
+BQY74930;Mascarilla Facial Hidratante de Pepino;NIO 4.71;10;NIO 4.00;VB;Inactive;2026-04-01
+BX-330;Esponja para maquillar 3pcs Kiss Lovely;NIO 14.12;612;NIO 12.00;VB;Active;2029-01-01
+BX-3503;Perfiladora De Ceja;NIO 16.47;764;NIO 14.00;VB;Active;2029-01-01
+BX-414;Kit para Uñas 4 Pzs;NIO 31.76;287;NIO 27.00;VB;Active;2029-01-01
+BX-842;Encrespadora de Pestaña;NIO 21.18;920;NIO 18.00;VB;Active;2029-01-01
+BX3535;Set De Maquillaje;NIO 105.88;20;NIO 90.00;VB;Active;2026-01-01
+BX3600;Pegamento Para Uñas;NIO 10.59;624;NIO 9.00;VB;Active;2025-12-01
+BX3612;Set De Limpieza Facial;NIO 76.47;101;NIO 65.00;VB;Active;2029-01-01
+BX3626;Piedra Jade;NIO 32.94;1080;NIO 28.00;VB;Active;2029-01-01
+C008;Esponja para maquillar 6 Piezas Kiss Lovely C008;NIO 22.35;384;NIO 19.00;VB;Active;2029-01-01
+C009;Esponja para maquillar 6 Piezas Kiss Lovely C009;NIO 22.35;81;NIO 19.00;VB;Active;2029-01-01
+C013;Esponjas para maquillar Kiss Lovely C013;NIO 23.53;36;NIO 20.00;VB;Active;2029-01-01
+C3120;Limpiador Facial Arroz Natural Aichum Beauty Nutre La Piel 100ml;NIO 47.06;10;NIO 40.00;VB;Inactive;2028-07-01
+C3142;Tonico Facial de Arroz Aichum Beauty Nutre Y Aclara 100ml;NIO 41.18;83;NIO 35.00;VB;Inactive;2028-07-01
+CD-002;Perfume You Crack Me Up 200ml;NIO 82.35;1;NIO 70.00;VB;Inactive;
+CE482;Sombra Glamor + Glitter;NIO 47.50;120;NIO 40.00;VB;Active;2027-11-01
+CL812;Base de Maquillaje Scanlon CL812;NIO 47.06;12;NIO 40.00;VB;Inactive;2026-01-01
+CL814;Corrector Scanlon Alta Cobertura;NIO 15.29;336;NIO 13.00;VB;Active;2026-01-01
+CL822;Corrector Liquido Scanlon CL822;NIO 16.47;384;NIO 14.00;VB;Active;2027-01-01
+CM-072;Mascara hidratante para pechos Chovemoar;NIO 9.00;120;NIO 7.03;BISUTERIA;Active;2026-08-01
+COM015;Toalla desmaquillante 25pcs;NIO 18.82;55;NIO 16.00;VB;Inactive;
+COM024;Toalla desinfectante 75% alcohol 10pcs;NIO 13.50;1193;NIO 12.00;VB;Active;2026-10-01
+CS043;Esponja para maquillar 6pcs Envase Plastico;NIO 18.82;683;NIO 16.00;VB;Active;2029-01-01
+CS406B;Kit Corrector de Ojeras Ushas B;NIO 97.65;12;NIO 83.00;Ushas;Inactive;2028-09-01
+CX2059;Lápiz Labial 24 hrs;NIO 20.00;192;NIO 15.81;BISUTERIA;Active;2027-01-01
+CX2171;Lápiz Labial Comfor Beauty;NIO 20.00;192;NIO 15.81;BISUTERIA;Active;2027-01-01
+CX2186;Lápiz Labial Comfor Beauty;NIO 20.00;192;NIO 15.81;BISUTERIA;Active;2027-01-01
+CX6215;Primer Fit me Comfor Beauty;NIO 17.00;120;NIO 13.18;BISUTERIA;Inactive;2026-01-01
+CX7530;Primer Comfor Beauty;NIO 17.00;120;NIO 13.18;BISUTERIA;Active;2026-01-01
+DE8035;Parches Para Ojos;NIO 5.88;1428;NIO 5.00;VB;Active;2028-01-01
+DE8036;Parches Para Labios;NIO 5.88;1508;NIO 5.00;VB;Active;2028-01-01
+DL-313;Shampoo Tinte Negro Dr Lana;NIO 176.47;5;NIO 150.00;VB;Inactive;
+DR-E018;Corrector Piel Impecable 24hrs Dawang Rose;NIO 36.00;120;NIO 28.55;BISUTERIA;Active;2026-01-01
+DS319-1;Shampoo Contra La Caida del Cabello Clasico Disaar 200ml;NIO 47.06;1;NIO 40.00;VB;Inactive;2028-11-01
+DS319-2;Shampoo Contra La Caida del Cabello Gengibre Disaar 200ml;NIO 47.06;3;NIO 40.00;VB;Inactive;2028-11-01
+DS335-1;Crema Depiladora Disaar 100g 3 Minutos;NIO 41.18;24;NIO 35.00;VB;Inactive;2028-07-01
+DS335-2;Crema Depiladora Disaar 100g 5 Minutos;NIO 41.18;96;NIO 35.00;VB;Active;2028-07-01
+DS5195;Protector Solar Disaar Anti-ultravioleta SPF50 50ml;NIO 28.24;141;NIO 24.00;VB;Active;2028-08-01
+DS51994;Contorno De Ojos 25ml;NIO 41.18;360;NIO 35.00;VB;Inactive;2028-06-01
+DS5261;Tónico Facial Hidratante Disaar 200ml;NIO 47.06;34;NIO 40.00;VB;Inactive;2028-09-01
+E038;Delineador Pestañas y Cejas 36hrs SandyBeauty;NIO 17.00;96;NIO 13.18;BISUTERIA;Active;2027-07-30
+E051;Lápiz para cejas SandyBeauty;NIO 17.00;48;NIO 13.18;BISUTERIA;Active;2027-01-01
+E2231;Mascara Delineador Volumen Rizado;NIO 21.00;140;NIO 16.69;BISUTERIA;Active;2029-01-01
+EB022A;Cera para cejas;NIO 21.18;72;NIO 18.00;Ushas;Inactive;
+EB026-MIX;Lapiz + Fijador De Ceja;NIO 35.29;216;NIO 30.00;Ushas;Inactive;
+EB7060;Lápiz Para Cejas;NIO 11.76;912;NIO 10.00;VB;Active;2028-06-01
+EL650;Delineador de Ojos Dorado Miss Ushas;NIO 21.18;444;NIO 18.00;Ushas;Inactive;
+EL661;Delineador de Ojos Colorfull Pasteles;NIO 18.82;144;NIO 16.00;Ushas;Inactive;
+ES007;Paleta Sombra, Blush y Iluminador Moly Coco;NIO 72.00;120;NIO 57.10;BISUTERIA;Active;2026-01-01
+ES3712-4;Sombra para Ojos True Love;NIO 44.71;71;NIO 38.00;Ushas;Inactive;2028-02-01
+ES3717;Blush 2 Tonos;NIO 29.41;300;NIO 25.00;Ushas;Inactive;
+ES3723;Blush Fard Ushas;NIO 29.41;300;NIO 25.00;Ushas;Inactive;
+ES3884-4;Sombra de Ojos Good Vibes;NIO 47.06;144;NIO 40.00;Ushas;Inactive;2028-04-01
+ES3922-2;Sombra de Ojos Matcha Love;NIO 37.65;144;NIO 32.00;Ushas;Inactive;2025-01-01
+ES3931;Blush 2 Tono Cheeks Painting;NIO 23.53;288;NIO 20.00;Ushas;Inactive;
+ES3965;Blush Perla Sweet;NIO 35.29;48;NIO 30.00;Ushas;Inactive;
+ES4012;Blush 2 Tono Matte;NIO 23.53;168;NIO 20.00;Ushas;Inactive;
+ES4015-2;Sombra de Ojos Golden Stylist-2;NIO 80.00;144;NIO 68.00;Ushas;Inactive;2028-03-01
+ES4017A;Corrector de Ojeras en crema 8C Golden A;NIO 68.24;60;NIO 58.00;Ushas;Inactive;2027-09-01
+ES4017B;Corrector de Ojeras en Crema 8C Golden B;NIO 68.24;42;NIO 58.00;Ushas;Inactive;2027-09-01
+ES4024;Blush Flower Ushas;NIO 23.53;192;NIO 20.00;Ushas;Inactive;2027-08-01
+ES4026;Glitter En Gel para Ojos, Labios y Rostro Febble;NIO 14.12;156;NIO 12.00;Ushas;Inactive;
+ES4030-4;Sombra de Ojos 9C Pink 4 Ushas;NIO 37.65;216;NIO 32.00;Ushas;Inactive;2027-09-01
+ES4038;Iluminador 2 Tono Estrella;NIO 32.94;72;NIO 28.00;Ushas;Inactive;
+ES4047;Rubor Sweet Mojito;NIO 25.88;96;NIO 22.00;Ushas;Inactive;
+ES4061-2;Sombra de Ojos My Life Dreams;NIO 49.41;21;NIO 42.00;Ushas;Inactive;2028-05-01
+ES4163-2;Sombra para Ojos Floral 5C 2;NIO 23.53;120;NIO 20.00;Ushas;Inactive;
+ES4163-4;Sombra para Ojos Floral 5C 4;NIO 23.53;120;NIO 20.00;Ushas;Inactive;
+ES4168;Polvo Suelto Perfect;NIO 37.65;96;NIO 32.00;Ushas;Inactive;2028-07-01
+ES4170-4;Sombra para Ojos Love More 4;NIO 37.65;96;NIO 32.00;Ushas;Inactive;2028-04-01
+ES4194;Sombra para Ojos Show Time;NIO 42.35;108;NIO 36.00;Ushas;Inactive;2028-07-01
+ES4195-2;Sombra para Ojos Show Time 2;NIO 70.59;144;NIO 60.00;Ushas;Inactive;2028-07-01
+ES4195-4;Sombra para Ojos Show Time 4;NIO 70.59;132;NIO 60.00;Ushas;Inactive;2028-07-01
+ES4198-4;Sombra para Ojos For You 4;NIO 91.76;6;NIO 78.00;Ushas;Inactive;2028-08-01
+ES4201-2;Sombra para Ojos Ushas Love ES4201 2;NIO 35.29;132;NIO 30.00;Ushas;Inactive;2028-08-01
+ES4201-4;Sombra para Ojos Ushas Love ES4201-4;NIO 35.29;72;NIO 30.00;Ushas;Inactive;2028-08-01
+ES4202-4;Sombra Colores Nudes para Ojos;NIO 91.76;6;NIO 78.00;Ushas;Inactive;2028-08-01
+ES6016;Sombra Favor Beauty Beach;NIO 52.94;559;NIO 45.00;VB;Active;2026-07-01
+ES6107;Sombra Favor Beauty Kitty;NIO 52.94;226;NIO 45.00;VB;Active;2026-06-01
+F-A18;Body Victorias Fleur Forever Emotion 250ml;NIO 76.47;29;NIO 65.00;VB;Inactive;
+F-A22;Body Victorias Fleur Pure Seduction Shimmer 250ml;NIO 76.47;12;NIO 65.00;VB;Inactive;
+F-A23;Body Victorias Fleur Love Spell Shimmer 250ml;NIO 76.47;12;NIO 65.00;VB;Inactive;
+F-A24;Body Victorias Fleur Velvet Petals Shimmer 250ml;NIO 76.47;12;NIO 65.00;VB;Inactive;
+F-A25;Body Victorias Fleur Love Spell 250ml;NIO 76.47;12;NIO 65.00;VB;Inactive;
+F-A27;Body Victorias Fleur Velvet Petals 250ml;NIO 76.47;12;NIO 65.00;VB;Inactive;
+F001;Base All Hours YvestSaintLaurent;NIO 41.18;1240;NIO 35.00;VB;Active;2026-01-01
+F002;Base Loreal Paris Revital Fit;NIO 35.29;861;NIO 30.00;VB;Active;2026-01-01
+F003;Base Maybelline SPF50+ Alta cobertura;NIO 25.00;2958;NIO 16.00;VB;Active;2026-01-01
+F004;Base Lorea SPF50+ Antioxidante;NIO 20.00;3341;NIO 16.00;VB;Active;2026-01-01
+F007A;Primer CHANLANYA glitter;NIO 37.65;180;NIO 32.00;VB;Active;2026-01-01
+F007B;Primer CHANLANYA transparente;NIO 37.65;204;NIO 32.00;VB;Active;2026-01-01
+FC611A;Iluminador Febble FC611A;NIO 70.59;132;NIO 60.00;Ushas;Inactive;
+FC616B;Polvo Compacto Ushas-B;NIO 35.29;240;NIO 30.00;Ushas;Inactive;2027-09-01
+FC647A;Iluminador My Custom;NIO 44.71;54;NIO 38.00;Ushas;Inactive;2028-01-01
+FP-3032;Esponja Puff;NIO 47.06;24;NIO 40.00;VB;Inactive;2029-01-26
+FP-375;Esponja Puff Sweet beauty FP-375;NIO 37.65;9;NIO 37.65;VB;Active;2029-01-01
+FP3137;Esponja para maquillar Sweet Beauty;NIO 18.82;788;NIO 16.00;VB;Active;2029-01-01
+FS195;Spray Liquido Corporal Shimmer;NIO 76.47;144;NIO 65.00;Ushas;Inactive;
+FS292;Sellador de Maquillaje Ushas Rose;NIO 88.24;36;NIO 75.00;Ushas;Inactive;
+FS329;Corrector de Ojeras Full Cover All Ushas;NIO 32.94;168;NIO 28.00;Ushas;Inactive;2028-11-01
+FS338;Blush Corazon;NIO 76.47;72;NIO 65.00;Ushas;Inactive;
+FS343;Sellador Para Cejas Ushas;NIO 21.18;192;NIO 18.00;Ushas;Inactive;2027-07-01
+FS346A;Base Maquillaje Febble Pure Cover;NIO 105.88;132;NIO 90.00;Ushas;Inactive;2028-05-01
+FS346B;Base Maquillaje Febble Pure Cover;NIO 105.88;96;NIO 90.00;Ushas;Inactive;2028-05-01
+FS358;Primer Para Sombra Ushas;NIO 18.82;168;NIO 16.00;Ushas;Inactive;2028-01-01
+FS370;Iluminador Corporal Cristal;NIO 37.65;276;NIO 32.00;Ushas;Inactive;
+FS384;Sellador de Maquillaje Ushas Photo Finish;NIO 61.18;60;NIO 52.00;Ushas;Inactive;2028-06-01
+FS411B;Base Liquida Premium;NIO 51.76;264;NIO 44.00;Ushas;Inactive;
+FS417B;Base Maquillaje Ushas Rose B;NIO 45.88;168;NIO 39.00;Ushas;Inactive;
+FS440;Primer Violet Hidratante;NIO 40.00;72;NIO 34.00;Ushas;Inactive;
+FS442A;Corrector de Ojeras Full Cover Ushas A;NIO 47.06;144;NIO 40.00;Ushas;Inactive;2028-11-01
+FS442B;Corrector de Ojeras Full Cover Ushas B;NIO 47.06;96;NIO 40.00;Ushas;Inactive;
+FS445B;Base Maquillaje 16H Con Aplicador Ushas;NIO 100.00;96;NIO 85.00;Ushas;Inactive;
+G3134;Balsamo Labial Arándano Orof;NIO 11.76;292;NIO 10.00;VB;Active;2028-08-01
+G3135;Balsamo Labial Limon Orof;NIO 11.76;605;NIO 10.00;VB;Active;2028-08-01
+G3136;Balsamo Labial Fresas 24h Orof;NIO 11.76;418;NIO 10.00;VB;Active;2028-08-01
+G3137;Balsamo Labial Sandia 24h Orof;NIO 11.76;559;NIO 10.00;VB;Active;2028-08-01
+GJ7028;Contorno De Ojos 20ml;NIO 47.06;168;NIO 40.00;VB;Inactive;2028-03-01
+GJ7169;Set Skin Care Acido Kojic 5 Pcs;NIO 282.35;9;NIO 240.00;VB;Inactive;2028-06-01
+GJ7181;Limpiador Facial Retinol 100g;NIO 49.41;89;NIO 42.00;VB;Inactive;2026-05-01
+GJ7182;Locion Retinol 100g;NIO 58.82;20;NIO 50.00;VB;Inactive;2028-05-01
+GJ7186;Contorno De Ojos Retinol 30g;NIO 52.94;128;NIO 45.00;VB;Active;2028-05-01
+GJ7191;Limpiador Facial Acido Hialuronico 100g;NIO 47.06;177;NIO 40.00;VB;Inactive;2028-05-01
+GJ7192;Tonico Facial de Acido Hialuronico 150ml GuanJing;NIO 52.94;83;NIO 45.00;VB;Inactive;2028-05-01
+GJ7193;Serum Facial de Acido Hialuronico 40ml;NIO 37.65;95;NIO 32.00;VB;Inactive;2028-05-01
+GJ7194;Locion Acido Hialuronico 100g;NIO 52.94;72;NIO 45.00;VB;Inactive;2028-05-01
+GZ8060165;Corrector 6 tonos Mlundo;NIO 27.00;120;NIO 21.08;BISUTERIA;Active;2028-10-01
+GZ8100088;Serum Facial de Arroz 30ml;NIO 33.00;120;NIO 25.91;BISUTERIA;Active;2029-01-01
+GZ8100089;Serum Facial Aloe Vera Mlundo;NIO 33.00;120;NIO 25.91;BISUTERIA;Active;2028-03-01
+GZ8100090;Serum Facial Arroz, Vit C, Acido Hialurónico, Aloe Vera;NIO 33.00;48;NIO 25.91;BISUTERIA;Active;2028-03-01
+GZ8100130;Serum Facial de Colageno Mlundo;NIO 33.00;120;NIO 25.91;BISUTERIA;Active;2028-08-01
+H64026 C;Base Huda Beauty Fauxlens;NIO 44.71;708;NIO 38.00;VB;Active;2028-04-01
+H64070 C;Base Huda Beauty Matte FPS 50+ todo tipo de pieles;NIO 49.41;996;NIO 42.00;VB;Active;2028-04-01
+H7043;Iluminador con Glitter Huda Beauty;NIO 25.88;2;NIO 22.00;VB;Inactive;2028-10-01
+H96040;Serum Facial Aloe Vera 30ml;NIO 29.41;167;NIO 25.00;VB;Inactive;2028-07-01
+H96041;Serum Facial Vitamina C 30ml;NIO 29.41;95;NIO 25.00;VB;Inactive;2028-07-01
+H98142-A;Lápiz Labial Huda Mate;NIO 14.12;1073;NIO 12.00;VB;Active;2028-05-01
+H98144-A;Lápiz Labial Huda Matte H98144-A;NIO 14.12;3930;NIO 12.00;VB;Active;2028-06-01
+H98149-24B;Lápiz Labial Huda Colores que duran todo el dia;NIO 14.12;3672;NIO 12.00;VB;Active;2028-04-01
+HA-3054;Protector Solar Kids 35+;NIO 47.06;48;NIO 40.00;Ushas;Inactive;2028-11-01
+HA069;Espuma Facial Limpiadora de Rosa;NIO 74.12;24;NIO 63.00;Ushas;Inactive;
+HA070;Espuma Facial Limpiadora de Vit-C;NIO 74.12;24;NIO 63.00;Ushas;Inactive;
+HA072;Espuma Facial Limpiadora con Aminoácidos;NIO 74.12;48;NIO 63.00;Ushas;Inactive;
+HA073;Espuma Facial Limpiadora de Uva;NIO 74.12;72;NIO 63.00;Ushas;Inactive;
+HA082;Tonico Facial Refrescante Rose;NIO 64.71;60;NIO 55.00;Ushas;Inactive;
+HA273;Serum Facial Gotero Acido Hyaluronico;NIO 94.12;120;NIO 80.00;Ushas;Inactive;
+HA274;Serum Facial Gotero, Collagen;NIO 94.12;144;NIO 80.00;Ushas;Inactive;
+HA276;Serum Facial con Gotero, Aloe Vera;NIO 94.12;144;NIO 80.00;Ushas;Inactive;
+HA277;Serum Facial Gotero Rugosa Rose;NIO 94.12;132;NIO 80.00;Ushas;Inactive;
+HB5224;Brillo Labial Hold Morning Cute Hello Lovely;NIO 12.94;240;NIO 11.00;VB;Active;2027-08-01
+HCC323;Corrector Y Contorno;NIO 25.88;168;NIO 22.00;VB;Active;2028-08-01
+HCC331;Corrector Huda Beauty Borrador instantáneo multi-uso;NIO 32.94;1152;NIO 28.00;VB;Active;2028-07-01
+HL5559;Brillo Labial Hold Morning HL5569;NIO 12.94;528;NIO 11.00;VB;Active;2027-10-01
+HL5566;Brillo para Labios Hold Morning HL5566;NIO 12.94;12;NIO 11.00;VB;Active;2027-10-01
+HL5570;Brillo Labial Hold Morning Cute Candy;NIO 12.94;528;NIO 11.00;VB;Active;2027-10-01
+HS033;Espejo Gatita;NIO 84.71;11;NIO 72.00;VB;Inactive;2026-01-01
+HS1023;Cera laminada para cejas Mecow;NIO 15.50;693;NIO 12.80;VB;Active;2027-11-01
+HS1195;Iluminador Make-up Mecow;NIO 24.00;48;NIO 20.00;VB;Active;2028-12-01
+J826;Primer Cubreporos;NIO 12.94;672;NIO 11.00;VB;Active;2025-04-01
+J827;Primer Mattefyng Suncreeen;NIO 12.94;504;NIO 11.00;VB;Active;2025-04-01
+JH8010;Mascara Pestañas Essence;NIO 14.12;264;NIO 12.00;VB;Active;2026-04-01
+JM-4119;Pestañas 2pcs 3D;NIO 17.65;720;NIO 15.00;VB;Active;2026-01-01
+JM-544;Pestañas Postizas 8mm;NIO 23.53;408;NIO 20.00;VB;Active;2026-01-01
+JM-570;Pestañas 1pcs Nooralazawi Nudes 3D;NIO 11.76;196;NIO 10.00;VB;Active;2026-01-01
+JM-599;Pestañas 1 pcs Nooralazawi hechas a mano 3D;NIO 11.76;146;NIO 10.00;VB;Active;2026-01-01
+JM-603;Pestañas 1pcs Nooralazawi hechas a mano 5D;NIO 11.76;104;NIO 10.00;VB;Active;2026-01-01
+JM4010;Pestañas 3pcs;NIO 25.88;51;NIO 22.00;VB;Inactive;2026-01-01
+JS-1228;Pegamento para Pestañas;NIO 8.24;218;NIO 7.00;VB;Active;2025-12-01
+K-7775;Labial de Hadas Miss Betty;NIO 21.00;72;NIO 16.69;BISUTERIA;Active;2028-01-01
+K3324;Labial Matte 24 hrs Miss Betty;NIO 22.00;168;NIO 17.57;BISUTERIA;Active;2027-01-01
+KQ-6201;Serum Facial Vitamina C Erha21 30ml;NIO 29.41;585;NIO 25.00;VB;Active;2026-06-01
+KQ-BNS100;Serum Facial de Acido Hialuronico 100ml;NIO 47.06;250;NIO 40.00;VB;Active;2026-03-01
+KQ-DM100;Serum Facial de Arroz 100ml;NIO 47.06;179;NIO 40.00;VB;Inactive;2026-06-01
+KQ-VC150X;Limpiador Facial 150ml Vitamina C;NIO 52.94;81;NIO 45.00;VB;Active;2026-03-01
+KQ-VE100;Serum Facial de Vitamina E 100ml;NIO 47.06;142;NIO 40.00;VB;Inactive;2026-03-01
+L014;Primer Fit me! Alta duracion Love is beauty 24hr;NIO 35.29;1253;NIO 30.00;VB;Active;2026-01-01
+L3455;Brillo Labial Larga duración Miss Betty;NIO 28.00;24;NIO 21.96;BISUTERIA;Active;2028-12-01
+L3518;Brillo Labial Miss Betty;NIO 20.00;72;NIO 15.37;BISUTERIA;Active;2029-01-01
+LC05;Brillo Labial 99% Aloe Magic;NIO 14.12;237;NIO 12.00;VB;Active;2028-11-01
+LC1141;Tinte Para Labios Ice Cream;NIO 14.12;264;NIO 12.00;VB;Active;2028-05-01
+LC1147;Aceite Labial + Tinte Para Labios;NIO 25.88;432;NIO 22.00;VB;Active;2028-06-01
+LC1157;Brillo Labial Mariposita Magic;NIO 12.94;696;NIO 11.00;VB;Active;2028-05-01
+LC1161;Aceite Labial Magic LC1161;NIO 12.94;2640;NIO 11.00;VB;Active;2028-06-01
+LC1164;Aceite Labial Magic LC1164;NIO 12.94;1144;NIO 11.00;VB;Active;2028-07-01
+LC1182;Aceite Labial + Tinte Para Labios;NIO 21.18;353;NIO 18.00;VB;Active;2028-06-01
+LC1197;Aceite Labial Magic LC1197;NIO 12.94;624;NIO 11.00;VB;Active;2028-07-01
+LC1201;Aceite Labial Magic LC1201;NIO 12.94;1360;NIO 11.00;VB;Active;2028-06-01
+LC1204;Aceite Labial Magic LC1204;NIO 12.94;424;NIO 11.00;VB;Active;2028-06-01
+LC1207;Brillo Para Labios Mate Magic Be sweet;NIO 12.94;216;NIO 11.00;VB;Active;2028-07-01
+LC1218;Aceite Labial Magic LC1218;NIO 12.94;192;NIO 11.00;VB;Active;2028-07-01
+LC1220;Aceite Labial Magic LC1220;NIO 12.94;336;NIO 11.00;VB;Active;2028-07-01
+LC1227;Brillo Para Labios Mate Magic color perfecto;NIO 12.94;216;NIO 11.00;VB;Active;2028-10-01
+LC1230;Balsamo Para Labios Magic LC1230;NIO 12.94;1500;NIO 11.00;VB;Active;2028-07-01
+LC1253;Brillo Para Labios Magic Dear Darling;NIO 12.94;1668;NIO 11.00;VB;Active;2025-03-22
+LC1305;Balsamo para Labios Osito Magic;NIO 14.12;24;NIO 12.00;VB;Active;2028-12-01
+LC1310;Mascara para pestañas y cejas en gel con Acido Hialuronico Magic;NIO 12.94;405;NIO 11.00;VB;Active;2028-11-01
+LC607;Brillo para Labios;NIO 15.29;1556;NIO 13.00;VB;Active;2028-07-01
+LC643;Brillo Labial OLanney;NIO 18.00;72;NIO 14.05;BISUTERIA;Active;2028-11-01
+LC719;Brillo Labial Dear Darling Magic;NIO 12.94;1;NIO 12.94;VB;Active;2028-10-01
+LC911;Bálsamo Para Labios Magic corazón doble;NIO 13.00;216;NIO 11.00;VB;Active;2027-11-01
+LC929;Brillo para Labios Magic corazón love;NIO 12.94;24;NIO 11.00;VB;Active;2028-04-01
+LC991;Brillo Para Labios 24h;NIO 12.94;167;NIO 11.00;VB;Active;2028-06-01
+LG2218;Brillo Labial Natural Mix;NIO 23.53;264;NIO 20.00;Ushas;Inactive;2027-12-01
+LG2367;Brillo de labios Maximizer;NIO 21.18;216;NIO 18.00;Ushas;Inactive;
+LG2400;Brillo Labial Shine On;NIO 21.18;192;NIO 18.00;Ushas;Inactive;2028-06-01
+LG2416;Brillo Labial Ushas Aloe;NIO 18.82;216;NIO 16.00;Ushas;Inactive;2028-06-01
+LG2419B;Brillo Labial Music Star Matte;NIO 23.53;168;NIO 20.00;Ushas;Inactive;
+LG2471A;Brillo Labial Luxurious Ushas A;NIO 24.71;288;NIO 21.00;Ushas;Inactive;2026-01-01
+LG2471B;Brillo Labial Luxurious Ushas B;NIO 24.71;288;NIO 21.00;Ushas;Inactive;2026-01-01
+LG2500;Rubor Love Pretty;NIO 20.00;72;NIO 17.00;Ushas;Inactive;2026-06-01
+LG2504B;Labial Matte Ushas;NIO 30.59;264;NIO 26.00;Ushas;Inactive;
+LG2513;Brillo Labial Ice Drink;NIO 21.18;192;NIO 18.00;Ushas;Inactive;
+LG2519A;Labial Matte Ushas;NIO 21.18;284;NIO 18.00;Ushas;Inactive;2026-08-01
+LG2522;Labial Beauty Kiss;NIO 25.88;288;NIO 22.00;Ushas;Inactive;
+LG2525F;Brillo Labial Tinta Juicy;NIO 27.06;120;NIO 23.00;Ushas;Inactive;
+LG2532;Brillo Labial Boom;NIO 17.65;120;NIO 15.00;Ushas;Inactive;2028-07-01
+LO902;Polvo Suelto Scalon;NIO 25.88;23;NIO 22.00;VB;Active;2027-01-01
+LO903;Polvo suelto banana Scanlon;NIO 31.76;36;NIO 27.00;VB;Inactive;2027-01-01
+LO904;Polvo Banana Suelto Scanlon Iluminador Bronzing;NIO 11.76;57;NIO 10.00;VB;Active;2026-01-01
+LP2282B;Labial Matte Dorado;NIO 22.35;120;NIO 19.00;Ushas;Inactive;2028-05-01
+LP2288A;Lápiz Labial Kiss A;NIO 21.18;288;NIO 18.00;Ushas;Inactive;2028-06-01
+LP2288B;Lápiz Labial Kiss-B;NIO 21.18;264;NIO 18.00;Ushas;Inactive;2028-06-01
+LP2290;Balsamo Para Labios Ushas Aloe Vera;NIO 20.00;264;NIO 17.00;Ushas;Inactive;
+LP2291;Balsamo Para Labios Ushas That Well;NIO 18.82;192;NIO 16.00;Ushas;Inactive;
+LP2294;Labial en Barra Beauty Kiss;NIO 21.18;216;NIO 18.00;Ushas;Inactive;2028-08-01
+LP2300;Balsamo para Labios Ushas;NIO 15.29;480;NIO 13.00;Ushas;Inactive;
+LS112;Balsamo Para Labios Magic paleta espiral;NIO 12.94;840;NIO 11.00;VB;Active;2028-05-01
+LS115;Balsamo Para Labios Magic Taza gatito;NIO 14.12;744;NIO 12.00;VB;Active;2028-07-01
+LS116;Balsamo Para Labios Magic refresco;NIO 14.12;2184;NIO 12.00;VB;Active;2028-07-01
+LS824;Balsamo para Labios Magic;NIO 17.00;24;NIO 13.18;BISUTERIA;Inactive;2028-01-01
+M0010;Base Million Pauline Esencia de caracol SPF 25+;NIO 44.71;192;NIO 38.00;VB;Active;2025-09-01
+M0045;Polvo Compacto Doble Million Pauline 24hr;NIO 52.94;96;NIO 45.00;VB;Inactive;2026-04-01
+M0195;Primer Million Pauline;NIO 40.00;240;NIO 34.00;VB;Active;2025-11-01
+M0273;Mascara de Pestañas 7D Million Pauline;NIO 24.71;428;NIO 21.00;VB;Active;2026-06-01
+M0281;Base Velvet Touch SPF+ 10 Million Pauline;NIO 41.18;348;NIO 35.00;VB;Active;2026-10-01
+M22-51;Polvo Compacto Doble Million Pauline tono claro;NIO 52.94;81;NIO 45.00;VB;Active;2026-01-01
+M22-81;Mascara Million Pauline Ma XXL;NIO 28.24;1260;NIO 24.00;VB;Active;2026-04-01
+M2227;Mascara a prueba de agua 4D Romantiic;NIO 22.00;216;NIO 17.13;BISUTERIA;Active;2028-10-01
+M23-157;Mascara De Pestañas Million Pauline Sube El Volumen;NIO 18.82;168;NIO 16.00;VB;Active;2026-10-01
+M23-27;Polvo Compacto y corrector Million Pauline Mate;NIO 52.94;6;NIO 52.94;VB;Active;2027-04-01
+M23-36;Mascara Million Pauline Refresca y revive;NIO 28.24;1255;NIO 24.00;VB;Active;2026-05-01
+M23-48;Mascara de Pestañas Sky High;NIO 27.06;1032;NIO 23.00;VB;Active;2026-04-01
+M2602;Corrector Antiojeras 24h;NIO 15.29;720;NIO 13.00;VB;Active;2026-01-01
+M610;Mascara Para Pestañas;NIO 15.29;1056;NIO 13.00;VB;Active;2029-01-26
+MA1072;Máscara de Pestañas Love Febble;NIO 31.76;192;NIO 27.00;Ushas;Inactive;2026-08-01
+MA1073;Mascara para cejas 3D Ushas;NIO 25.88;216;NIO 22.00;Ushas;Inactive;2026-06-01
+MA1075;Máscara De Pestaña Ushas Transparente;NIO 21.18;192;NIO 18.00;Ushas;Inactive;2026-06-01
+MA1087;Mascara De Pestañas;NIO 27.06;216;NIO 23.00;Ushas;Inactive;2028-07-01
+MB-022;Lápiz Delineador Negro;NIO 14.12;718;NIO 12.00;VB;Active;2026-01-01
+MB-023;Lapiz para cejas;NIO 21.00;168;NIO 18.00;VB;Active;2026-01-01
+MM-048;Parche Para Ojos De Colágeno;NIO 5.00;9326;NIO 4.00;VB;Active;2025-08-01
+MS1117B;Sombra Iluminador, sombra y blush Mels;NIO 75.00;120;NIO 59.29;BISUTERIA;Active;2026-07-01
+N-8636P;Sombra de ojos Anylady Super Girl;NIO 94.12;108;NIO 80.00;VB;Active;2027-07-01
+N220;Base Liquida Detoxificar Y Proteger Note;NIO 12.94;528;NIO 11.00;VB;Active;2027-06-01
+N221;Primer Top Face Rellena & Refresca;NIO 12.94;696;NIO 11.00;VB;Active;2025-12-01
+OLU909-112;Perfume Tubular Mome Blang;NIO 21.18;141;NIO 18.00;VB;Active;
+OLU909-113;Perfume Tubular 212 Sexy Man;NIO 21.18;47;NIO 18.00;VB;Active;
+OLU909-171;Perfume Tubular Invictus V;NIO 21.18;72;NIO 18.00;VB;Active;
+OLU909-2;Perfume Tubular Billion Men;NIO 21.18;71;NIO 18.00;VB;Active;
+OLU909-31;Perfume Tubular Blue De Chenale;NIO 21.18;72;NIO 18.00;VB;Active;
+OLU909-50;Perfume Tubular Boos;NIO 21.18;23;NIO 18.00;VB;Active;
+OLU909-6;Perfume Tubular Vercage;NIO 21.18;96;NIO 18.00;VB;Inactive;
+OLU909-81;Perfume Tubular Swiss Army;NIO 21.18;48;NIO 18.00;VB;Active;
+OLU909-91;Perfume Tubular Invictus;NIO 21.18;47;NIO 18.00;VB;Active;
+OLU938-1;Perfume Legend para hombre 100ml;NIO 59.00;119;NIO 48.00;VB;Active;
+OLU938-10;Perfume Bozzs para hombre 100ml;NIO 59.00;70;NIO 48.00;VB;Active;
+OLU938-20;Perfume Amour Amour para mujer 100ml;NIO 59.00;12;NIO 48.00;VB;Active;
+OLU938-21;Perfume IEAU DISSAY para hombre 100ml;NIO 59.00;63;NIO 48.00;VB;Active;
+OLU938-23;Perfume King of Seduction;NIO 59.00;72;NIO 59.00;VB;Active;
+OLU938-30;Perfume Disell;NIO 59.00;60;NIO 59.00;VB;Active;
+OLU938-32;Perfume Bozzs para mujer;NIO 59.00;6;NIO 59.00;VB;Active;
+OLU938-35;Perfume Bad Boy 100ml;NIO 59.00;6;NIO 59.00;VB;Active;
+OLU938-4;Perfume For Alway;NIO 59.00;48;NIO 59.00;VB;Active;
+OLU938-5;Perfume 2i2 VIP Men;NIO 59.00;210;NIO 48.00;VB;Active;
+OLU938-53;Perfume Swis Amy para mujer 100ml;NIO 59.00;16;NIO 48.00;VB;Active;
+OLU938-54;Perfume Hello Man 2i2 100ml;NIO 59.00;60;NIO 48.00;VB;Active;
+OLU938-57;Perfume Invictus V;NIO 59.00;222;NIO 59.00;VB;Active;
+OLU988-1;Perfume niña science;NIO 42.35;72;NIO 36.00;VB;Active;
+OTS018;Paleta Sombra, Contorno y Blush Overture;NIO 52.00;239;NIO 41.28;BISUTERIA;Active;2027-07-01
+OTS068;Paleta Blush Overture;NIO 58.00;192;NIO 46.12;BISUTERIA;Active;2027-11-01
+OTX056;Corrector 6 colores Overture;NIO 42.00;216;NIO 32.94;BISUTERIA;Active;2027-10-01
+P003;Primer base Mate Infalible Lorel;NIO 18.00;3348;NIO 14.00;VB;Active;2026-01-01
+P004;Primer baby skin Maybelline borrador de poros;NIO 18.00;3828;NIO 14.00;VB;Active;2026-01-01
+PK145;Corrector Liquido Pink Key;NIO 23.53;432;NIO 20.00;VB;Active;2027-09-01
+PK204;Sombra Pink Key UltraLight y rapido secado;NIO 19.00;24;NIO 16.00;VB;Active;2027-11-01
+R182/R187;Balsamo para labios Paleta Romantic;NIO 11.76;237;NIO 10.00;Ushas;Inactive;2026-08-01
+RE-2004;Secadora De Cabello Remlngton 5000w;NIO 270.59;10;NIO 230.00;VB;Active;2029-01-26
+RE-2038;Secadora De Cabello Reddenton 3000w;NIO 305.88;15;NIO 260.00;VB;Active;2029-01-26
+RKQ-2609;Serum Facial de Colágeno Erha21 30ml;NIO 29.41;495;NIO 25.00;VB;Active;2026-06-01
+RKQ-DM30;Serum Facial de Arroz Erha21 30ml;NIO 29.41;123;NIO 25.00;VB;Active;2026-06-01
+RX150X;Limpiador Facial 150ml Multi proposito;NIO 52.94;181;NIO 45.00;VB;Inactive;2026-05-01
+S11-1066;Formador Barba Stay;NIO 20.22;84;NIO 18.00;Stay;Inactive;2029-01-01
+S16-002;Base con Vitamina E y SPF 30+;NIO 43.82;144;NIO 39.00;Stay;Active;2026-05-01
+S17-002;Shampoo Y Acondicionador Caja Romero Stay;NIO 128.00;90;NIO 89.00;;Active;
+S17-004;Shampoo Y Acondicionador Caja Aloe Vera Stay;NIO 128.00;66;NIO 89.00;;Active;
+S17-005;Tratamiento Para Cabello Argan 800g Stay;NIO 108.00;18;NIO 72.00;Stay;Inactive;2027-10-07
+S17-007;Tratamiento Para Cabello Coco 800g Stay;NIO 108.00;1;NIO 72.00;Stay;Inactive;2026-05-07
+S17-009;Tratamiento Para Cabello Aloe Y Keratina 800g Stay;NIO 108.00;1;NIO 71.00;Stay;Inactive;2027-11-30
+S17-019;Shampoo Y Acondicionador 1000 Ml Oliva;NIO 215.00;32;NIO 150.00;Stay;Active;2026-02-01
+S17-020;Shampoo Y Acondicionador Aloe Vera 1000ml Stay;NIO 215.00;36;NIO 145.00;;Active;
+S17-022;Shampoo Y Acondicionador Caja Keratina;NIO 128.00;90;NIO 89.00;;Active;
+S17-023;Shampoo Y Acondicionador Caja Argan;NIO 128.00;104;NIO 89.00;Stay;Active;2025-07-01
+S17-024;Shampoo Y Acondicionador 1000 Ml Argan;NIO 215.00;36;NIO 150.00;Stay;Active;2026-02-01
+S17-025;Shampoo Y Acondicionador Cola de caballo Romero 1000ml Stay;NIO 215.00;36;NIO 145.00;;Active;
+S17-026;Shampoo Y Acondicionador 1000 ML Coco;NIO 215.00;36;NIO 150.00;;Active;
+S17-1121;Shampoo 1000ml Coconut;NIO 95.00;88;NIO 84.00;Stay;Active;2024-07-01
+S18-001;Mascarilla Facial De Aloe Vera Stay;NIO 20.00;431;NIO 17.00;Stay;Inactive;2024-07-01
+S18-002;Mascarilla Facial De Pepino Stay;NIO 20.00;438;NIO 17.00;Stay;Inactive;2024-07-01
+S18-003;Mascarilla Facial De Aguacate Stay;NIO 20.00;999;NIO 17.00;Stay;Inactive;2024-07-01
+S2-0061;Lima Para Uña Stay;NIO 11.24;558;NIO 10.00;Stay;Active;2029-01-01
+S2-0063;Pala Para Pedicure Plastica;NIO 22.35;149;NIO 19.00;Stay;Active;2029-01-01
+S2-0066;Pala Para pies Metalica Stay;NIO 20.00;341;NIO 17.00;Stay;Active;2029-01-01
+S2-0361;Esponja Facial Exfoliante Stay;NIO 23.60;311;NIO 21.00;Stay;Inactive;2029-01-01
+S2-0511;Pala Y Lima De Pedicure 4 En 1;NIO 47.06;3;NIO 47.06;Stay;Active;2029-01-01
+S2-0581;Limpia Cutícula Stay;NIO 20.00;156;NIO 15.00;Stay;Active;2029-01-01
+S2-0618;Brocha De Barbero;NIO 54.12;520;NIO 46.00;Stay;Active;2029-01-01
+S2-0658;Pinza Para Ceja Muñeca;NIO 18.82;1;NIO 16.00;Stay;Inactive;
+S2-0737;Cepillo peinilla para Cabello Stay;NIO 25.88;233;NIO 22.00;Stay;Active;2029-01-01
+S2-0759;Set de esponjas para maquillar Stay;NIO 24.72;36;NIO 22.00;Stay;Active;2029-01-01
+S2-0771;Lima Para Pedicure Stay;NIO 12.00;409;NIO 10.00;Stay;Active;2029-01-01
+S2-0796;Esponja Facial Makeup Puff;NIO 25.84;120;NIO 23.00;Stay;Active;2029-01-01
+S2-0866;Encrespadora de Pestaña Stay;NIO 29.41;273;NIO 25.00;Stay;Active;2029-01-01
+S2-0868;Pinza Depiladora para Ceja Stay;NIO 19.00;342;NIO 16.00;Stay;Active;2029-01-01
+S2-0925;Lima Para Pedicure Azucar;NIO 28.09;276;NIO 25.00;Stay;Inactive;2029-01-01
+S2-0971;Desmaquillante Facial;NIO 66.29;24;NIO 59.00;Stay;Active;2025-12-01
+S2-1035;Cepillo Para Cabello Stay Osito;NIO 51.76;24;NIO 44.00;Stay;Inactive;2029-01-26
+S2-1276;Set para Ceja Set 3 Pzas;NIO 35.96;22;NIO 32.00;Stay;Inactive;2029-01-26
+S2-1371;Rizador de Pestaña Stay;NIO 40.45;60;NIO 36.00;Stay;Active;2029-01-01
+S20-05AS;Esmalte Para Uña 12 Colores;NIO 19.10;612;NIO 17.00;Stay;Active;2026-01-01
+S20-10AS;Esmalte Para Uña 4 Tonos Pasteles;NIO 19.10;7;NIO 17.00;Stay;Inactive;
+S21-021;Pincel Para Uñas;NIO 13.48;34;NIO 12.00;Stay;Inactive;2026-01-01
+S23-001;Exfoliante Para Rostro Durazno 500ml;NIO 162.00;6;NIO 113.00;Stay;Inactive;2025-01-01
+S23-008;Exfoliante Para Rostro Menta 500ml;NIO 162.00;16;NIO 113.00;Stay;Active;2025-01-01
+S23-009;Exfoliante Para Rostro Avena Y Miel 500ml Stay;NIO 149.00;223;NIO 113.00;Stay;Active;2025-08-01
+S23-0538;Crema para Peinar Olive 300ml Stay;NIO 97.20;1;NIO 68.00;Stay;Inactive;2025-12-01
+S23-1165;Exfoliante Para Rostro Frutos Silvestres 500ml Stay;NIO 149.00;8;NIO 149.00;Stay;Active;2025-08-01
+S23-1346;Crema Para Peinar Y Tratamiento Coco 500ml Stay;NIO 118.00;165;NIO 82.00;Stay;Active;2026-03-22
+S23-1350;Crema para Peinar Y Tratamiento Aloe Vera 500ml;NIO 118.00;1;NIO 82.00;Stay;Inactive;2025-11-01
+S26-004;Navaja De Belleza 2 En 1;NIO 22.47;636;NIO 20.00;Stay;Active;2029-01-01
+S29-001;Brocha Para Maquillaje Set 7 Pzas Stay;NIO 58.82;132;NIO 50.00;Stay;Inactive;2029-01-01
+S29-1193;Esponja Facial Stay 6 piezas;NIO 32.58;131;NIO 29.00;Stay;Active;2029-01-01
+S3-011;Protector Solar 50 SPF Stay;NIO 72.00;72;NIO 50.00;Stay;Active;2026-11-30
+S32-1160;Toallas Húmeda 100 Hojas Antibacterial;NIO 56.18;95;NIO 50.00;Stay;Active;2025-12-01
+S33-004;Jabon Para Manos Stay 413ml Mint;NIO 44.94;31;NIO 40.00;Stay;Inactive;2023-04-01
+S33-008;Jabon Para Manos Stay 413ml Apple;NIO 44.94;49;NIO 40.00;Stay;Inactive;2023-04-01
+S35-001;Exfoliante Corporal Green Tea 532ml;NIO 69.00;7;NIO 69.00;Stay;Active;2026-07-01
+S35-002;Exfoliante Corporal Aloe Vera 532ml Stay;NIO 69.00;9;NIO 69.00;Stay;Active;2026-07-01
+S35-003;Exfoliante Corporal Cocoa 532ml;NIO 69.00;19;NIO 47.00;Stay;Active;2027-12-01
+S35-005;Locion Corporal Aloe Vera 532ml;NIO 78.00;81;NIO 54.00;Stay;Active;2026-01-01
+S35-015;Crema depiladora de Aloe Vera;NIO 72.00;11;NIO 47.00;Stay;Active;2027-10-18
+S35-023;Limpiador Facial Verde 200ml;NIO 63.00;455;NIO 44.00;Stay;Active;2026-01-01
+S35-0606;Talco P/Pies 24 Horas;NIO 47.19;61;NIO 42.00;Stay;Active;2026-01-01
+S35-0711;Exfoliante Corporal Mango Y Naranja 532ml;NIO 69.00;12;NIO 47.00;Stay;Active;2027-10-01
+S35-0939;Limpiador Facial Rosado 200ml;NIO 63.00;471;NIO 44.00;Stay;Active;2026-01-01
+S35-1151;Exfoliante Facial Frutos Silvestres. 6 Oz 170g;NIO 66.00;230;NIO 46.00;Stay;Active;2023-11-01
+S35-1447;Crema depiladora 150g Stay 3 en 1;NIO 68.00;180;NIO 47.00;Stay;Active;2027-10-01
+S35-1457;Crema corporal humectante Miel 444ml;NIO 68.00;12;NIO 47.00;Stay;Active;2027-10-24
+S36-001;Puntero Pincel De Uñas 5 Pcs;NIO 44.94;336;NIO 40.00;Stay;Active;2029-01-01
+S37-002;Tijera Stay;NIO 28.24;168;NIO 24.00;Stay;Active;2029-01-01
+S37-0884;Pala para Pedicure Madera Stay;NIO 23.60;169;NIO 21.00;Stay;Active;2029-01-01
+S40-1021;Mascarilla Hidroplastica Facial de Pepino Stay;NIO 59.00;228;NIO 57.00;Stay;Inactive;2024-04-01
+S40-1150;Agua Micelar Desmaquillante Stay;NIO 73.00;92;NIO 62.00;Stay;Active;2026-03-01
+S51-0923;Shampoo Genio Niño y Niña 1000ml;NIO 149.00;5;NIO 125.00;Stay;Inactive;
+S6-1130;Delineador Liquido azul Stay;NIO 29.00;165;NIO 31.00;Stay;Active;2025-03-22
+S6-1140A;Iluminador y bronceador Stay;NIO 37.08;192;NIO 33.00;Stay;Active;2025-07-01
+S6-1140B;Sombra 2 En 1 Stay;NIO 37.08;312;NIO 33.00;Stay;Active;2025-07-01
+S6-1234;Delineador Lapiz;NIO 10.11;1;NIO 9.00;Stay;Inactive;2028-03-01
+S6-1362;Delineador 5D Waterprof;NIO 43.82;120;NIO 39.00;Stay;Active;2026-03-22
+S6-1363;Mascara Stay ultra volumen;NIO 34.83;240;NIO 31.00;Stay;Active;2025-12-01
+S6-1364;Corrector de color Stay;NIO 57.30;192;NIO 51.00;Stay;Active;2027-03-01
+S7-001;Mascara Stay transparente en gel;NIO 32.58;432;NIO 29.00;Stay;Active;2026-05-01
+S8-1005;Mascara de Pestaña Stay 2 En 1;NIO 41.57;575;NIO 37.00;Stay;Active;2026-12-01
+SAC005-1;Removedor de maquillaje SAS;NIO 66.00;60;NIO 52.70;BISUTERIA;Active;2029-01-01
+SAC005-2;Removedor de maquillaje SAS;NIO 66.00;60;NIO 52.70;BISUTERIA;Active;2029-01-01
+SAC005-4;Removedor de maquillaje SAS;NIO 66.00;60;NIO 52.70;BISUTERIA;Active;2029-01-01
+SB802;Rubor Scalon;NIO 70.59;251;NIO 60.00;VB;Active;2028-01-01
+SD30878;Ampolla Facial con Acido Hialuronico 7pcs x 2ml;NIO 32.94;27;NIO 28.00;VB;Inactive;2026-07-01
+SD31936;Ampolla Facial con Vitamina C 7pcs x 2ml;NIO 32.94;141;NIO 28.00;VB;Inactive;2025-08-01
+SD31943;Ampolla Facial 24K Gold 7pcs x 2ml;NIO 32.94;113;NIO 28.00;VB;Inactive;2025-11-01
+SE812;Sombra para ojos y contorno Scanlon;NIO 32.94;207;NIO 28.00;VB;Active;2027-01-01
+SE872;Sombra Scanlon 35 tonos;NIO 82.35;328;NIO 70.00;VB;Active;2027-01-01
+SL-5004;Color de labios de larga duración HedyBeauty;NIO 13.00;24;NIO 10.10;BISUTERIA;Inactive;2025-06-01
+ST009;Primer L.A Girl Alta definición;NIO 12.94;432;NIO 11.00;VB;Active;2028-04-01
+ST3311;Corrector Vitality Anthaway;NIO 13.00;360;NIO 13.00;VB;Active;2028-05-13
+ST3312;Corrector Anthaway Alta definición;NIO 11.76;1248;NIO 10.00;VB;Active;2028-05-01
+ST3313;Corrector Natural Anthaway;NIO 12.94;748;NIO 11.00;VB;Active;2025-11-01
+ST3315;Corrector Anthaway Babe Skin;NIO 12.94;2040;NIO 11.00;VB;Active;2028-05-01
+ST3342;Base Liviana Natural Mate ANTAWAY;NIO 12.94;432;NIO 11.00;VB;Active;2027-03-03
+ST3343;Base Anthaway Multiefecto;NIO 12.94;552;NIO 11.00;VB;Active;2027-03-01
+ST3350;Base Liquida 36h Hidratante Anthaway;NIO 12.94;600;NIO 11.00;VB;Active;2027-12-01
+ST3351;Base Pro BB Cream Anthaway;NIO 12.94;288;NIO 11.00;VB;Active;2027-12-01
+ST3352;Base Liquida 36h Vitamina C Fit me! Anthaway;NIO 12.94;480;NIO 11.00;VB;Active;2027-12-01
+ST3361;Base Liquida 36h 3 in 1 Base, Primer y Corrector Anthaway;NIO 12.94;456;NIO 11.00;VB;Active;2027-12-01
+ST3362;Base para maquillaje Super Stay;NIO 12.94;432;NIO 11.00;VB;Active;2027-12-01
+ST3366;Corrector Mate;NIO 12.94;912;NIO 11.00;VB;Active;2028-07-01
+ST3373;Corrector Anthaway 36 horas;NIO 11.76;2015;NIO 10.00;VB;Active;2028-03-01
+ST3804;Corrector Alta Cobertura;NIO 15.29;504;NIO 13.00;VB;Active;2028-05-01
+ST3816A;Mascara Anthaway transparente azul;NIO 9.41;2496;NIO 8.00;VB;Active;2028-04-01
+ST3817R;Mascara Anthaway transparente rosado;NIO 9.41;3600;NIO 8.00;VB;Active;2028-04-01
+ST3827;Brillo Para Labios Anthaway rosada;NIO 9.41;1692;NIO 8.00;VB;Active;2028-05-01
+ST3828;Brillo Para Labios Anthaway azul;NIO 9.41;1668;NIO 8.00;VB;Active;2028-05-01
+SZ-213;Brochas 6 Piezas;NIO 47.06;12;NIO 40.00;VB;Inactive;2029-01-26
+SZ-256;Brocha para maquillar 5 Pzas;NIO 29.41;307;NIO 25.00;VB;Active;2029-01-01
+SZ-997;Brochas para maquillar 7 Pcs;NIO 94.12;424;NIO 80.00;VB;Active;2029-01-01
+T51036;Lapiz labial Matte duradero Top Lady;NIO 14.12;3624;NIO 12.00;VB;Active;2028-06-01
+T51037;Lápiz Labial Top Lady;NIO 15.00;2352;NIO 12.00;VB;Active;2028-06-01
+TP343;Lapiz para cejas 3-1 Ushas;NIO 31.76;576;NIO 27.00;Ushas;Inactive;
+TP353;Lapiz con Cepillo para Cejas;NIO 18.82;336;NIO 16.00;Ushas;Inactive;
+V019;Body Spray amber romance 250ml;NIO 70.59;33;NIO 60.00;VB;Inactive;
+VS1712;Polvo Compacto y Bronceador Viktorisa Sempre;NIO 37.65;744;NIO 32.00;VB;Active;2026-01-01
+VS8861;Polvo Compacto Viktorisa Sempre;NIO 25.88;835;NIO 22.00;VB;Active;2028-12-01
+WA-007;Exfoliante Facial Wao 250ml;NIO 66.00;663;NIO 46.00;Stay;Active;2023-11-01
+WA-009;Locion Refrescante After Shave P/Hombre 8 Onzas;NIO 39.00;26;NIO 44.00;Stay;Active;2023-11-01
+WA-012;Rasuradora 3 Hojillas Wao azul!;NIO 44.94;144;NIO 40.00;Stay;Active;2029-01-01
+WA-033;Shampoo Y Acondicionador Wao 1380 Ml Romero;NIO 286.00;24;NIO 200.00;;Active;
+WA-034;Shampoo Y Acondicionador Wao 1380 Ml Aloe;NIO 286.00;64;NIO 200.00;Stay;Active;2025-10-01
+WA-035;Shampoo Y Acondicionador Wao 1380 Ml Coco;NIO 286.00;30;NIO 200.00;Stay;Active;2025-10-01
+WA-046;Mascara Wao! Delineador, Mascara y Lapiz de ceja;NIO 69.00;188;NIO 58.00;Stay;Active;2025-12-01
+WA-047;Sombra para ojos Wao!;NIO 40.45;216;NIO 36.00;Stay;Active;2026-05-01
+WA-048;Crema Para Peinar 250ml Romero Wao!;NIO 85.00;137;NIO 66.00;Stay;Active;2025-12-01
+WA-049;Crema Para Peinar 250ml Coco Wao;NIO 85.00;113;NIO 66.00;Stay;Active;2027-11-15
+WA-050;Crema Para Peinar 250ml Aloe Wao!;NIO 85.00;119;NIO 66.00;Stay;Active;2026-05-15
+WA-146;Mascara Wao 3 en 1;NIO 69.00;200;NIO 63.11;Stay;Inactive;2025-12-01
+WA-174;Polvo Compacto WAO!;NIO 37.00;264;NIO 32.00;Stay;Active;2025-12-01
+WA-218;Rubor WAO!;NIO 39.33;48;NIO 35.00;Stay;Active;2026-04-01
+WA-221;Mascara de Pestaña Azul WAO! 24H;NIO 29.00;120;NIO 35.00;Stay;Active;2024-03-22
+WA-223;Afeitadora 3 Hojillas morada;NIO 37.65;371;NIO 32.00;Stay;Active;2029-01-01
+WHD-A03;Serum Facial de Aloe Vera 30ml;NIO 30.59;62;NIO 26.00;VB;Active;2025-09-01
+WKL327;Protector Solar Wokali;NIO 62.00;120;NIO 48.31;BISUTERIA;Active;2029-04-12
+WKL328;Protector Solar Wokali 90 Spf;NIO 62.00;108;NIO 48.31;BISUTERIA;Active;2029-04-12
+WKL329;Protector Solar Wokali 90 spf;NIO 62.00;120;NIO 48.31;BISUTERIA;Active;2029-04-12
+Y-2599;Brillo Labial Huda Matte Me;NIO 18.00;30;NIO 14.05;BISUTERIA;Active;2027-01-01
+Y-801;Brillo Labial;NIO 14.12;165;NIO 12.00;VB;Active;2026-01-01
+Y3014;Primer Kaliya Beauty Vitamina C;NIO 12.94;456;NIO 11.00;VB;Active;2028-06-01
+Y3015;Primer Kaliya Beauty Unicor;NIO 12.94;3184;NIO 11.00;VB;Active;2028-06-01
+Y385;Labial Alejandra Show;NIO 14.12;72;NIO 12.00;Ushas;Inactive;2025-07-01
+Y978;Sombra y Delineador Romantiic;NIO 22.00;144;NIO 17.57;BISUTERIA;Active;2029-01-01
+YD612;Delineador Huda ABC WaterProof;NIO 14.12;48;NIO 12.00;VB;Inactive;2026-01-01
+YMX-1123;Crema Facial de Acido Hialurinico 50g;NIO 47.06;88;NIO 40.00;VB;Active;2027-03-01
+Z204;Primer Kaliya Beauty;NIO 12.94;24;NIO 11.00;VB;Inactive;2025-03-01
