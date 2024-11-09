@@ -38,7 +38,7 @@ function mostrarProductos(productos) {
                 `;
                 catalogo.appendChild(div);
             }
-        }, 5000); // Espera de 1 segundo antes de mostrar imagen de respaldo
+        }, 10000); // Espera de 1 segundo antes de mostrar imagen de respaldo
 
         // Establece la fuente de la imagen para iniciar la carga
         imagen.src = urlImagen;
