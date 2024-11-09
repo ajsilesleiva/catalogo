@@ -19,7 +19,7 @@ function mostrarProductos(productos) {
         // Si la imagen carga correctamente, agrégala al DOM
         imagen.onload = function() {
             div.innerHTML = `
-                <img src="${urlImagen}" alt="${producto.Nombre}">
+                <img src="${urlImagen}" alt="${producto.Nombre}" loading="lazy">
                 <h2>${producto.Nombre}</h2>
                 <p class="sku">SKU: ${producto.SKU}</p>
                 <p class="precio">C$ ${producto.Precio}</p>
