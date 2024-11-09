@@ -38,9 +38,30 @@ function mostrarProductos(productos) {
                 `;
                 catalogo.appendChild(div);
             }
-        }, 10000); // Espera de 1 segundo antes de mostrar imagen de respaldo
+        }, 3000); // Espera de 3 segundos antes de mostrar imagen de respaldo
 
         // Establece la fuente de la imagen para iniciar la carga
         imagen.src = urlImagen;
+
+        // Lazy loading con Intersection Observer
+        if ('IntersectionObserver' in window) {
+            const observer = new IntersectionObserver((entries) => {
+                entries.forEach(entry => {
+                    if (entry.isIntersecting) {
+                        // Una vez que el elemento es visible, inicia la carga de la imagen
+                        entry.target.src = urlImagen;
+                        observer.unobserve(entry.target); // Deja de observar después de cargar
+                    }
+                });
+            });
+
+            const lazyImage = document.createElement('img');
+            lazyImage.setAttribute('data-src', urlImagen);
+            lazyImage.setAttribute('alt', producto.Nombre);
+            lazyImage.setAttribute('loading', 'lazy');
+            div.appendChild(lazyImage);
+
+            observer.observe(lazyImage);
+        }
     });
 }
