@@ -68,7 +68,7 @@ function previsualizarPDF() {
     const anchoImagen = 50;
     const altoImagen = 50;
     const espacioHorizontal = 50;
-    const espacioVertical = 65;
+    const espacioVertical = 70;
     const itemsPorFila = 4;
     let itemActual = 0;
 
@@ -90,7 +90,7 @@ function previsualizarPDF() {
         itemActual++;
 
         if (itemActual % itemsPorFila === 0) {
-            x = 10;
+            x = 5;
             y += espacioVertical;
         }
 
