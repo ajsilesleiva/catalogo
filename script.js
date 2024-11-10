@@ -53,45 +53,40 @@ function mostrarProductos(productos) {
     });
 }
 
-function generarPDF() {
+function previsualizarPDF() {
     const { jsPDF } = window.jspdf;
     const pdf = new jsPDF();
-    let y = 20; // Margen superior inicial
+    let y = 20;
 
-    // Configuración del título
     pdf.setFontSize(18);
     pdf.text("Catálogo de Productos", 10, y);
     y += 20;
 
-    pdf.setFontSize(10); // Ajustar el tamaño de la fuente
+    pdf.setFontSize(10);
 
-    let x = 10; // Margen izquierdo inicial
+    let x = 10;
     const anchoImagen = 60;
     const altoImagen = 70;
     const espacioHorizontal = 90;
     const espacioVertical = 100;
-    const itemsPorFila = 2; // Reducido a 2 para dar más espacio
+    const itemsPorFila = 2;
     let itemActual = 0;
 
     for (const producto of productosValidos) {
         if (!producto.imagenBase64 || producto.imagenBase64 === 'https://via.placeholder.com/150') continue;
 
-        // Añadir bordes alrededor de cada producto
         pdf.setDrawColor(0);
         pdf.setLineWidth(0.5);
-        pdf.rect(x - 5, y - 5, anchoImagen + 10, altoImagen + 45); // Borde alrededor de cada producto
+        pdf.rect(x - 5, y - 5, anchoImagen + 10, altoImagen + 45);
 
-        // Añadir imagen en base64
         pdf.addImage(producto.imagenBase64, 'JPEG', x, y, anchoImagen, altoImagen);
 
-        // Añadir texto de producto, truncado y centrado
         pdf.text(truncarTexto(producto.Nombre, 25), x + anchoImagen / 2, y + altoImagen + 10, { align: 'center' });
         pdf.text(truncarTexto(`SKU: ${producto.SKU}`, 20), x + anchoImagen / 2, y + altoImagen + 20, { align: 'center' });
-        pdf.setTextColor(255, 0, 0); // Color rojo para el precio
+        pdf.setTextColor(255, 0, 0);
         pdf.text(`C$ ${producto.Precio}`, x + anchoImagen / 2, y + altoImagen + 30, { align: 'center' });
-        pdf.setTextColor(0, 0, 0); // Restaurar color a negro
+        pdf.setTextColor(0, 0, 0);
 
-        // Configurar posición para el siguiente producto
         x += espacioHorizontal;
         itemActual++;
 
@@ -102,13 +97,17 @@ function generarPDF() {
 
         if (y > 260) {
             pdf.addPage();
-            y = 20; // Restablecer margen superior
-            x = 10; // Restablecer margen izquierdo
+            y = 20;
+            x = 10;
         }
     }
 
-    // Descargar el PDF
-    pdf.save("catalogo_productos.pdf");
+    // Convertir el PDF en un Blob para mostrar en el iframe
+    const pdfBlob = pdf.output('blob');
+    const url = URL.createObjectURL(pdfBlob);
+
+    // Asignar el Blob al iframe para previsualización
+    document.getElementById('visorPDF').src = url;
 }
 
 
