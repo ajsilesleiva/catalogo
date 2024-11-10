@@ -7,7 +7,6 @@ document.addEventListener('DOMContentLoaded', function() {
             const productosValidos = productos.filter(producto => producto.SKU && producto.Nombre && producto.Precio);
             mostrarProductos(productosValidos);
         });
-    generarPDF();
 });
 
 function mostrarProductos(productos) {
