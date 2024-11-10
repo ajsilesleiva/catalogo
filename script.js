@@ -67,9 +67,9 @@ function previsualizarPDF() {
     let x = 10;
     const anchoImagen = 40;
     const altoImagen = 40;
-    const espacioHorizontal = 90;
-    const espacioVertical = 100;
-    const itemsPorFila = 2;
+    const espacioHorizontal = 20;
+    const espacioVertical = 20;
+    const itemsPorFila = 4;
     let itemActual = 0;
 
     for (const producto of productosValidos) {
