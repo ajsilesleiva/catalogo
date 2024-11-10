@@ -56,19 +56,19 @@ function mostrarProductos(productos) {
 function previsualizarPDF() {
     const { jsPDF } = window.jspdf;
     const pdf = new jsPDF();
-    let y = 20;
+    let y = 10;
 
     pdf.setFontSize(18);
     pdf.text("Catálogo de Productos", 10, y);
-    y += 20;
+    y += 5;
 
     pdf.setFontSize(10);
 
     let x = 10;
     const anchoImagen = 40;
     const altoImagen = 40;
-    const espacioHorizontal = 20;
-    const espacioVertical = 20;
+    const espacioHorizontal = 50;
+    const espacioVertical = 50;
     const itemsPorFila = 4;
     let itemActual = 0;
 
