@@ -3,7 +3,9 @@ document.addEventListener('DOMContentLoaded', function() {
         .then(response => response.text())
         .then(data => {
             const productos = Papa.parse(data, { header: true }).data;
-            mostrarProductos(productos);
+            // Filtrar productos vacíos
+            const productosValidos = productos.filter(producto => producto.SKU && producto.Nombre && producto.Precio);
+            mostrarProductos(productosValidos);
         });
 });
 
@@ -13,11 +15,10 @@ function mostrarProductos(productos) {
         const div = document.createElement('div');
         div.classList.add('producto');
 
-        // URLs para .jpg y .png
+        // Reemplaza el `#` por `%23` en el SKU para la URL de la imagen
         const skuEncoded = producto.SKU.replace('#', '%23');
         const urlImagenJpg = `https://ibrizantstorage.s3.sa-east-1.amazonaws.com/Catalogo2024/${skuEncoded}.jpg`;
         const urlImagenPng = `https://ibrizantstorage.s3.sa-east-1.amazonaws.com/Catalogo2024/${skuEncoded}.png`;
-
 
         const imagen = new Image();
 
