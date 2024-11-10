@@ -7,6 +7,7 @@ document.addEventListener('DOMContentLoaded', function() {
             const productosValidos = productos.filter(producto => producto.SKU && producto.Nombre && producto.Precio);
             mostrarProductos(productosValidos);
         });
+    generarPDF();
 });
 
 function mostrarProductos(productos) {
@@ -71,4 +72,46 @@ function mostrarProductos(productos) {
             observer.observe(lazyImage);
         }
     });
+}
+// Función para generar el PDF del catálogo
+function generarPDF() {
+    const { jsPDF } = window.jspdf;
+    const pdf = new jsPDF();
+
+    // Configurar el título del PDF
+    pdf.setFontSize(16);
+    pdf.text("Catálogo de Productos", 10, 10);
+
+    // Configuración de posición y estilo de fuente
+    let y = 20;
+    pdf.setFontSize(12);
+
+    // Recorrer los productos para añadirlos al PDF
+    fetch('productos.csv')
+        .then(response => response.text())
+        .then(data => {
+            const productos = Papa.parse(data, { header: true }).data;
+
+            // Filtrar productos válidos y evitar productos vacíos
+            const productosValidos = productos.filter(producto => producto.SKU && producto.Nombre && producto.Precio);
+
+            productosValidos.forEach((producto, index) => {
+                // Añadir los detalles de cada producto
+                pdf.text(`Producto: ${producto.Nombre}`, 10, y);
+                pdf.text(`SKU: ${producto.SKU}`, 10, y + 10);
+                pdf.text(`Precio: C$ ${producto.Precio}`, 10, y + 20);
+
+                // Espaciado entre productos
+                y += 30;
+                
+                // Crear una nueva página si es necesario
+                if (y > 270) {
+                    pdf.addPage();
+                    y = 10; // Restablecer posición y para la nueva página
+                }
+            });
+
+            // Descargar el PDF
+            pdf.save("catalogo_productos.pdf");
+        });
 }
