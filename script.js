@@ -61,29 +61,34 @@ function generarPDF() {
     // Configuración del título
     pdf.setFontSize(18);
     pdf.text("Catálogo de Productos", 10, y);
-    y += 10;
+    y += 20;
 
-    pdf.setFontSize(12);
+    pdf.setFontSize(10);
 
     let x = 10; // Margen izquierdo inicial
-    const anchoImagen = 40;
-    const altoImagen = 50;
+    const anchoImagen = 50;
+    const altoImagen = 60;
     const espacioHorizontal = 70;
-    const espacioVertical = 60;
+    const espacioVertical = 80;
     let itemsPorFila = 3;
     let itemActual = 0;
 
     for (const producto of productosValidos) {
         if (!producto.imagenBase64 || producto.imagenBase64 === 'https://via.placeholder.com/150') continue;
 
+        // Añadir bordes alrededor de cada producto
+        pdf.setDrawColor(0);
+        pdf.setLineWidth(0.5);
+        pdf.rect(x - 5, y - 5, anchoImagen + 10, altoImagen + 35); // Borde alrededor de cada producto
+        
         // Añadir imagen en base64
         pdf.addImage(producto.imagenBase64, 'JPEG', x, y, anchoImagen, altoImagen);
 
-        // Añadir texto de producto
-        pdf.text(`${producto.Nombre}`, x, y + altoImagen + 5);
-        pdf.text(`SKU: ${producto.SKU}`, x, y + altoImagen + 15);
+        // Añadir texto de producto, centrado y con espaciado entre líneas
+        pdf.text(`${producto.Nombre}`, x + anchoImagen / 2, y + altoImagen + 10, { align: 'center' });
+        pdf.text(`SKU: ${producto.SKU}`, x + anchoImagen / 2, y + altoImagen + 20, { align: 'center' });
         pdf.setTextColor(255, 0, 0); // Color rojo para el precio
-        pdf.text(`C$ ${producto.Precio}`, x, y + altoImagen + 25);
+        pdf.text(`C$ ${producto.Precio}`, x + anchoImagen / 2, y + altoImagen + 30, { align: 'center' });
         pdf.setTextColor(0, 0, 0); // Restaurar color a negro
 
         // Configurar posición para el siguiente producto
