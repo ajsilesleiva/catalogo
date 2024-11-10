@@ -48,26 +48,80 @@ function mostrarProductos(productos) {
 async function generarPDF() {
     const { jsPDF } = window.jspdf;
     const pdf = new jsPDF();
+    let y = 20;
 
-    // Capturar el contenedor de productos con html2canvas
-    const catalogo = document.getElementById('catalogo');
-    
-    await html2canvas(catalogo, {
-        allowTaint: true,  // Permitir tainting
-        useCORS: true,     // Usar CORS para permitir acceso a imágenes externas
-        scale: 2           // Aumenta el scale para mejorar la calidad
-    }).then(canvas => {
-        const imgData = canvas.toDataURL('image/jpeg', 1.0);
+    pdf.setFontSize(18);
+    pdf.text("Catálogo de Productos", 10, y);
+    y += 15;
 
-        // Agregar la imagen al PDF
-        const pdfWidth = pdf.internal.pageSize.getWidth();
-        const pdfHeight = (canvas.height * pdfWidth) / canvas.width;
-        pdf.addImage(imgData, 'JPEG', 0, 0, pdfWidth, pdfHeight);
+    pdf.setFontSize(12);
 
-        // Descargar el PDF
-        pdf.save("catalogo_productos.pdf");
-    }).catch(error => {
-        console.error("Error al capturar el catálogo:", error);
+    const productos = document.querySelectorAll('.producto');
+    let x = 10;
+    const anchoImagen = 40;
+    const altoImagen = 50;
+    const espacioHorizontal = 70;
+    const espacioVertical = 80;
+    let itemsPorFila = 3;
+    let itemActual = 0;
+
+    for (let i = 0; i < productos.length; i++) {
+        const producto = productos[i];
+        const imgElement = producto.querySelector('.producto-img');
+        const nombre = producto.querySelector('h2').textContent;
+        const sku = producto.querySelector('.sku').textContent;
+        const precio = producto.querySelector('.precio').textContent;
+
+        // Intentar cargar la imagen de S3; usar imagen de respaldo si falla
+        const skuEncoded = sku.replace('#', '%23');
+        const urlImagen = `https://ibrizantstorage.s3.sa-east-1.amazonaws.com/Catalogo2024/${skuEncoded}.jpg`;
+        let imgData;
+        try {
+            imgData = await convertirImagenADatosBase64(urlImagen);
+        } catch {
+            console.error("Error al cargar la imagen de S3, usando imagen de respaldo");
+            imgData = "https://via.placeholder.com/150"; // Placeholder si falla
+        }
+
+        pdf.addImage(imgData, 'JPEG', x, y, anchoImagen, altoImagen);
+        pdf.text(nombre, x, y + altoImagen + 5, { maxWidth: 50 });
+        pdf.text(sku, x, y + altoImagen + 15, { maxWidth: 50 });
+        pdf.setTextColor(255, 0, 0);
+        pdf.text(precio, x, y + altoImagen + 25, { maxWidth: 50 });
+        pdf.setTextColor(0, 0, 0);
+
+        x += espacioHorizontal + anchoImagen;
+        itemActual++;
+
+        if (itemActual % itemsPorFila === 0) {
+            x = 10;
+            y += espacioVertical;
+        }
+
+        if (y > 260) {
+            pdf.addPage();
+            y = 20;
+            x = 10;
+        }
+    }
+
+    pdf.save("catalogo_productos.pdf");
+}
+
+async function convertirImagenADatosBase64(url) {
+    return new Promise((resolve, reject) => {
+        const img = new Image();
+        img.crossOrigin = "anonymous";
+        img.src = url;
+        img.onload = () => {
+            const canvas = document.createElement("canvas");
+            canvas.width = img.width;
+            canvas.height = img.height;
+            const ctx = canvas.getContext("2d");
+            ctx.drawImage(img, 0, 0);
+            resolve(canvas.toDataURL("image/jpeg"));
+        };
+        img.onerror = () => reject("Error al cargar la imagen");
     });
 }
 // async function generarPDF() {
