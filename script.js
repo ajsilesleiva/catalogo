@@ -81,10 +81,10 @@ function previsualizarPDF() {
 
         pdf.addImage(producto.imagenBase64, 'JPEG', x, y, anchoImagen, altoImagen);
 
-        pdf.text(truncarTexto(producto.Nombre, 25), x + anchoImagen / 2, y + altoImagen + 10, { align: 'left' });
-        pdf.text(truncarTexto(`SKU: ${producto.SKU}`, 20), x + anchoImagen / 2, y + altoImagen + 15, { align: 'left' });
+        pdf.text(truncarTexto(producto.Nombre, 25), x , y + altoImagen + 10, { align: 'left' });
+        pdf.text(truncarTexto(`SKU: ${producto.SKU}`, 20), x , y + altoImagen + 15, { align: 'left' });
         pdf.setTextColor(255, 0, 0);
-        pdf.text(`C$ ${producto.Precio}`, x + anchoImagen / 2, y + altoImagen + 30, { align: 'left' });
+        pdf.text(`C$ ${producto.Precio}`, x, y + altoImagen + 20, { align: 'left' });
         pdf.setTextColor(0, 0, 0);
 
         x += espacioHorizontal;
