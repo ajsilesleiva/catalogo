@@ -90,6 +90,7 @@ function previsualizarPDF() {
         pdf.setTextColor(255, 0, 0);
         pdf.setFont(undefined, 'bold'); // Negrita para el precio
         pdf.text(`C$ ${producto.Precio}`, x, y + altoImagen + 15, { align: 'left' });
+        pdf.setFont(undefined, 'normal'); // Negrita para el precio
         pdf.setTextColor(0, 0, 0);
 
         x += espacioHorizontal;
