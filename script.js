@@ -50,10 +50,25 @@ function mostrarProductos(productos) {
     });
 }
 
+// Función para esperar que todas las imágenes estén cargadas antes de generar el PDF
+function cargarTodasLasImagenes() {
+    const imagenes = document.querySelectorAll('.producto-img');
+    const promesas = Array.from(imagenes).map(img => {
+        return new Promise((resolve) => {
+            if (img.complete) {
+                resolve();
+            } else {
+                img.onload = resolve;
+                img.onerror = resolve; // En caso de error también resolvemos para no bloquear
+            }
+        });
+    });
+    return Promise.all(promesas);
+}
+
 function generarPDF() {
     const catalogo = document.getElementById('catalogo'); // Contenedor del catálogo de productos
 
-    console.log(catalogo)
     // Configuración de opciones de html2pdf
     const options = {
         margin: 1, // Margen en pulgadas
@@ -63,15 +78,9 @@ function generarPDF() {
         jsPDF: { unit: 'in', format: 'a4', orientation: 'portrait' }
     };
 
-    // Reemplazar imágenes en el DOM con las URLs en imagenesCargadas antes de generar el PDF
-    // const productosDivs = catalogo.getElementsByClassName('producto');
-    // Array.from(productosDivs).forEach((div, index) => {
-    //     const img = div.querySelector('img');
-    //     if (img) {
-    //         img.src = imagenesCargadas[index] || 'https://via.placeholder.com/150';
-    //     }
-    // });
-
-    // Generar el PDF
-    html2pdf().set(options).from(catalogo).save();
+    // Esperar a que todas las imágenes estén completamente cargadas antes de generar el PDF
+    cargarTodasLasImagenes().then(() => {
+        // Generar el PDF después de cargar las imágenes
+        html2pdf().set(options).from(catalogo).save();
+    });
 }
