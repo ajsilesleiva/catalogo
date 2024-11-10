@@ -50,10 +50,10 @@ function generarPDF() {
 
     // Configuración de opciones de html2pdf
     const options = {
-        margin: 0.5, // Margen en pulgadas
+        margin: 1, // Margen en pulgadas
         filename: 'catalogo_productos.pdf',
         image: { type: 'jpeg', quality: 0.98 },
-        html2canvas: { scale: 2, useCORS: true },
+        html2canvas: { scale: 2},
         jsPDF: { unit: 'in', format: 'a4', orientation: 'portrait' }
     };
 
