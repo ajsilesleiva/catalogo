@@ -1,10 +1,9 @@
-const imagenesCargadas = []; // Array para almacenar las URLs de imágenes cargadas
-
 document.addEventListener('DOMContentLoaded', function() {
     fetch('productos.csv')
         .then(response => response.text())
         .then(data => {
             const productos = Papa.parse(data, { header: true }).data;
+            // Filtrar productos vacíos
             const productosValidos = productos.filter(producto => producto.SKU && producto.Nombre && producto.Precio);
             mostrarProductos(productosValidos);
         });
@@ -12,78 +11,107 @@ document.addEventListener('DOMContentLoaded', function() {
 
 function mostrarProductos(productos) {
     const catalogo = document.getElementById('catalogo');
-    productos.forEach((producto, index) => {
+    productos.forEach(producto => {
         const div = document.createElement('div');
         div.classList.add('producto');
 
+        // Reemplaza el `#` por `%23` en el SKU para la URL de la imagen
         const skuEncoded = producto.SKU.replace('#', '%23');
         const urlImagenJpg = `https://ibrizantstorage.s3.sa-east-1.amazonaws.com/Catalogo2024/${skuEncoded}.jpg`;
         const urlImagenPng = `https://ibrizantstorage.s3.sa-east-1.amazonaws.com/Catalogo2024/${skuEncoded}.png`;
 
         const imagen = new Image();
 
+        // Función para cargar la imagen en el DOM si está disponible
         const mostrarImagen = (url) => {
             div.innerHTML = `
-                <img src="${url}" alt="${producto.Nombre}" loading="lazy" class="producto-img">
+                <img src="${url}" alt="${producto.Nombre}" loading="lazy">
                 <h2>${producto.Nombre}</h2>
                 <p class="sku">SKU: ${producto.SKU}</p>
                 <p class="precio">C$ ${producto.Precio}</p>
             `;
             catalogo.appendChild(div);
-
-            // Guardar la URL de la imagen en el array
-            imagenesCargadas[index] = url;
         };
 
+        // Primero intenta cargar la imagen en formato .jpg, luego .png
         imagen.onload = function() {
-            mostrarImagen(imagen.src);
+            mostrarImagen(imagen.src); // Si carga correctamente, muestra la imagen
         };
 
         imagen.onerror = function() {
+            // Si falla cargar la imagen .jpg, intenta cargar la imagen .png
             imagen.src = urlImagenPng;
             imagen.onerror = function() {
+                // Si también falla cargar la imagen .png, muestra la imagen de respaldo
                 mostrarImagen('https://via.placeholder.com/150');
             };
         };
 
+        // Establece la fuente inicial de la imagen para intentar cargar .jpg
         imagen.src = urlImagenJpg;
+
+        // Lazy loading con Intersection Observer
+        if ('IntersectionObserver' in window) {
+            const observer = new IntersectionObserver((entries) => {
+                entries.forEach(entry => {
+                    if (entry.isIntersecting) {
+                        // Carga la imagen al entrar en la vista
+                        entry.target.src = imagen.src;
+                        observer.unobserve(entry.target); // Deja de observar después de cargar
+                    }
+                });
+            });
+
+            const lazyImage = document.createElement('img');
+            lazyImage.setAttribute('data-src', imagen.src);
+            lazyImage.setAttribute('alt', producto.Nombre);
+            lazyImage.setAttribute('loading', 'lazy');
+            div.appendChild(lazyImage);
+
+            observer.observe(lazyImage);
+        }
     });
 }
 
-// Función para esperar que todas las imágenes estén cargadas antes de generar el PDF
-function cargarTodasLasImagenes() {
-    const imagenes = document.querySelectorAll('.producto-img');
-    const promesas = Array.from(imagenes).map(img => {
-        return new Promise((resolve) => {
-            if (img.complete) {
-                resolve();
-            } else {
-                img.onload = resolve;
-                img.onerror = resolve; // En caso de error también resolvemos para no bloquear
-            }
-        });
-    });
-    return Promise.all(promesas);
-}
-
+// Función para generar el PDF del catálogo
 function generarPDF() {
-    const catalogo = document.getElementById('catalogo'); // Contenedor del catálogo de productos
+    const { jsPDF } = window.jspdf;
+    const pdf = new jsPDF();
 
-    // Configuración de opciones de html2pdf
-    const options = {
-        margin: 1, // Margen en pulgadas
-        filename: 'catalogo_productos.pdf',
-        image: { type: 'jpeg', quality: 0.98 },
-        html2canvas: { scale: 2 },
-        jsPDF: { unit: 'in', format: 'a4', orientation: 'portrait' }
-    };
+    // Configurar el título del PDF
+    pdf.setFontSize(16);
+    pdf.text("Catálogo de Productos", 10, 10);
 
-   // Esperar a que todas las imágenes estén completamente cargadas antes de generar el PDF
-    cargarTodasLasImagenes().then(() => {
-        // Añadir un pequeño retraso para asegurar que el DOM esté completamente renderizado
-        setTimeout(() => {
-            // Generar el PDF después de cargar las imágenes y asegurar el renderizado
-            html2pdf().set(options).from(catalogo).save();
-        }, 500); // Espera de 500 ms, puedes ajustar este valor si es necesario
-    });
+    // Configuración de posición y estilo de fuente
+    let y = 20;
+    pdf.setFontSize(12);
+
+    // Recorrer los productos para añadirlos al PDF
+    fetch('productos.csv')
+        .then(response => response.text())
+        .then(data => {
+            const productos = Papa.parse(data, { header: true }).data;
+
+            // Filtrar productos válidos y evitar productos vacíos
+            const productosValidos = productos.filter(producto => producto.SKU && producto.Nombre && producto.Precio);
+
+            productosValidos.forEach((producto, index) => {
+                // Añadir los detalles de cada producto
+                pdf.text(`Producto: ${producto.Nombre}`, 10, y);
+                pdf.text(`SKU: ${producto.SKU}`, 10, y + 10);
+                pdf.text(`Precio: C$ ${producto.Precio}`, 10, y + 20);
+
+                // Espaciado entre productos
+                y += 30;
+                
+                // Crear una nueva página si es necesario
+                if (y > 270) {
+                    pdf.addPage();
+                    y = 10; // Restablecer posición y para la nueva página
+                }
+            });
+
+            // Descargar el PDF
+            pdf.save("catalogo_productos.pdf");
+        });
 }
