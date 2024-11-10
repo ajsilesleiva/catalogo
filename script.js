@@ -69,6 +69,7 @@ async function generarPDF() {
     for (let i = 0; i < productos.length; i++) {
         const producto = productos[i];
         const imgElement = producto.querySelector('.producto-img');
+        console.log(imgElement)
         const nombre = producto.querySelector('h2').textContent;
         const sku = producto.querySelector('.sku').textContent;
         const precio = producto.querySelector('.precio').textContent;
