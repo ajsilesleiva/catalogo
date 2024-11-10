@@ -78,9 +78,12 @@ function generarPDF() {
         jsPDF: { unit: 'in', format: 'a4', orientation: 'portrait' }
     };
 
-    // Esperar a que todas las imágenes estén completamente cargadas antes de generar el PDF
+   // Esperar a que todas las imágenes estén completamente cargadas antes de generar el PDF
     cargarTodasLasImagenes().then(() => {
-        // Generar el PDF después de cargar las imágenes
-        html2pdf().set(options).from(catalogo).save();
+        // Añadir un pequeño retraso para asegurar que el DOM esté completamente renderizado
+        setTimeout(() => {
+            // Generar el PDF después de cargar las imágenes y asegurar el renderizado
+            html2pdf().set(options).from(catalogo).save();
+        }, 500); // Espera de 500 ms, puedes ajustar este valor si es necesario
     });
 }
