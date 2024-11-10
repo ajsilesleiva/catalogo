@@ -53,17 +53,16 @@ async function generarPDF() {
     // Título del PDF
     pdf.setFontSize(18);
     pdf.text("Catálogo de Productos", 10, y);
-    y += 15;  // Ajustar el espaciado debajo del título
+    y += 15;
 
     pdf.setFontSize(12);
 
-    // Obtener productos de la página
     const productos = document.querySelectorAll('.producto');
-    let x = 10; // Posición inicial en X
+    let x = 10;
     const anchoImagen = 40;
     const altoImagen = 50;
-    const espacioHorizontal = 60; // Mayor espacio entre columnas
-    const espacioVertical = 80;   // Mayor espacio entre filas
+    const espacioHorizontal = 70;
+    const espacioVertical = 80;
     let itemsPorFila = 3;
     let itemActual = 0;
 
@@ -75,47 +74,52 @@ async function generarPDF() {
         const precio = producto.querySelector('.precio').textContent;
 
         try {
+            // Convertir imagen del DOM a base64, usar placeholder si falla
             const imgData = await convertirImagenADatosBase64(imgElement);
             pdf.addImage(imgData, 'JPEG', x, y, anchoImagen, altoImagen);
         } catch (error) {
             console.error("Error al procesar la imagen", error);
+            pdf.text("Imagen no disponible", x, y + altoImagen / 2);
         }
 
-        // Añadir nombre, SKU y precio con alineación
+        // Añadir el texto del producto
         pdf.text(nombre, x, y + altoImagen + 5, { maxWidth: 50 });
         pdf.text(sku, x, y + altoImagen + 15, { maxWidth: 50 });
-        pdf.setTextColor(255, 0, 0); // Rojo para el precio
+        pdf.setTextColor(255, 0, 0);
         pdf.text(precio, x, y + altoImagen + 25, { maxWidth: 50 });
-        pdf.setTextColor(0, 0, 0); // Restaurar a negro
+        pdf.setTextColor(0, 0, 0);
 
-        // Ajustar la posición para el siguiente producto
         x += espacioHorizontal + anchoImagen;
         itemActual++;
 
-        // Saltar a la siguiente fila si alcanzamos el límite de items por fila
         if (itemActual % itemsPorFila === 0) {
-            x = 10; // Reiniciar X al margen izquierdo
-            y += espacioVertical; // Avanzar en Y para la nueva fila
+            x = 10;
+            y += espacioVertical;
         }
 
-        // Añadir una nueva página si llegamos al final de la página
         if (y > 260) {
             pdf.addPage();
-            y = 20; // Reiniciar la posición en Y
-            x = 10; // Reiniciar la posición en X
+            y = 20;
+            x = 10;
         }
     }
 
-    // Descargar el PDF
     pdf.save("catalogo_productos.pdf");
 }
 
-// Función auxiliar para convertir la imagen en base64
+// Función auxiliar para convertir la imagen del DOM a base64
 async function convertirImagenADatosBase64(imgElement) {
     const canvas = document.createElement("canvas");
-    canvas.width = imgElement.width * 0.5; // Reducir la resolución a la mitad
+    canvas.width = imgElement.width * 0.5; // Reducir resolución
     canvas.height = imgElement.height * 0.5;
     const ctx = canvas.getContext("2d");
-    ctx.drawImage(imgElement, 0, 0, canvas.width, canvas.height);
-    return canvas.toDataURL("image/jpeg");
+
+    // Dibujar imagen y capturar como base64
+    try {
+        ctx.drawImage(imgElement, 0, 0, canvas.width, canvas.height);
+        return canvas.toDataURL("image/jpeg");
+    } catch (error) {
+        console.error("Error en la conversión de la imagen a base64:", error);
+        return "https://via.placeholder.com/150"; // Placeholder si falla la conversión
+    }
 }
