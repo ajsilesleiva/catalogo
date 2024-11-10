@@ -48,6 +48,8 @@ function mostrarProductos(productos) {
 function generarPDF() {
     const catalogo = document.getElementById('catalogo'); // Contenedor del catálogo de productos
 
+
+    console.log(catalogo)
     // Configuración de opciones de html2pdf
     const options = {
         margin: 1, // Margen en pulgadas
