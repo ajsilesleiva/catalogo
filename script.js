@@ -65,7 +65,7 @@ function previsualizarPDF() {
     pdf.setFontSize(10);
 
     let x = 5;
-    const anchoImagen = 50;
+    const anchoImagen = 40;
     const altoImagen = 50;
     const espacioHorizontal = 50;
     const espacioVertical = 70;
