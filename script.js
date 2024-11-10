@@ -72,45 +72,89 @@ function mostrarProductos(productos) {
         }
     });
 }
-// Función para generar el PDF del catálogo
-function generarPDF() {
+async function generarPDF() {
     const { jsPDF } = window.jspdf;
     const pdf = new jsPDF();
+    let y = 20; // Margen superior inicial
 
-    // Configurar el título del PDF
-    pdf.setFontSize(16);
-    pdf.text("Catálogo de Productos", 10, 10);
+    // Configuración del título
+    pdf.setFontSize(18);
+    pdf.text("Catálogo de Productos", 10, y);
+    y += 10;
 
-    // Configuración de posición y estilo de fuente
-    let y = 20;
     pdf.setFontSize(12);
 
     // Recorrer los productos para añadirlos al PDF
-    fetch('productos.csv')
-        .then(response => response.text())
-        .then(data => {
-            const productos = Papa.parse(data, { header: true }).data;
+    const response = await fetch('productos.csv');
+    const data = await response.text();
+    const productos = Papa.parse(data, { header: true }).data;
+    const productosValidos = productos.filter(producto => producto.SKU && producto.Nombre && producto.Precio);
 
-            // Filtrar productos válidos y evitar productos vacíos
-            const productosValidos = productos.filter(producto => producto.SKU && producto.Nombre && producto.Precio);
+    // Configuración de la cuadrícula
+    let x = 10; // Margen izquierdo inicial
+    const anchoImagen = 40;
+    const altoImagen = 50;
+    const espacioHorizontal = 70;
+    const espacioVertical = 60;
+    let itemsPorFila = 3;
+    let itemActual = 0;
 
-            productosValidos.forEach((producto, index) => {
-                // Añadir los detalles de cada producto
-                pdf.text(`Producto: ${producto.Nombre}`, 10, y);
-                pdf.text(`SKU: ${producto.SKU}`, 10, y + 10);
-                pdf.text(`Precio: C$ ${producto.Precio}`, 10, y + 20);
+    for (const producto of productosValidos) {
+        // Añadir imagen desde la URL
+        const skuEncoded = producto.SKU.replace('#', '%23');
+        const urlImagenJpg = `https://ibrizantstorage.s3.sa-east-1.amazonaws.com/Catalogo2024/${skuEncoded}.jpg`;
 
-                // Espaciado entre productos
-                y += 30;
-                
-                // Crear una nueva página si es necesario
-                if (y > 270) {
-                    pdf.addPage();
-                    y = 10; // Restablecer posición y para la nueva página
-                }
-            });
+        try {
+            const imgData = await obtenerImagenComoBase64(urlImagenJpg);
+            pdf.addImage(imgData, 'JPEG', x, y, anchoImagen, altoImagen);
+        } catch (error) {
+            console.error("Error al cargar imagen", error);
+        }
 
-            // Descargar el PDF
-            pdf.save("catalogo_productos.pdf");
-        });
+        // Añadir texto de producto
+        pdf.text(`${producto.Nombre}`, x, y + altoImagen + 5);
+        pdf.text(`SKU: ${producto.SKU}`, x, y + altoImagen + 15);
+        pdf.setTextColor(255, 0, 0); // Color rojo para el precio
+        pdf.text(`C$ ${producto.Precio}`, x, y + altoImagen + 25);
+        pdf.setTextColor(0, 0, 0); // Restaurar color a negro
+
+        // Configurar posición para el siguiente producto
+        x += espacioHorizontal;
+        itemActual++;
+
+        // Saltar a la siguiente fila si alcanzamos el límite de items por fila
+        if (itemActual % itemsPorFila === 0) {
+            x = 10;
+            y += espacioVertical;
+        }
+
+        // Añadir una nueva página si se alcanza el final de la página actual
+        if (y > 260) {
+            pdf.addPage();
+            y = 20; // Restablecer margen superior
+            x = 10; // Restablecer margen izquierdo
+        }
+    }
+
+    // Descargar el PDF
+    pdf.save("catalogo_productos.pdf");
+}
+
+// Función auxiliar para obtener la imagen como base64 usando html2canvas
+async function obtenerImagenComoBase64(url) {
+    const img = new Image();
+    img.crossOrigin = "anonymous";
+    img.src = url;
+
+    return new Promise((resolve, reject) => {
+        img.onload = async () => {
+            const canvas = document.createElement("canvas");
+            canvas.width = img.width;
+            canvas.height = img.height;
+            const ctx = canvas.getContext("2d");
+            ctx.drawImage(img, 0, 0);
+            resolve(canvas.toDataURL("image/jpeg"));
+        };
+        img.onerror = error => reject(error);
+    });
 }
