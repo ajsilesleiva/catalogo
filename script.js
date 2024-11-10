@@ -121,6 +121,6 @@ async function convertirImagenADatosBase64(imgElement) {
         return canvas.toDataURL("image/jpeg");
     } catch (error) {
         console.error("Error en la conversión de la imagen a base64:", error);
-        return "https://via.placeholder.com/150"; // Placeholder si falla la conversión
+        // return "https://via.placeholder.com/150"; // Placeholder si falla la conversión
     }
 }
