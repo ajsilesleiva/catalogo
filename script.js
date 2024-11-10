@@ -1,3 +1,5 @@
+let productosValidos = []; // Variable global para almacenar productos con imágenes en base64
+
 document.addEventListener('DOMContentLoaded', function() {
     fetch('productos.csv')
         .then(response => response.text())
