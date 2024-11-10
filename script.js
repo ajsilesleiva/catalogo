@@ -65,10 +65,10 @@ function previsualizarPDF() {
     pdf.setFontSize(10);
 
     let x = 10;
-    const anchoImagen = 40;
-    const altoImagen = 40;
+    const anchoImagen = 50;
+    const altoImagen = 50;
     const espacioHorizontal = 50;
-    const espacioVertical = 50;
+    const espacioVertical = 65;
     const itemsPorFila = 4;
     let itemActual = 0;
 
@@ -96,7 +96,7 @@ function previsualizarPDF() {
 
         if (y > 260) {
             pdf.addPage();
-            y = 20;
+            y = 10;
             x = 10;
         }
     }
