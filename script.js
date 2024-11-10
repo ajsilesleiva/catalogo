@@ -80,7 +80,7 @@ async function generarPDF() {
             imgData = await convertirImagenADatosBase64(urlImagen);
         } catch {
             console.error("Error al cargar la imagen de S3, usando imagen de respaldo");
-            imgData = "https://via.placeholder.com/150"; // Placeholder si falla
+            // imgData = "https://via.placeholder.com/150"; // Placeholder si falla
         }
 
         pdf.addImage(imgData, 'JPEG', x, y, anchoImagen, altoImagen);
