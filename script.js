@@ -59,7 +59,7 @@ function previsualizarPDF() {
     let y = 10;
 
     pdf.setFontSize(18);
-    pdf.text("Catálogo de Productos", 10, y);
+    pdf.text("Catálogo AjSiles", 10, y, { align: 'center' });
     y += 5;
 
     pdf.setFontSize(10);
@@ -79,10 +79,16 @@ function previsualizarPDF() {
         // pdf.setLineWidth(0.5);
         // pdf.rect(x - 5, y - 5, anchoImagen + 10, altoImagen + 45);
 
+         // Truncar el nombre y el SKU de acuerdo al ancho de la imagen
+        const nombreTruncado = truncarTextoPorAncho(pdf, producto.Nombre, anchoImagen);
+        const skuTruncado = truncarTextoPorAncho(pdf, `SKU: ${producto.SKU}`, anchoImagen);
+        
         pdf.addImage(producto.imagenBase64, 'JPEG', x, y, anchoImagen, altoImagen);
-        pdf.text(truncarTexto(producto.Nombre, 20), x , y + altoImagen + 5, { align: 'left' });
-        pdf.text(truncarTexto(`SKU: ${producto.SKU}`, 20), x , y + altoImagen + 10, { align: 'left' });
+        pdf.text(nombreTruncado, x , y + altoImagen + 5, { align: 'left' });
+        pdf.text(skuTruncado, x , y + altoImagen + 10, { align: 'left' });
+        
         pdf.setTextColor(255, 0, 0);
+        pdf.setFont(undefined, 'bold'); // Negrita para el precio
         pdf.text(`C$ ${producto.Precio}`, x, y + altoImagen + 15, { align: 'left' });
         pdf.setTextColor(0, 0, 0);
 
@@ -127,7 +133,11 @@ async function obtenerImagenComoBase64(url) {
         img.onerror = error => reject(error);
     });
 }
-// Función para truncar texto si es demasiado largo
-function truncarTexto(texto, maxLength) {
-    return texto.length > maxLength ? texto.substring(0, maxLength) + "..." : texto;
+// Función para truncar texto según el ancho disponible
+function truncarTextoPorAncho(pdf, texto, anchoMaximo) {
+    while (pdf.getTextWidth(texto) > anchoMaximo) {
+        // Acorta el texto gradualmente hasta que quepa en el ancho disponible
+        texto = texto.slice(0, -1); // Elimina el último carácter
+    }
+    return texto.length < texto.length ? texto + "..." : texto; // Añade "..." si fue truncado
 }
