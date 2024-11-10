@@ -59,7 +59,7 @@ function previsualizarPDF() {
     let y = 10;
 
     pdf.setFontSize(18);
-    pdf.text("Catálogo AjSiles", 10, y, { align: 'center' });
+    pdf.text("Catálogo AjSiles", 50, y, { align: 'center' });
     y += 5;
 
     pdf.setFontSize(10);
@@ -75,10 +75,6 @@ function previsualizarPDF() {
     for (const producto of productosValidos) {
         if (!producto.imagenBase64 || producto.imagenBase64 === 'https://via.placeholder.com/150') continue;
 
-        // pdf.setDrawColor(0);
-        // pdf.setLineWidth(0.5);
-        // pdf.rect(x - 5, y - 5, anchoImagen + 10, altoImagen + 45);
-
          // Truncar el nombre y el SKU de acuerdo al ancho de la imagen
         const nombreTruncado = truncarTextoPorAncho(pdf, producto.Nombre, anchoImagen);
         const skuTruncado = truncarTextoPorAncho(pdf, `SKU: ${producto.SKU}`, anchoImagen);
@@ -93,7 +89,7 @@ function previsualizarPDF() {
         pdf.setFont(undefined, 'normal'); // Negrita para el precio
         pdf.setTextColor(0, 0, 0);
 
-        x += espacioHorizontal - 5;
+        x += espacioHorizontal - 4;
         itemActual++;
 
         if (itemActual % itemsPorFila === 0) {
