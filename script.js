@@ -45,161 +45,18 @@ function mostrarProductos(productos) {
     });
 }
 
-async function generarPDF() {
-    const { jsPDF } = window.jspdf;
-    const pdf = new jsPDF();
-    let y = 20;
+function generarPDF() {
+    const catalogo = document.getElementById('catalogo'); // Contenedor del catálogo de productos
 
-    pdf.setFontSize(18);
-    pdf.text("Catálogo de Productos", 10, y);
-    y += 15;
+    // Configuración de opciones de html2pdf
+    const options = {
+        margin: 0.5, // Margen en pulgadas
+        filename: 'catalogo_productos.pdf',
+        image: { type: 'jpeg', quality: 0.98 },
+        html2canvas: { scale: 2, useCORS: true },
+        jsPDF: { unit: 'in', format: 'a4', orientation: 'portrait' }
+    };
 
-    pdf.setFontSize(12);
-
-    const productos = document.querySelectorAll('.producto');
-    let x = 10;
-    const anchoImagen = 40;
-    const altoImagen = 50;
-    const espacioHorizontal = 70;
-    const espacioVertical = 80;
-    let itemsPorFila = 3;
-    let itemActual = 0;
-
-    for (let i = 0; i < productos.length; i++) {
-        const producto = productos[i];
-        const imgElement = producto.querySelector('.producto-img');
-        const nombre = producto.querySelector('h2').textContent;
-        const sku = producto.querySelector('.sku').textContent;
-        const precio = producto.querySelector('.precio').textContent;
-
-        // Intentar cargar la imagen de S3; usar imagen de respaldo si falla
-        const skuEncoded = sku.replace('#', '%23');
-        const urlImagen = `https://ibrizantstorage.s3.sa-east-1.amazonaws.com/Catalogo2024/${skuEncoded}.jpg`;
-        let imgData;
-        try {
-            imgData = await convertirImagenADatosBase64(urlImagen);
-        } catch {
-            console.error("Error al cargar la imagen de S3, usando imagen de respaldo");
-            // imgData = "https://via.placeholder.com/150"; // Placeholder si falla
-        }
-
-        pdf.addImage(imgData, 'JPEG', x, y, anchoImagen, altoImagen);
-        pdf.text(nombre, x, y + altoImagen + 5, { maxWidth: 50 });
-        pdf.text(sku, x, y + altoImagen + 15, { maxWidth: 50 });
-        pdf.setTextColor(255, 0, 0);
-        pdf.text(precio, x, y + altoImagen + 25, { maxWidth: 50 });
-        pdf.setTextColor(0, 0, 0);
-
-        x += espacioHorizontal + anchoImagen;
-        itemActual++;
-
-        if (itemActual % itemsPorFila === 0) {
-            x = 10;
-            y += espacioVertical;
-        }
-
-        if (y > 260) {
-            pdf.addPage();
-            y = 20;
-            x = 10;
-        }
-    }
-
-    pdf.save("catalogo_productos.pdf");
+    // Generar el PDF
+    html2pdf().set(options).from(catalogo).save();
 }
-
-async function convertirImagenADatosBase64(url) {
-    return new Promise((resolve, reject) => {
-        const img = new Image();
-        img.crossOrigin = "anonymous";
-        img.src = url;
-        img.onload = () => {
-            const canvas = document.createElement("canvas");
-            canvas.width = img.width;
-            canvas.height = img.height;
-            const ctx = canvas.getContext("2d");
-            ctx.drawImage(img, 0, 0);
-            resolve(canvas.toDataURL("image/jpeg"));
-        };
-        img.onerror = () => reject("Error al cargar la imagen");
-    });
-}
-// async function generarPDF() {
-//     const { jsPDF } = window.jspdf;
-//     const pdf = new jsPDF();
-//     let y = 20;
-
-//     // Título del PDF
-//     pdf.setFontSize(18);
-//     pdf.text("Catálogo de Productos", 10, y);
-//     y += 15;
-
-//     pdf.setFontSize(12);
-
-//     const productos = document.querySelectorAll('.producto');
-//     let x = 10;
-//     const anchoImagen = 40;
-//     const altoImagen = 50;
-//     const espacioHorizontal = 70;
-//     const espacioVertical = 80;
-//     let itemsPorFila = 3;
-//     let itemActual = 0;
-
-//     for (let i = 0; i < productos.length; i++) {
-//         const producto = productos[i];
-//         const imgElement = producto.querySelector('.producto-img');
-//         console.log(imgElement)
-//         const nombre = producto.querySelector('h2').textContent;
-//         const sku = producto.querySelector('.sku').textContent;
-//         const precio = producto.querySelector('.precio').textContent;
-
-//         try {
-//             // Convertir imagen del DOM a base64, usar placeholder si falla
-//             const imgData = await convertirImagenADatosBase64(imgElement);
-//             pdf.addImage(imgData, 'JPEG', x, y, anchoImagen, altoImagen);
-//         } catch (error) {
-//             console.error("Error al procesar la imagen", error);
-//             pdf.text("Imagen no disponible", x, y + altoImagen / 2);
-//         }
-
-//         // Añadir el texto del producto
-//         pdf.text(nombre, x, y + altoImagen + 5, { maxWidth: 50 });
-//         pdf.text(sku, x, y + altoImagen + 15, { maxWidth: 50 });
-//         pdf.setTextColor(255, 0, 0);
-//         pdf.text(precio, x, y + altoImagen + 25, { maxWidth: 50 });
-//         pdf.setTextColor(0, 0, 0);
-
-//         x += espacioHorizontal + anchoImagen;
-//         itemActual++;
-
-//         if (itemActual % itemsPorFila === 0) {
-//             x = 10;
-//             y += espacioVertical;
-//         }
-
-//         if (y > 260) {
-//             pdf.addPage();
-//             y = 20;
-//             x = 10;
-//         }
-//     }
-
-//     pdf.save("catalogo_productos.pdf");
-// }
-
-// // Función auxiliar para convertir la imagen del DOM a base64
-// async function convertirImagenADatosBase64(imgElement) {
-//     const canvas = document.createElement("canvas");
-//     canvas.width = imgElement.width * 0.5; // Reducir resolución
-//     canvas.height = imgElement.height * 0.5;
-//     const ctx = canvas.getContext("2d");
-
-//     // Dibujar imagen y capturar como base64
-//     try {
-//         ctx.drawImage(imgElement, 0, 0, canvas.width, canvas.height);
-//         return canvas.toDataURL("image/jpeg");
-//     } catch (error) {
-//         console.error("Error en la conversión de la imagen a base64:", error);
-//         // return "https://via.placeholder.com/150"; // Placeholder si falla la conversión
-//     }
-// }
