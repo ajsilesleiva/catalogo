@@ -6,11 +6,12 @@ document.addEventListener('DOMContentLoaded', function() {
         .then(data => {
             const productos = Papa.parse(data, { header: true }).data;
             // Filtrar productos vacíos
-            const productosValidos = productos.filter(producto => producto.SKU && producto.Nombre && producto.Precio);
+            productosValidos = productos.filter(producto => producto.SKU && producto.Nombre && producto.Precio);
             
             // Convertir imágenes a base64 y luego mostrar productos
             convertirImagenesABase64(productosValidos).then(productosConImagenes => {
-                mostrarProductos(productosConImagenes);
+                productosValidos = productosConImagenes; // Guardamos productos con imágenes en base64
+                mostrarProductos(productosValidos); // Mostramos los productos
             });
         });
 });
@@ -52,7 +53,7 @@ function mostrarProductos(productos) {
     });
 }
 
-async function generarPDF() {
+function generarPDF() {
     const { jsPDF } = window.jspdf;
     const pdf = new jsPDF();
     let y = 20; // Margen superior inicial
@@ -64,12 +65,6 @@ async function generarPDF() {
 
     pdf.setFontSize(12);
 
-    // Recorrer los productos para añadirlos al PDF
-    const response = await fetch('productos.csv');
-    const data = await response.text();
-    const productos = Papa.parse(data, { header: true }).data;
-    const productosValidos = productos.filter(producto => producto.SKU && producto.Nombre && producto.Precio);
-
     let x = 10; // Margen izquierdo inicial
     const anchoImagen = 40;
     const altoImagen = 50;
@@ -79,7 +74,7 @@ async function generarPDF() {
     let itemActual = 0;
 
     for (const producto of productosValidos) {
-        if (!producto.imagenBase64) continue;
+        if (!producto.imagenBase64 || producto.imagenBase64 === 'https://via.placeholder.com/150') continue;
 
         // Añadir imagen en base64
         pdf.addImage(producto.imagenBase64, 'JPEG', x, y, anchoImagen, altoImagen);
