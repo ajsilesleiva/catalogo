@@ -65,7 +65,7 @@ function previsualizarPDF() {
     pdf.setFontSize(10);
 
     let x = 5;
-    const anchoImagen = 40;
+    const anchoImagen = 45;
     const altoImagen = 50;
     const espacioHorizontal = 50;
     const espacioVertical = 70;
@@ -80,7 +80,7 @@ function previsualizarPDF() {
         // pdf.rect(x - 5, y - 5, anchoImagen + 10, altoImagen + 45);
 
         pdf.addImage(producto.imagenBase64, 'JPEG', x, y, anchoImagen, altoImagen);
-        pdf.text(truncarTexto(producto.Nombre, 25), x , y + altoImagen + 5, { align: 'left' });
+        pdf.text(truncarTexto(producto.Nombre, 20), x , y + altoImagen + 5, { align: 'left' });
         pdf.text(truncarTexto(`SKU: ${producto.SKU}`, 20), x , y + altoImagen + 10, { align: 'left' });
         pdf.setTextColor(255, 0, 0);
         pdf.text(`C$ ${producto.Precio}`, x, y + altoImagen + 15, { align: 'left' });
