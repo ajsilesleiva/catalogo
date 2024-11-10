@@ -142,20 +142,34 @@ async function generarPDF() {
 }
 
 // Función auxiliar para obtener la imagen como base64 usando html2canvas
-async function obtenerImagenComoBase64(url) {
-    const img = new Image();
-    img.crossOrigin = "anonymous";
-    img.src = url;
+// async function obtenerImagenComoBase64(url) {
+//     const img = new Image();
+//     img.crossOrigin = "anonymous";
+//     img.src = url;
 
-    return new Promise((resolve, reject) => {
-        img.onload = async () => {
-            const canvas = document.createElement("canvas");
-            canvas.width = img.width;
-            canvas.height = img.height;
-            const ctx = canvas.getContext("2d");
-            ctx.drawImage(img, 0, 0);
-            resolve(canvas.toDataURL("image/jpeg"));
-        };
-        img.onerror = error => reject(error);
-    });
+//     return new Promise((resolve, reject) => {
+//         img.onload = async () => {
+//             const canvas = document.createElement("canvas");
+//             canvas.width = img.width;
+//             canvas.height = img.height;
+//             const ctx = canvas.getContext("2d");
+//             ctx.drawImage(img, 0, 0);
+//             resolve(canvas.toDataURL("image/jpeg"));
+//         };
+//         img.onerror = error => reject(error);
+//     });
+// }
+async function obtenerImagenComoBase64(url) {
+    try {
+        const response = await fetch(url, { mode: 'cors' });
+        const blob = await response.blob();
+        return new Promise((resolve) => {
+            const reader = new FileReader();
+            reader.onloadend = () => resolve(reader.result);
+            reader.readAsDataURL(blob);
+        });
+    } catch (error) {
+        console.error("Error al cargar imagen con CORS", error);
+        return null;
+    }
 }
