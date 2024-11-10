@@ -93,7 +93,7 @@ function previsualizarPDF() {
         pdf.setFont(undefined, 'normal'); // Negrita para el precio
         pdf.setTextColor(0, 0, 0);
 
-        1 += espacioHorizontal;
+        x += espacioHorizontal - 5;
         itemActual++;
 
         if (itemActual % itemsPorFila === 0) {
