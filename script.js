@@ -59,7 +59,7 @@ function previsualizarPDF() {
     let y = 10;
 
     pdf.setFontSize(18);
-    pdf.text("Catálogo AjSiles", 20, y, { align: 'left' });
+    pdf.text("Catálogo AjSiles", 5, y, { align: 'left' });
     y += 5;
 
     pdf.setFontSize(10);
