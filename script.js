@@ -65,13 +65,13 @@ async function generarPDF() {
     let itemsPorFila = 3;
     let itemActual = 0;
 
-    for (const producto of productos) {
+    for (let i = 0; i < productos.length; i++) {
+        const producto = productos[i];
         const imgElement = producto.querySelector('.producto-img');
         const nombre = producto.querySelector('h2').textContent;
         const sku = producto.querySelector('.sku').textContent;
         const precio = producto.querySelector('.precio').textContent;
 
-        // Convertir la imagen del DOM a base64
         try {
             const imgData = await convertirImagenADatosBase64(imgElement);
             pdf.addImage(imgData, 'JPEG', x, y, anchoImagen, altoImagen);
@@ -79,7 +79,6 @@ async function generarPDF() {
             console.error("Error al procesar la imagen", error);
         }
 
-        // Añadir texto del producto
         pdf.text(nombre, x, y + altoImagen + 5);
         pdf.text(sku, x, y + altoImagen + 15);
         pdf.setTextColor(255, 0, 0);
@@ -99,6 +98,9 @@ async function generarPDF() {
             y = 20;
             x = 10;
         }
+
+        // Pausar la ejecución después de cada producto para reducir la carga
+        await new Promise(resolve => setTimeout(resolve, 0));
     }
 
     pdf.save("catalogo_productos.pdf");
@@ -107,8 +109,8 @@ async function generarPDF() {
 // Función auxiliar para convertir una imagen del DOM a base64
 async function convertirImagenADatosBase64(imgElement) {
     const canvas = document.createElement("canvas");
-    canvas.width = imgElement.width;
-    canvas.height = imgElement.height;
+    canvas.width = imgElement.width * 0.5; // Reducir resolución al 50%
+    canvas.height = imgElement.height * 0.5;
     const ctx = canvas.getContext("2d");
     ctx.drawImage(imgElement, 0, 0, canvas.width, canvas.height);
     return canvas.toDataURL("image/jpeg");
