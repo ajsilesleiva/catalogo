@@ -1,3 +1,5 @@
+const imagenesCargadas = []; // Array para almacenar las URLs de imágenes cargadas
+
 document.addEventListener('DOMContentLoaded', function() {
     fetch('productos.csv')
         .then(response => response.text())
@@ -10,7 +12,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
 function mostrarProductos(productos) {
     const catalogo = document.getElementById('catalogo');
-    productos.forEach(producto => {
+    productos.forEach((producto, index) => {
         const div = document.createElement('div');
         div.classList.add('producto');
 
@@ -28,6 +30,9 @@ function mostrarProductos(productos) {
                 <p class="precio">C$ ${producto.Precio}</p>
             `;
             catalogo.appendChild(div);
+
+            // Guardar la URL de la imagen en el array
+            imagenesCargadas[index] = url;
         };
 
         imagen.onload = function() {
@@ -48,16 +53,23 @@ function mostrarProductos(productos) {
 function generarPDF() {
     const catalogo = document.getElementById('catalogo'); // Contenedor del catálogo de productos
 
-
-    console.log(catalogo)
     // Configuración de opciones de html2pdf
     const options = {
         margin: 1, // Margen en pulgadas
         filename: 'catalogo_productos.pdf',
         image: { type: 'jpeg', quality: 0.98 },
-        html2canvas: { scale: 2},
+        html2canvas: { scale: 2 },
         jsPDF: { unit: 'in', format: 'a4', orientation: 'portrait' }
     };
+
+    // Reemplazar imágenes en el DOM con las URLs en imagenesCargadas antes de generar el PDF
+    const productosDivs = catalogo.getElementsByClassName('producto');
+    Array.from(productosDivs).forEach((div, index) => {
+        const img = div.querySelector('img');
+        if (img) {
+            img.src = imagenesCargadas[index] || 'https://via.placeholder.com/150';
+        }
+    });
 
     // Generar el PDF
     html2pdf().set(options).from(catalogo).save();
