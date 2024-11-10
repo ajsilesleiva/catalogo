@@ -50,18 +50,20 @@ async function generarPDF() {
     const pdf = new jsPDF();
     let y = 20;
 
+    // Título del PDF
     pdf.setFontSize(18);
     pdf.text("Catálogo de Productos", 10, y);
-    y += 10;
+    y += 15;  // Ajustar el espaciado debajo del título
 
     pdf.setFontSize(12);
 
+    // Obtener productos de la página
     const productos = document.querySelectorAll('.producto');
-    let x = 10;
+    let x = 10; // Posición inicial en X
     const anchoImagen = 40;
     const altoImagen = 50;
-    const espacioHorizontal = 70;
-    const espacioVertical = 60;
+    const espacioHorizontal = 60; // Mayor espacio entre columnas
+    const espacioVertical = 80;   // Mayor espacio entre filas
     let itemsPorFila = 3;
     let itemActual = 0;
 
@@ -79,37 +81,39 @@ async function generarPDF() {
             console.error("Error al procesar la imagen", error);
         }
 
-        pdf.text(nombre, x, y + altoImagen + 5);
-        pdf.text(sku, x, y + altoImagen + 15);
-        pdf.setTextColor(255, 0, 0);
-        pdf.text(precio, x, y + altoImagen + 25);
-        pdf.setTextColor(0, 0, 0);
+        // Añadir nombre, SKU y precio con alineación
+        pdf.text(nombre, x, y + altoImagen + 5, { maxWidth: 50 });
+        pdf.text(sku, x, y + altoImagen + 15, { maxWidth: 50 });
+        pdf.setTextColor(255, 0, 0); // Rojo para el precio
+        pdf.text(precio, x, y + altoImagen + 25, { maxWidth: 50 });
+        pdf.setTextColor(0, 0, 0); // Restaurar a negro
 
-        x += espacioHorizontal;
+        // Ajustar la posición para el siguiente producto
+        x += espacioHorizontal + anchoImagen;
         itemActual++;
 
+        // Saltar a la siguiente fila si alcanzamos el límite de items por fila
         if (itemActual % itemsPorFila === 0) {
-            x = 10;
-            y += espacioVertical;
+            x = 10; // Reiniciar X al margen izquierdo
+            y += espacioVertical; // Avanzar en Y para la nueva fila
         }
 
+        // Añadir una nueva página si llegamos al final de la página
         if (y > 260) {
             pdf.addPage();
-            y = 20;
-            x = 10;
+            y = 20; // Reiniciar la posición en Y
+            x = 10; // Reiniciar la posición en X
         }
-
-        // Pausar la ejecución después de cada producto para reducir la carga
-        await new Promise(resolve => setTimeout(resolve, 0));
     }
 
+    // Descargar el PDF
     pdf.save("catalogo_productos.pdf");
 }
 
-// Función auxiliar para convertir una imagen del DOM a base64
+// Función auxiliar para convertir la imagen en base64
 async function convertirImagenADatosBase64(imgElement) {
     const canvas = document.createElement("canvas");
-    canvas.width = imgElement.width * 0.5; // Reducir resolución al 50%
+    canvas.width = imgElement.width * 0.5; // Reducir la resolución a la mitad
     canvas.height = imgElement.height * 0.5;
     const ctx = canvas.getContext("2d");
     ctx.drawImage(imgElement, 0, 0, canvas.width, canvas.height);
