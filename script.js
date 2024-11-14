@@ -1,7 +1,7 @@
 let productosValidos = []; // Variable global para almacenar productos con imágenes en base64
 
 document.addEventListener('DOMContentLoaded', function() {
-    fetch('productos.csv')
+    fetch('productos111124.csv')
         .then(response => response.text())
         .then(data => {
             const productos = Papa.parse(data, { header: true }).data;
