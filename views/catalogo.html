@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Catálogo de Productos</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+    <!-- Option 1: Include in HTML -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css">
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+
+<body>
+    <!-- Cabecera -->
+    <header class="bg-dark text-light py-3">
+        <div class="container text-center">
+            <h1 class="text-light display-5">Catálogo</h1>
+        </div>
+    </header>
+
+    <!-- Contenedor principal -->
+    <main class="container-xxl my-4">
+        <div class="row g-3 align-items-center" id="controles">
+            <!-- Categoría principal -->
+            <div class="col-md-4">
+                <label for="selectorCategoriaPrincipal" class="form-label">Categoría Principal:</label>
+                <select id="selectorCategoriaPrincipal" class="form-select">
+                    <option value="todos">Todos</option>
+                </select>
+            </div>
+
+            <!-- Subcategoría -->
+            <div class="col-md-4">
+                <label for="selectorSubcategoria" class="form-label">Subcategoría:</label>
+                <select id="selectorSubcategoria" class="form-select" multiple>
+                    <option value="">Seleccione una subcategoría</option>
+                </select>
+            </div>
+            <!-- CantidadMinima -->
+            <div class="col-md-4">
+                <label for="inputCantidadMinima" class="form-label">Cantidad mínima en existencias:</label>
+                <input type="number" id="inputCantidadMinima" class="form-control" value="12" min="0">
+            </div>
+            <!-- Ordenar por -->
+            <div class="col-md-4">
+                <label for="selectorOrden" class="form-label">Ordenar por:</label>
+                <select id="selectorOrden" class="form-select">
+                    <option value="asc">Ascendente</option>
+                    <option value="desc">Descendente</option>
+                </select>
+            </div>
+            <div class="col-md-4">
+                <label for="selectorProveedores" class="form-label d-block">Tipo de Proveedor:</label>
+                <div id="filtroProveedores" class="d-flex flex-wrap gap-2">
+                    <label class="form-check-label">
+                        <input type="checkbox" value="vb" checked class="form-check-input"> VB
+                    </label>
+                    <label class="form-check-label">
+                        <input type="checkbox" value="stay" checked class="form-check-input"> Stay
+                    </label>
+                    <label class="form-check-label">
+                        <input type="checkbox" value="ajsiles" checked class="form-check-input"> AjSiles
+                    </label>
+                    <label class="form-check-label">
+                        <input type="checkbox" value="ushas" checked class="form-check-input"> Ushas
+                    </label>
+                    <label class="form-check-label">
+                        <input type="checkbox" value="mayz" checked class="form-check-input"> Mayz
+                    </label>
+                    <label class="form-check-label">
+                        <input type="checkbox" value="bisuteria" checked class="form-check-input"> Bisuteria
+                    </label>
+                </div>
+            </div>
+            <!-- <div class="col-md-4">
+                <label for="selectorCliente" class="form-label">Tipo de Cliente:</label>
+                <select class="w-100 form-select" id="selectorCliente">
+                    <option value="mayorista" selected>Mayorista</option>
+                    <option value="minorista">Minorista +15%</option>
+                    <option value="xdocena">Xdocena +27%</option>
+                </select>
+            </div> -->
+        </div>
+
+        <!-- Catálogo -->
+        <div id="catalogo" class="catalogo">
+            <!-- Aquí se mostrarán los productos -->
+        </div>
+
+        <!-- Botones de acciones -->
+        <div class="text-center mt-4">
+            <!-- <button onclick="generarPDF()" id="btnDescargar" class="btn btn-danger me-2">Descargar Catálogo en
+                PDF</button> -->
+            <button onclick="previsualizarPDF()" id="btnVisualizar" class="btn btn-primary">Previsualizar PDF</button>
+        </div>
+
+        <!-- Previsualización del PDF -->
+        <div class="mt-4">
+            <iframe id="visorPDF" class="w-100" height="600px" style="border: 1px solid #ccc;"></iframe>
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="bg-dark text-white py-3">
+        <div class="container text-center">
+            <p class="mb-0">© 2024 AjSiles Mayorista - <a href="https://www.ajsiles.com"
+                    class="text-white text-decoration-none">www.ajsiles.com</a></p>
+        </div>
+    </footer>
+
+    <!-- Scripts -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.0/papaparse.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html2pdf.js/0.9.3/html2pdf.bundle.min.js"></script>
+    <script src="js/catalogoProductos.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
+        crossorigin="anonymous"></script>
+    <script defer src="js/layout.js"></script>
+
+</body>
+
+</html>

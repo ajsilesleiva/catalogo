@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Productos x Expirar</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@1.0.2/css/bulma.min.css">
+</head>
+
+<body>
+    <main class="container">
+        <!-- Controles -->
+        <div class="columns is-multiline mb-5">
+            <div class="column is-one-quarter">
+                <label for="fechaInicio" class="label">Desde:</label>
+                <input type="date" id="fechaInicio" class="input" />
+                <label for="fechaFin" class="label">Hasta:</label>
+                <input type="date" id="fechaFin" class="input" />
+                <button id="filtrarVencimientos" class="button is-link mt-2">Filtrar</button>
+            </div>
+
+            <div class="column is-one-quarter">
+                <label for="selectorOrden" class="label">Ordenar por:</label>
+                <div class="select is-fullwidth">
+                    <select id="selectorOrden">
+                        <option value="asc">Ascendente</option>
+                        <option value="desc">Descendente</option>
+                    </select>
+                </div>
+            </div>
+
+            <div class="column is-one-quarter">
+                <label for="selectorProveedores" class="label">Tipo de Proveedor:</label>
+                <div id="filtroProveedores" class="has-text-centered">
+                    <label class="checkbox">
+                        <input type="checkbox" value="vb" checked> VB
+                    </label>
+                    <label class="checkbox">
+                        <input type="checkbox" value="stay" checked> Stay
+                    </label>
+                    <label class="checkbox">
+                        <input type="checkbox" value="ajsiles" checked> AjSiles
+                    </label>
+                    <label class="checkbox">
+                        <input type="checkbox" value="ushas" checked> Ushas
+                    </label>
+                    <label class="checkbox">
+                        <input type="checkbox" value="mayz" checked> Mayz
+                    </label>
+                    <label class="checkbox">
+                        <input type="checkbox" value="bisuteria" checked> Bisuteria
+                    </label>
+                </div>
+            </div>
+
+            <div class="column is-one-quarter">
+                <label for="selectorCliente" class="label">Tipo de Cliente:</label>
+                <div class="select is-fullwidth">
+                    <select id="selectorCliente is-fullwidth">
+                        <option value="mayorista" selected>Mayorista</option>
+                        <option value="minorista">Minorista +15%</option>
+                        <option value="xdocena">Xdocena +27%</option>
+                    </select>
+                </div>
+            </div>
+        </div>
+
+        <!-- Catálogo -->
+        <div id="catalogo" class="container is-fluid">
+            <!-- Aquí se mostrarán los productos -->
+        </div>
+
+        <!-- Botones de acciones -->
+        <div class="has-text-centered mt-5">
+            <button onclick="generarPDF()" id="btnDescargar" class="button is-danger mr-2">Descargar Catálogo en PDF</button>
+            <button onclick="previsualizarPDF()" id="btnVisualizar" class="button is-primary">Previsualizar PDF</button>
+        </div>
+
+        <!-- Previsualización del PDF
+        <div class="container is-fluid">
+            <iframe id="visorPDF" class="" style="border: 1px solid #ccc;" height="600"></iframe>
+        </div> -->
+    </main>
+</body>
+<script src="js/productsExpire.js"></script>
+
+</html>

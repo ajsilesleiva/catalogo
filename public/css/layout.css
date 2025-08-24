@@ -1,0 +1,155 @@
+/********  COMISIONES (oscuro limpio)  ********/
+.page-layout{
+  --bg:#0e1624;          /* fondo general */
+  --panel:#161d2b;       /* panel filtros */
+  --panel-2:#121a28;     /* campos */
+  --muted:#a8b0bf;       /* texto secundario */
+  --line:rgba(168,176,191,.18);
+  --ring:rgba(56,189,248,.28); /* cian suave */
+  --ok:#22c55e;          /* verde botón */
+  --ok-ink:#03140a;
+  --thead:#1b2332;
+  --ink:#e8edf6;
+}
+.page-layout body{ background: var(--bg); color: var(--ink); }
+
+/* spacing general */
+.page-layout main{ padding: 18px 0 8px; }
+
+/* ===== PANEL DE FILTROS ===== */
+.page-layout .panel{
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-radius: 16px;
+  padding: 22px 22px 18px;
+  max-width: 1180px;
+  margin: 0 auto 16px;
+  box-shadow: 0 10px 28px rgba(0,0,0,.28);
+}
+.page-layout .panel h1,
+.page-layout .panel h2{
+  margin: 0 0 6px;
+  font-size: 26px;
+  font-weight: 800;
+  letter-spacing:.2px;
+}
+.page-layout .panel p,
+.page-layout .panel .help{
+  margin: 0 0 18px;
+  color: var(--muted);
+}
+
+/* grid de campos (se adapta) */
+.page-layout .panel .fields{
+  display:grid;
+  grid-template-columns: repeat(12,1fr);
+  gap: 12px;
+}
+.page-layout .panel .col-3{ grid-column: span 3; }
+.page-layout .panel .col-4{ grid-column: span 4; }
+.page-layout .panel .col-6{ grid-column: span 6; }
+@media (max-width: 1024px){
+  .page-layout .panel .col-3,
+  .page-layout .panel .col-4,
+  .page-layout .panel .col-6{ grid-column: span 12; }
+}
+
+/* labels */
+.page-layout label{
+  display:block;
+  margin: 2px 0 6px;
+  font-size:.92rem;
+  color: var(--muted);
+}
+
+/* inputs/selects */
+.page-layout input[type="text"],
+.page-layout input[type="number"],
+.page-layout input[type="date"],
+.page-layout select{
+  width:100%;
+  height: 42px;
+  border-radius: 10px;
+  border: 1px solid var(--line);
+  background: var(--panel-2);
+  color: var(--ink);
+  padding: 0 12px;
+  outline: none;
+  transition: border .15s ease, box-shadow .15s ease, background .15s ease;
+}
+.page-layout select{
+  appearance:none; -webkit-appearance:none; -moz-appearance:none;
+  background-image:
+    linear-gradient(45deg, transparent 50%, #9fb0c9 50%),
+    linear-gradient(135deg, #9fb0c9 50%, transparent 50%),
+    linear-gradient(to right, transparent, transparent);
+  background-position:
+    calc(100% - 18px) 17px,
+    calc(100% - 10px) 17px,
+    100% 0;
+  background-size: 8px 8px, 8px 8px, 2.5rem 100%;
+  background-repeat:no-repeat;
+}
+.page-layout input:focus,
+.page-layout select:focus{
+  border-color: #60a5fa;
+  box-shadow: 0 0 0 3px var(--ring);
+}
+
+/* botones */
+.page-layout .btn,
+.page-layout button{
+  height: 44px; padding: 0 18px;
+  border-radius: 12px; border:1px solid transparent;
+  font-weight: 700; letter-spacing:.2px; cursor:pointer;
+  transition: transform .12s ease, box-shadow .12s ease, opacity .12s ease;
+}
+.page-layout .btn-primary{ background: var(--ok); color: var(--ok-ink); box-shadow: 0 6px 16px rgba(34,197,94,.35); }
+.page-layout .btn-primary:hover{ transform: translateY(-1px); opacity:.96; }
+.page-layout .btn-ghost{
+  background: transparent; color: var(--ink); border-color: var(--line);
+}
+.page-layout .btn-ghost:hover{ background: rgba(255,255,255,.04); }
+
+/* ===== TABLA ===== */
+.page-layout table{
+  width: 100%;
+  /* max-width: 1220px; */
+  margin: 10px auto 0;
+  border-collapse: collapse;
+  background: transparent;
+}
+.page-layout thead th{
+  background: var(--thead);
+  color: var(--muted);
+  font-weight: 800;
+  font-size: .88rem;
+  letter-spacing:.35px;
+  text-transform: none;
+  padding: 12px 10px;
+  border-bottom: 1px solid var(--line);
+}
+.page-layout tbody td{
+  color:#dbe3f3;
+  padding: 12px 10px;
+  border-bottom: 1px solid var(--line);
+}
+.page-layout tbody tr:nth-child(even){ background: rgba(255,255,255,.02); }
+
+/* números a la derecha */
+.page-layout td.num, .page-layout th.num{ text-align:right; }
+
+/* filas de totales/KPI */
+.page-layout tr.summary td{
+  font-weight: 800;
+  color:#f1f5f9;
+}
+.page-layout tr.kpi td{
+  color:#c9d5e8; font-weight:600;
+}
+
+/* pequeños toggles debajo del panel: alineación y separación */
+.page-layout .toggles{ max-width: 1180px; margin: 10px auto 6px; }
+
+/* footer pegado visualmente como en la captura */
+.page-layout footer{ margin-top: 18px; }

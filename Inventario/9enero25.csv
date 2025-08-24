@@ -1,0 +1,782 @@
+SKU,Nombre,Precio,Existencias,Costo,Proveedor,Status,Vencimiento,CategoriaPrincipal,Subcategoria,UnidadMedida
+WA-046,"Mascara Wao! Delineador, Mascara y Lapiz de ceja", 69.00,176.0, 58.00,Stay,Active,2025-12-01,Maquillaje,Mascara,12
+LS824,Balsamo para Labios Magic, 17.00,24.0, 13.18,BISUTERIA,Active,2028-01-01,Maquillaje,Labios,24
+CM-072,Mascara hidratante para pechos Chovemoar, 9.00,108.0, 7.03,BISUTERIA,Active,2026-08-01,Cuidado personal,Mascarilla facial,12
+8658FF,"Paleta Sombra, Blush e Iluminador Anylady", 97.00,36.0, 76.86,BISUTERIA,Active,2028-04-01,Maquillaje,Sombra,12
+L3455,Brillo Labial Larga duración Miss Betty, 28.00,24.0, 21.96,BISUTERIA,Active,2028-12-01,Maquillaje,Labios,24
+SL-5005,Color para Labios HedyBeauty, 13.00,0.0, 10.10,BISUTERIA,Inactive,2026-01-01,Maquillaje,Labios,24
+6038,Tinte agua para Labios Victorias, 24.00,36.0, 18.45,BISUTERIA,Active,2026-01-01,Maquillaje,Labios,24
+809-C,Lápiz Labial Miss Demi, 14.00,0.0, 10.98,BISUTERIA,Inactive,2028-09-01,Maquillaje,Labios,72
+GZ8100088,Serum Facial de Arroz 30ml, 33.00,84.0, 25.91,BISUTERIA,Active,2029-01-01,Cuidado personal,Serum facial,12
+CX2186,Lápiz Labial Comfor Beauty, 20.00,144.0, 15.81,BISUTERIA,Active,2027-01-01,Maquillaje,Labios,24
+5786,Lápiz Labial Mate Golden Rose, 20.00,72.0, 15.81,BISUTERIA,Active,2028-10-01,Maquillaje,Labios,24
+SL-5004,Color de labios de larga duración HedyBeauty, 13.00,24.0, 10.10,BISUTERIA,Active,2025-06-01,Maquillaje,Labios,24
+CX2171,Lápiz Labial Comfor Beauty, 20.00,120.0, 15.81,BISUTERIA,Active,2027-01-01,Maquillaje,Labios,24
+Y978,Sombra y Delineador Romantiic, 22.00,120.0, 17.57,BISUTERIA,Active,2029-01-01,Maquillaje,Sombra,24
+CX6215,Primer Fit me Comfor Beauty, 17.00,108.0, 13.18,BISUTERIA,Active,2026-01-01,Maquillaje,Primers de maquillaje,12
+9219,Labios mas carnosos Chanlanya, 21.00,96.0, 16.69,BISUTERIA,Active,2029-01-01,Maquillaje,Labios,24
+628F,"Paleta Sombra, Blush, Iluminador, Glitter Tutu Time", 94.00,108.0, 74.66,BISUTERIA,Active,2029-03-25,Maquillaje,Sombra,12
+CX2059,Lápiz Labial 24 hrs, 20.00,192.0, 15.81,BISUTERIA,Active,2027-01-01,Maquillaje,Labios,24
+E2231,Mascara Delineador Volumen Rizado, 21.00,92.0, 16.69,BISUTERIA,Active,2029-01-01,Maquillaje,Mascara,24
+ES007,"Paleta Sombra, Blush y Iluminador Moly Coco", 72.00,108.0, 57.10,BISUTERIA,Active,2026-01-01,Maquillaje,Sombra,12
+OTS018,"Paleta Sombra, Contorno y Blush Overture", 52.00,215.0, 41.28,BISUTERIA,Active,2027-07-01,Maquillaje,Sombra,24
+LC643,Brillo Labial OLanney, 18.00,0.0, 14.05,BISUTERIA,Inactive,2028-11-01,Maquillaje,Labios,24
+OTS068,Paleta Blush Overture, 58.00,168.0, 46.12,BISUTERIA,Active,2027-11-01,Maquillaje,Blusher,24
+8658FI,"Sombra Blush, Vanidad y Labial Anylady", 97.00,96.0, 76.86,BISUTERIA,Active,2028-01-03,Maquillaje,Sombra,12
+MS1117B,"Sombra Iluminador, sombra y blush Mels", 75.00,120.0, 59.29,BISUTERIA,Active,2026-07-01,Maquillaje,Sombra,24
+GZ8100090,"Serum Facial Arroz, Vit C, Acido Hialurónico, Aloe Vera", 33.00,0.0, 25.91,BISUTERIA,Inactive,2028-03-01,Cuidado personal,Serum facial,12
+GZ8100130,Serum Facial de Colageno Mlundo, 33.00,96.0, 25.91,BISUTERIA,Active,2028-08-01,Cuidado personal,Serum facial,12
+GZ8100089,Serum Facial Aloe Vera Mlundo, 33.00,84.0, 25.91,BISUTERIA,Active,2028-03-01,Cuidado personal,Serum facial,12
+2418-C,Lápiz Labial Miss Demi, 13.00,0.0, 10.10,BISUTERIA,Inactive,2025-07-01,Maquillaje,Labios,48
+9218,Labios mas carnosos Chanlanya, 21.00,120.0, 16.69,BISUTERIA,Active,2029-01-01,Maquillaje,Labios,24
+WKL327,Protector Solar Wokali, 62.00,108.0, 48.31,BISUTERIA,Active,2029-04-12,Cuidado personal,Protector Solar,12
+WKL328,Protector Solar Wokali 90 Spf, 62.00,96.0, 48.31,BISUTERIA,Active,2029-04-12,Cuidado personal,Protector Solar,12
+WKL329,Protector Solar Wokali 90 spf, 62.00,96.0, 48.31,BISUTERIA,Active,2029-04-12,Cuidado personal,Protector Solar,12
+SAC005-2,Removedor de maquillaje SAS, 66.00,60.0, 52.70,BISUTERIA,Active,2029-01-01,Maquillaje,Desmaquillante ó Limpiador facial,12
+SAC005-1,Removedor de maquillaje SAS, 66.00,60.0, 52.70,BISUTERIA,Active,2029-01-01,Maquillaje,Desmaquillante ó Limpiador facial,12
+SAC005-4,Removedor de maquillaje SAS, 66.00,60.0, 52.70,BISUTERIA,Active,2029-01-01,Maquillaje,Desmaquillante ó Limpiador facial,12
+A052,Delineador Note, 18.00,24.0, 14.05,BISUTERIA,Active,2028-01-01,Maquillaje,Delineador,48
+E051,Lápiz para cejas SandyBeauty, 17.00,24.0, 13.18,BISUTERIA,Active,2027-01-01,Maquillaje,Delineador,24
+M2227,Mascara a prueba de agua 4D Romantiic, 22.00,168.0, 17.13,BISUTERIA,Active,2028-10-01,Maquillaje,Mascara,24
+DR-E018,Corrector Piel Impecable 24hrs Dawang Rose, 36.00,96.0, 28.55,BISUTERIA,Active,2026-01-01,Maquillaje,Corrector,24
+GZ8060165,Corrector 6 tonos Mlundo, 27.00,120.0, 21.08,BISUTERIA,Active,2028-10-01,Maquillaje,Corrector,24
+OTX056,Corrector 6 colores Overture, 42.00,192.0, 32.94,BISUTERIA,Active,2027-10-01,Maquillaje,Corrector,24
+8814H-69,"Sombra todo en uno, Blush, Polvo, Sombra Anylady", 92.00,24.0, 73.35,BISUTERIA,Active,2030-12-27,Maquillaje,Sombra,12
+8814F-32,"Sombra todo en uno, Blush, Polvo, Crema para labios Anylady", 92.00,84.0, 73.35,BISUTERIA,Active,2027-12-30,Maquillaje,Sombra,12
+8658FD,"Sombra Wild Sombra, Iluminador, Blush Anylady", 97.00,48.0, 76.86,BISUTERIA,Active,2028-01-01,Maquillaje,Sombra,12
+CX7530,Primer Comfor Beauty, 17.00,108.0, 13.18,BISUTERIA,Active,2026-01-01,Maquillaje,Primers de maquillaje,12
+5389,Labial Matte Chanlanya, 18.00,0.0, 14.05,BISUTERIA,Inactive,2028-01-01,Maquillaje,Labios,24
+K3324,Labial Matte 24 hrs Miss Betty, 22.00,168.0, 17.57,BISUTERIA,Active,2027-01-01,Maquillaje,Labios,24
+K-7775,Labial de Hadas Miss Betty, 21.00,0.0, 16.69,BISUTERIA,Inactive,2028-01-01,Maquillaje,Labios,24
+9220,Labios mas carnosos Chanlanya, 21.00,0.0, 16.69,BISUTERIA,Inactive,2029-01-01,Maquillaje,Labios,24
+5808-A,Brillo Labial Golden Rose, 24.00,0.0, 18.45,BISUTERIA,Inactive,2028-11-01,Maquillaje,Labios,24
+L3518,Brillo Labial Miss Betty, 20.00,48.0, 15.37,BISUTERIA,Active,2029-01-01,Maquillaje,Labios,24
+Y-2599,Brillo Labial Huda Matte Me, 18.00,30.0, 14.05,BISUTERIA,Inactive,2027-01-01,Maquillaje,Labios,30
+E038,Delineador Pestañas y Cejas 36hrs SandyBeauty, 17.00,0.0, 13.18,BISUTERIA,Inactive,2027-07-30,Maquillaje,Delineador,24
+OLU938-52,Perfume Pink para mujer 100ml, 59.00,0.0, 48.00,VB,Inactive,,Cuidado personal,Perfumes,12
+OLU938-20,Perfume Amour Amour para mujer 100ml, 59.00,0.0, 48.00,VB,Inactive,,Cuidado personal,Perfumes,12
+OLU938-22,Perfume I Eau Dissay para mujer 100ml, 59.00,0.0, 48.00,VB,Inactive,,Cuidado personal,Perfumes,12
+161-Bigpuff,Insecticida Big Puff, 135.00,480.0, 115.00,AjSiles,Active,,,Hogar,24
+OLU938-54,Perfume Hello Man 2i2 100ml, 59.00,0.0, 48.00,VB,Inactive,,Cuidado personal,Perfumes,12
+OLU938-53,Perfume Swis Amy para mujer 100ml, 59.00,0.0, 48.00,VB,Inactive,,Cuidado personal,Perfumes,12
+OLU938-21,Perfume IEAU DISSAY para hombre 100ml, 59.00,0.0, 48.00,VB,Inactive,,Cuidado personal,Perfumes,12
+OLU938-35,Perfume Bad Boy 100ml, 59.00,0.0, 48.00,VB,Inactive,,Cuidado personal,Perfumes,12
+OLU938-50,Perfume Paris Hotel para mujer 100ml, 59.00,0.0, 48.00,VB,Inactive,,Cuidado personal,Perfumes,12
+85377-03,Fijador de polvo suelto Kiss Beauty, 31.00,0.0, 25.60,VB,Inactive,2028-10-01,Maquillaje,Polvo compacto,12
+HS1195,Iluminador Make-up Mecow, 24.00,36.0, 20.00,VB,Active,2028-12-01,Maquillaje,Iluminadores,12
+CE482,Sombra Glamor + Glitter, 48.00,120.0, 40.00,VB,Active,2027-11-01,Maquillaje,Sombra,12
+HS1023,Cera laminada para cejas Mecow, 16.00,669.0, 12.80,VB,Active,2027-11-01,Maquillaje,Articulos para Cejas,24
+PK204,Sombra Pink Key UltraLight y rapido secado, 19.00,0.0, 16.00,VB,Inactive,2027-11-01,Maquillaje,Sombra,24
+F-A23,Body Victorias Fleur Love Spell Shimmer 250ml, 77.00,12.0, 65.00,VB,Inactive,,Cuidado personal,Fragancias,12
+F-A27,Body Victorias Fleur Velvet Petals 250ml, 77.00,12.0, 65.00,VB,Inactive,,Cuidado personal,Fragancias,12
+F-A24,Body Victorias Fleur Velvet Petals Shimmer 250ml, 77.00,12.0, 65.00,VB,Inactive,,Cuidado personal,Fragancias,12
+F-A25,Body Victorias Fleur Love Spell 250ml, 77.00,12.0, 65.00,VB,Inactive,,Cuidado personal,Fragancias,12
+F-A22,Body Victorias Fleur Pure Seduction Shimmer 250ml, 77.00,12.0, 65.00,VB,Inactive,,Cuidado personal,Fragancias,12
+F-A18,Body Victorias Fleur Forever Emotion 250ml, 77.00,29.0, 65.00,VB,Active,,Cuidado personal,Fragancias,12
+CD-002,Perfume You Crack Me Up 200ml, 83.00,1.0, 70.00,VB,Inactive,,Cuidado personal,Perfumes,18
+S35-1447,Crema depiladora 150g Stay 3 en 1, 68.00,48.0, 47.00,Stay,Active,2027-10-01,Cuidado personal,Crema depiladora,12
+B0015-RL,Body Spray Corporal 250ml, 80.00,24.0, 71.40,Ushas,Inactive,2028-12-01,Cuidado personal,Fragancias,12
+B0015-CJN,Body Spray Corporal 250ml, 80.00,24.0, 71.40,Ushas,Inactive,2028-12-01,Cuidado personal,Fragancias,12
+B0015-HB,Body Spray Corporal 250ml, 80.00,24.0, 71.40,Ushas,Inactive,2028-12-01,Cuidado personal,Fragancias,12
+B0015-BD-55,Body Spray Glisten Paris 250ml, 76.00,36.0, 68.25,Ushas,Inactive,2028-12-01,Cuidado personal,Fragancias,12
+B0015-BD-23,Body Spray Pasco Pappu 250ml, 76.00,9.0, 68.25,Ushas,Inactive,2028-12-01,Cuidado personal,Fragancias,12
+B0015-BD-8,Body Spray Thirll 250ml, 76.00,12.0, 68.25,Ushas,Inactive,2028-12-01,Cuidado personal,Fragancias,12
+953,Blush 4 colores Anylady, 42.00,136.0, 35.00,VB,Active,2027-04-01,Maquillaje,Blusher,24
+56821-03,Máscara gel para ceja 3D Kiss Beauty, 32.00,24.0, 27.00,VB,Active,2028-01-01,Maquillaje,Mascara,24
+M23-28,Mascara Million Pauline 4 Colores 24 horas, 24.00,0.0, 20.00,VB,Inactive,2026-06-01,Maquillaje,Mascara,48
+B0045-BD-12,Perfume Innovator tubular 35ml, 22.00,1.0, 16.00,VB,Inactive,,Cuidado personal,Perfumes,24
+OLU938-9,Perfume Invictus para hombre 100ml, 59.00,0.0, 48.00,VB,Inactive,,Cuidado personal,Perfumes,12
+OLU938-26,Perfume Locaste para hombre 100ml, 59.00,0.0, 48.00,VB,Inactive,,Cuidado personal,Perfumes,12
+2929-03,Bálsamo Labial Aloe Kiss Beauty, 11.00,0.0, 8.80,VB,Inactive,2028-12-01,Maquillaje,Labios,36
+S37-002,Tijera Stay, 29.00,168.0, 24.00,Stay,Active,2029-01-01,Cuidado personal,Tijera,12
+S35-1457,Crema corporal humectante Miel 444ml, 68.00,0.0, 47.00,Stay,Inactive,2027-10-24,Cuidado personal,Crema corporal,12
+BD-4,Perfume 2i2 Party 100ml, 43.00,1.0, 36.00,VB,Inactive,2028-07-12,Cuidado personal,Perfumes,12
+BD-10,Perfume Lady Trillion, 43.00,0.0, 36.00,VB,Inactive,,Cuidado personal,Perfumes,12
+LO904,Polvo Banana Suelto Scanlon Iluminador Bronzing, 12.00,45.0, 10.00,VB,Active,2026-01-01,Maquillaje,Iluminadores,12
+B0021-GE,Body Spray Pink In Sweet 250ml, 76.00,0.0, 71.40,VB,Inactive,2029-02-01,Cuidado personal,Fragancias,12
+006-alcoholGel,Alcohol Gel para Niñ@s, 18.00,2729.0, 14.00,VB,Active,,Cuidado personal,Alcohol,12
+23526,Mascara Pestañas y Cejas KIKO, 15.00,216.0, 12.00,VB,Active,2026-01-01,Maquillaje,Mascara,12
+JH8010,Mascara Pestañas Essence, 15.00,192.0, 12.00,VB,Active,2026-04-01,Maquillaje,Mascara,12
+B518-1,Perfume 2i2 Red 100ml, 66.00,2.0, 56.00,VB,Inactive,2028-08-01,Cuidado personal,Perfumes,12
+DS5195,Protector Solar Disaar Anti-ultravioleta SPF50 50ml, 29.00,45.0, 24.00,VB,Active,2028-08-01,Cuidado personal,Protector Solar,12
+DS5285,Protector Solar Disaar Antiaging SPF50 80g, 33.00,0.0, 28.00,VB,Inactive,2028-09-01,Cuidado personal,Protector Solar,12
+B0021-LA,Body Spray 250ml Pink and Sweet B0021-LA, 76.00,52.0, 64.00,VB,Active,2029-01-01,Cuidado personal,Fragancias,12
+LC1305,Balsamo para Labios Osito Magic, 15.00,0.0, 12.00,VB,Inactive,2028-12-01,Maquillaje,Labios,24
+MOC449,Iluminador MocMallure True Skin, 19.00,0.0, 16.00,VB,Inactive,2027-11-01,Maquillaje,Iluminadores,12
+MOC495,Brillo Labial MocMallure Magic Hearts, 15.00,0.0, 12.00,VB,Inactive,2027-12-01,Maquillaje,Labios,24
+LC05,Brillo Labial 99% Aloe Magic, 15.00,0.0, 12.00,VB,Inactive,2028-11-01,Maquillaje,Labios,24
+MOC433,Brillo Labial MocMallure Magic Candy, 15.00,0.0, 12.00,VB,Inactive,2027-10-01,Maquillaje,Labios,24
+68532-47A,Protector Solar Karité 60ml SPF90, 38.00,117.0, 32.00,VB,Active,2028-08-01,Cuidado personal,Protector Solar,12
+AC3219,"Set 3 piezas SkinCare Colageno, Vit C, Acido Hialuronico 30ml Aichun", 95.00,218.0, 80.00,VB,Active,2028-06-01,Cuidado personal,Set skincare,6
+HS033,Espejo Gatita, 85.00,0.0, 72.00,VB,Inactive,2026-01-01,Maquillaje,Espejo,12
+DS319-1,Shampoo Contra La Caida del Cabello Clasico Disaar 200ml, 48.00,1.0, 40.00,VB,Inactive,2028-11-01,Cuidado personal,Shampoo capilar,12
+DS319-2,Shampoo Contra La Caida del Cabello Gengibre Disaar 200ml, 48.00,3.0, 40.00,VB,Inactive,2028-11-01,Cuidado personal,Shampoo capilar,12
+35010,Lápiz Labial Mate Beauty Model Matte 35010, 13.00,744.0, 11.00,VB,Active,2027-07-01,Maquillaje,Labios,24
+H98142-A,Lápiz Labial Huda Mate, 15.00,1025.0, 12.00,VB,Active,2028-05-01,Maquillaje,Labios,24
+LC1253,Brillo Para Labios Magic Dear Darling, 13.00,1488.0, 11.00,VB,Active,2025-03-22,Maquillaje,Labios,12
+2056,Primer 24k Rose Silver Kaliya Beauty, 13.00,576.0, 11.00,VB,Active,2028-08-01,Maquillaje,Primers de maquillaje,24
+FS346A,Base Maquillaje Febble Pure Cover, 106.00,132.0, 90.00,Ushas,Inactive,2028-05-01,Maquillaje,Base de maquillaje,12
+ES4201-2,Sombra para Ojos Ushas Love ES4201 2, 36.00,132.0, 30.00,Ushas,Inactive,2028-08-01,Maquillaje,Sombra,12
+ES4201-4,Sombra para Ojos Ushas Love ES4201-4, 36.00,72.0, 30.00,Ushas,Inactive,2028-08-01,Maquillaje,Sombra,12
+CS406B,Kit Corrector de Ojeras Ushas B, 98.00,12.0, 83.00,Ushas,Inactive,2028-09-01,Maquillaje,Corrector,6
+FS346B,Base Maquillaje Febble Pure Cover, 106.00,96.0, 90.00,Ushas,Inactive,2028-05-01,Maquillaje,Base de maquillaje,12
+LG2471B,Brillo Labial Luxurious Ushas B, 25.00,288.0, 21.00,Ushas,Inactive,2026-01-01,Maquillaje,Labios,24
+LG2471A,Brillo Labial Luxurious Ushas A, 25.00,288.0, 21.00,Ushas,Inactive,2026-01-01,Maquillaje,Labios,24
+T51036,Lapiz labial Matte duradero Top Lady, 15.00,3120.0, 12.00,VB,Active,2028-06-01,Maquillaje,Labios,24
+35006,Lapiz labial Matte Beauty Model, 13.00,216.0, 11.00,VB,Active,2028-06-01,Maquillaje,Labios,24
+EL661,Delineador de Ojos Colorfull Pasteles, 19.00,144.0, 16.00,Ushas,Inactive,,Maquillaje,Delineador,24
+HA-3054,Protector Solar Kids 35+, 48.00,48.0, 40.00,Ushas,Inactive,2028-11-01,Cuidado personal,Protector Solar,12
+B0023-CC,Loción Corporal Pink in Sweet B0023-CC, 57.00,12.0, 48.00,Ushas,Inactive,,Cuidado personal,Crema corporal,12
+FS329,Corrector de Ojeras Full Cover All Ushas, 33.00,168.0, 28.00,Ushas,Inactive,2028-11-01,Maquillaje,Corrector,24
+ES3884-4,Sombra de Ojos Good Vibes, 48.00,144.0, 40.00,Ushas,Inactive,2028-04-01,Maquillaje,Sombra,12
+LP2294,Labial en Barra Beauty Kiss, 22.00,216.0, 18.00,Ushas,Inactive,2028-08-01,Maquillaje,Labios,24
+LP2300,Balsamo para Labios Ushas, 16.00,480.0, 13.00,Ushas,Inactive,,Maquillaje,Labios,24
+FS343,Sellador Para Cejas Ushas, 22.00,192.0, 18.00,Ushas,Inactive,2027-07-01,Maquillaje,Fijador de maquillaje,24
+LG2519A,Labial Matte Ushas, 22.00,284.0, 18.00,Ushas,Inactive,2026-08-01,Maquillaje,Labios,24
+LG2522,Labial Beauty Kiss, 26.00,288.0, 22.00,Ushas,Inactive,,Maquillaje,Labios,24
+ES4061-2,Sombra de Ojos My Life Dreams, 50.00,9.0, 42.00,Ushas,Inactive,2028-05-01,Maquillaje,Sombra,12
+ES3922-2,Sombra de Ojos Matcha Love, 38.00,144.0, 32.00,Ushas,Inactive,2025-01-01,Maquillaje,Sombra,12
+HA070,Espuma Facial Limpiadora de Vit-C, 75.00,24.0, 63.00,Ushas,Inactive,,Maquillaje,Desmaquillante ó Limpiador facial,12
+HA073,Espuma Facial Limpiadora de Uva, 75.00,72.0, 63.00,Ushas,Inactive,,Maquillaje,Desmaquillante ó Limpiador facial,12
+HA072,Espuma Facial Limpiadora con Aminoácidos, 75.00,48.0, 63.00,Ushas,Inactive,,Maquillaje,Desmaquillante ó Limpiador facial,12
+HA069,Espuma Facial Limpiadora de Rosa, 75.00,24.0, 63.00,Ushas,Inactive,,Maquillaje,Desmaquillante ó Limpiador facial,12
+LG2367,Brillo de labios Maximizer, 22.00,216.0, 18.00,Ushas,Inactive,,Maquillaje,Labios,24
+FS411B,Base Liquida Premium, 52.00,264.0, 44.00,Ushas,Inactive,,Maquillaje,Base de maquillaje,24
+ES4047,Rubor Sweet Mojito, 26.00,96.0, 22.00,Ushas,Inactive,,Maquillaje,Blusher,24
+ES4038,Iluminador 2 Tono Estrella, 33.00,72.0, 28.00,Ushas,Inactive,,Maquillaje,Iluminadores,24
+ES4030-4,Sombra de Ojos 9C Pink 4 Ushas, 38.00,216.0, 32.00,Ushas,Inactive,2027-09-01,Maquillaje,Sombra,24
+LG2419B,Brillo Labial Music Star Matte, 24.00,168.0, 20.00,Ushas,Inactive,,Maquillaje,Labios,24
+FS384,Sellador de Maquillaje Ushas Photo Finish, 62.00,60.0, 52.00,Ushas,Inactive,2028-06-01,Maquillaje,Fijador de maquillaje,12
+FS358,Primer Para Sombra Ushas, 19.00,168.0, 16.00,Ushas,Inactive,2028-01-01,Maquillaje,Primers de maquillaje,24
+ES4026,"Glitter En Gel para Ojos, Labios y Rostro Febble", 15.00,12.0, 12.00,Ushas,Inactive,,Maquillaje,Glitter,24
+161-USH-15,Encrespador de Pestañas Ruby Lashes Mood, 30.00,36.0, 25.00,Ushas,Inactive,2026-01-01,Maquillaje,Encrespador,12
+161-USH-14,Encrespador de Pestañas Pastel Ruby, 30.00,24.0, 25.00,Ushas,Inactive,,Maquillaje,Encrespador,12
+FS338,Blush Corazon, 77.00,72.0, 65.00,Ushas,Inactive,,Maquillaje,Blusher,12
+ES4015-2,Sombra de Ojos Golden Stylist-2, 80.00,144.0, 68.00,Ushas,Inactive,2028-03-01,Maquillaje,Sombra,6
+LP2288A,Lápiz Labial Kiss A, 22.00,288.0, 18.00,Ushas,Inactive,2028-06-01,Maquillaje,Labios,24
+LP2288B,Lápiz Labial Kiss-B, 22.00,264.0, 18.00,Ushas,Inactive,2028-06-01,Maquillaje,Labios,24
+ES4017B,Corrector de Ojeras en Crema 8C Golden B, 69.00,42.0, 58.00,Ushas,Inactive,2027-09-01,Maquillaje,Corrector,6
+ES4017A,Corrector de Ojeras en crema 8C Golden A, 69.00,60.0, 58.00,Ushas,Inactive,2027-09-01,Maquillaje,Corrector,6
+Y385,Labial Alejandra Show, 15.00,72.0, 12.00,Ushas,Inactive,2025-07-01,Maquillaje,Labios,24
+ES3965,Blush Perla Sweet, 36.00,48.0, 30.00,Ushas,Inactive,,Maquillaje,Blusher,24
+ES3717,Blush 2 Tonos, 30.00,300.0, 25.00,Ushas,Inactive,,Maquillaje,Blusher,12
+ES3723,Blush Fard Ushas, 30.00,300.0, 25.00,Ushas,Inactive,,Maquillaje,Blusher,24
+MA1072,Máscara de Pestañas Love Febble, 32.00,192.0, 27.00,Ushas,Inactive,2026-08-01,Maquillaje,Mascara,24
+ES4024,Blush Flower Ushas, 24.00,192.0, 20.00,Ushas,Inactive,2027-08-01,Maquillaje,Blusher,24
+ES3931,Blush 2 Tono Cheeks Painting, 24.00,288.0, 20.00,Ushas,Inactive,,Maquillaje,Blusher,24
+ES4012,Blush 2 Tono Matte, 24.00,168.0, 20.00,Ushas,Inactive,,Maquillaje,Blusher,24
+FS292,Sellador de Maquillaje Ushas Rose, 89.00,36.0, 75.00,Ushas,Inactive,,Maquillaje,Fijador de maquillaje,12
+FS195,Spray Liquido Corporal Shimmer, 77.00,144.0, 65.00,Ushas,Inactive,,Maquillaje,Glitter,12
+HA082,Tonico Facial Refrescante Rose, 65.00,60.0, 55.00,Ushas,Inactive,,Cuidado personal,Serum facial,12
+FS370,Iluminador Corporal Cristal, 38.00,276.0, 32.00,Ushas,Inactive,,Maquillaje,Iluminadores,12
+161-334,Máscara de Pestañas Big Shot, 15.00,288.0, 12.00,Ushas,Inactive,,Maquillaje,Mascara,12
+FC611A,Iluminador Febble FC611A, 71.00,132.0, 60.00,Ushas,Inactive,,Maquillaje,Iluminadores,12
+FC616B,Polvo Compacto Ushas-B, 36.00,240.0, 30.00,Ushas,Inactive,2027-09-01,Maquillaje,Polvo compacto,24
+5090A,Labial Matte 26H-A, 10.00,42.0, 8.00,Ushas,Inactive,2026-08-01,Maquillaje,Labios,48
+5090B,Labial Matte 26H B, 10.00,144.0, 8.00,Ushas,Inactive,2028-08-01,Maquillaje,Labios,48
+MA1075,Máscara De Pestaña Ushas Transparente, 22.00,192.0, 18.00,Ushas,Inactive,2026-06-01,Maquillaje,Mascara,24
+ES4198-4,Sombra para Ojos For You 4, 92.00,6.0, 78.00,Ushas,Inactive,2028-08-01,Maquillaje,Sombra,6
+R182/R187,Balsamo para labios Paleta Romantic, 12.00,237.0, 10.00,Ushas,Inactive,2026-08-01,Maquillaje,Labios,24
+FS442A,Corrector de Ojeras Full Cover Ushas A, 48.00,144.0, 40.00,Ushas,Inactive,2028-11-01,Maquillaje,Corrector,24
+FS442B,Corrector de Ojeras Full Cover Ushas B, 48.00,96.0, 40.00,Ushas,Inactive,,Maquillaje,Corrector,24
+LG2416,Brillo Labial Ushas Aloe, 19.00,216.0, 16.00,Ushas,Inactive,2028-06-01,Maquillaje,Labios,24
+ES3712-4,Sombra para Ojos True Love, 45.00,11.0, 38.00,Ushas,Active,2028-02-01,Maquillaje,Sombra,12
+EB022A,Cera para cejas, 22.00,72.0, 18.00,Ushas,Inactive,,Maquillaje,Articulos para Cejas,24
+ES4202-4,Sombra Colores Nudes para Ojos, 92.00,6.0, 78.00,Ushas,Inactive,2028-08-01,Maquillaje,Sombra,6
+MA1087,Mascara De Pestañas, 28.00,216.0, 23.00,Ushas,Inactive,2028-07-01,Maquillaje,Mascara,24
+TP353,Lapiz con Cepillo para Cejas, 19.00,336.0, 16.00,Ushas,Inactive,,Maquillaje,Delineador,48
+FC647A,Iluminador My Custom, 45.00,54.0, 38.00,Ushas,Inactive,2028-01-01,Maquillaje,Iluminadores,12
+HA276,"Serum Facial con Gotero, Aloe Vera", 95.00,144.0, 80.00,Ushas,Inactive,,Cuidado personal,Serum facial,12
+HA274,"Serum Facial Gotero, Collagen", 95.00,144.0, 80.00,Ushas,Inactive,,Cuidado personal,Serum facial,12
+HA277,Serum Facial Gotero Rugosa Rose, 95.00,132.0, 80.00,Ushas,Inactive,,Cuidado personal,Serum facial,12
+HA273,Serum Facial Gotero Acido Hyaluronico, 95.00,120.0, 80.00,Ushas,Inactive,,Cuidado personal,Serum facial,12
+FS445B,Base Maquillaje 16H Con Aplicador Ushas, 100.00,96.0, 85.00,Ushas,Inactive,,Maquillaje,Base de maquillaje,12
+ES4194,Sombra para Ojos Show Time, 43.00,108.0, 36.00,Ushas,Inactive,2028-07-01,Maquillaje,Sombra,12
+ES4163-4,Sombra para Ojos Floral 5C 4, 24.00,120.0, 20.00,Ushas,Inactive,,Maquillaje,Sombra,24
+ES4163-2,Sombra para Ojos Floral 5C 2, 24.00,120.0, 20.00,Ushas,Inactive,,Maquillaje,Sombra,24
+ES4170-4,Sombra para Ojos Love More 4, 38.00,96.0, 32.00,Ushas,Inactive,2028-04-01,Maquillaje,Sombra,24
+FS440,Primer Violet Hidratante, 40.00,72.0, 34.00,Ushas,Inactive,,Maquillaje,Primers de maquillaje,12
+EL650,Delineador de Ojos Dorado Miss Ushas, 22.00,12.0, 18.00,Ushas,Inactive,,Maquillaje,Delineador,24
+LG2500,Rubor Love Pretty, 20.00,72.0, 17.00,Ushas,Inactive,2026-06-01,Maquillaje,Blusher,24
+ES4195-2,Sombra para Ojos Show Time 2, 71.00,144.0, 60.00,Ushas,Inactive,2028-07-01,Maquillaje,Sombra,12
+ES4195-4,Sombra para Ojos Show Time 4, 71.00,132.0, 60.00,Ushas,Inactive,2028-07-01,Maquillaje,Sombra,12
+LG2532,Brillo Labial Boom, 18.00,120.0, 15.00,Ushas,Inactive,2028-07-01,Maquillaje,Labios,12
+LG2400,Brillo Labial Shine On, 22.00,192.0, 18.00,Ushas,Inactive,2028-06-01,Maquillaje,Labios,24
+LG2513,Brillo Labial Ice Drink, 22.00,192.0, 18.00,Ushas,Inactive,,Maquillaje,Labios,24
+LG2525F,Brillo Labial Tinta Juicy, 28.00,120.0, 23.00,Ushas,Inactive,,Maquillaje,Labios,24
+LP2291,Balsamo Para Labios Ushas That Well, 19.00,192.0, 16.00,Ushas,Inactive,,Maquillaje,Labios,24
+FS417B,Base Maquillaje Ushas Rose B, 46.00,168.0, 39.00,Ushas,Inactive,,Maquillaje,Base de maquillaje,24
+LP2290,Balsamo Para Labios Ushas Aloe Vera, 20.00,264.0, 17.00,Ushas,Inactive,,Maquillaje,Labios,24
+ES4168,Polvo Suelto Perfect, 38.00,96.0, 32.00,Ushas,Inactive,2028-07-01,Maquillaje,Polvo compacto,24
+TP343,Lapiz para cejas 3-1 Ushas, 32.00,576.0, 27.00,Ushas,Inactive,,Maquillaje,Delineador,48
+EB026-MIX,Lapiz + Fijador De Ceja, 36.00,216.0, 30.00,Ushas,Inactive,,Maquillaje,Delineador,24
+LG2504B,Labial Matte Ushas, 31.00,264.0, 26.00,Ushas,Inactive,,Maquillaje,Labios,24
+LP2282B,Labial Matte Dorado, 23.00,120.0, 19.00,Ushas,Inactive,2028-05-01,Maquillaje,Labios,24
+TP304K-1,Lapiz de Ceja 3D Ushas Marrón TP304K-1, 36.00,0.0, 30.00,Ushas,Inactive,2026-01-01,Maquillaje,Delineador,24
+MA1073,Mascara para cejas 3D Ushas, 26.00,216.0, 22.00,Ushas,Inactive,2026-06-01,Maquillaje,Mascara,24
+LG2218,Brillo Labial Natural Mix, 24.00,264.0, 20.00,Ushas,Inactive,2027-12-01,Maquillaje,Labios,24
+COM024,Toalla desinfectante 75% alcohol 10pcs, 14.00,900.0, 12.00,VB,Active,2026-10-01,Cuidado personal,Toallas humedas,24
+COM015,Toalla desmaquillante 25pcs, 19.00,55.0, 16.00,VB,Inactive,,Cuidado personal,Toallas humedas,12
+HCC331,Corrector Huda Beauty Borrador instantáneo multi-uso, 33.00,1032.0, 28.00,VB,Active,2028-07-01,Maquillaje,Corrector,24
+HB5224,Brillo Labial Hold Morning Cute Hello Lovely, 13.00,24.0, 11.00,VB,Active,2027-08-01,Maquillaje,Labios,24
+HL5570,Brillo Labial Hold Morning Cute Candy, 13.00,384.0, 11.00,VB,Active,2027-10-01,Maquillaje,Labios,24
+HL5528,Tinte Labial Hold Morning Space Travel, 13.00,0.0, 11.00,VB,Inactive,2027-09-01,Maquillaje,Labios,24
+HL5559,Brillo Labial Hold Morning HL5559, 13.00,384.0, 11.00,VB,Active,2027-10-01,Maquillaje,Labios,24
+HL5566,Brillo para Labios Hold Morning HL5566, 13.00,0.0, 11.00,VB,Inactive,2027-10-01,Maquillaje,Labios,24
+B949-1,Perfume Oud Wood para hombre 100ml, 89.00,204.0, 75.00,VB,Active,2028-09-01,Cuidado personal,Perfumes,12
+B721-4,Perfume Invictus Blue 100ml, 109.00,110.0, 90.00,VB,Active,,Cuidado personal,Perfumes,12
+B721-2,Perfume Invictus Aqua 100ml, 109.00,106.0, 90.00,VB,Active,,Cuidado personal,Perfumes,12
+B0060-IV,Set de body Pink in Sweet 4pcs 20ml, 66.00,12.0, 56.00,VB,Inactive,2028-10-01,Cuidado personal,Fragancias,12
+B0060-TF,Set de body Pink in Sweet 4pcs 20ml, 66.00,0.0, 56.00,VB,Inactive,2028-03-26,Cuidado personal,Fragancias,12
+B0060-FC,"Set de body Pink in Sweet 4pcs Peach, Sorbet, Blueberry y Sprinkles 20ml", 66.00,0.0, 56.00,VB,Inactive,2028-10-06,Cuidado personal,Fragancias,12
+B0060-LO,Set de body Pink in Sweet 4pcs 20ml, 66.00,4.0, 56.00,VB,Inactive,2028-10-01,Cuidado personal,Fragancias,12
+B0025-MC,Loción Corporal Pink in Sweet 88ml, 30.00,0.0, 25.00,VB,Inactive,,Cuidado personal,Crema corporal,12
+B0025-BV,Loción Corporal Pink in Sweet 88g, 30.00,0.0, 25.00,VB,Inactive,,Cuidado personal,Crema corporal,12
+B0025-ELF,Loción Corporal Pink in Sweet 88g, 30.00,0.0, 25.00,VB,Inactive,2026-03-01,Cuidado personal,Crema corporal,12
+B0042-DOT,Spray fragancia para cabello Pink in Sweet 100ml, 38.00,60.0, 32.00,VB,Inactive,,Cuidado personal,Fragancias,12
+B0042-BM,Spray fragancia para cabello Pink in Sweet 100ml, 38.00,4.0, 32.00,VB,Inactive,2028-05-01,Cuidado personal,Fragancias,12
+LC1310,Mascara para pestañas y cejas en gel con Acido Hialuronico Magic, 13.00,357.0, 11.00,VB,Active,2028-11-01,Maquillaje,Mascara,24
+LC1157,Brillo Labial Mariposita Magic, 13.00,240.0, 11.00,VB,Active,2028-05-01,Maquillaje,Labios,24
+LC719,Brillo Labial Dear Darling Magic, 13.00,1.0, 11.00,VB,Inactive,2028-10-01,Maquillaje,Labios,24
+B38,Perfume Tom Ford Fkg. fabulous 100ml, 130.00,37.0, 110.00,VB,Active,,Cuidado personal,Perfumes,12
+B37,Perfume Tom Ford Oud wood 100ml, 130.00,30.0, 110.00,VB,Active,,Cuidado personal,Perfumes,12
+B36,Perfume Tom Ford Fabulous 100ml, 130.00,36.0, 110.00,VB,Active,,Cuidado personal,Perfumes,12
+B35,Perfume Tom Ford Tuscan Leather 100ml, 130.00,10.0, 110.00,VB,Active,,Cuidado personal,Perfumes,12
+B9,Perfume Aventus Creed 100ml, 142.00,78.0, 120.00,VB,Active,,Cuidado personal,Perfumes,12
+G3135,Balsamo Labial Limon Orof, 12.00,557.0, 10.00,VB,Active,2028-08-01,Maquillaje,Labios,24
+G3134,Balsamo Labial Arándano Orof, 12.00,172.0, 10.00,VB,Active,2028-08-01,Maquillaje,Labios,24
+G3137,Balsamo Labial Sandia 24h Orof, 12.00,511.0, 10.00,VB,Active,2028-08-01,Maquillaje,Labios,24
+G3136,Balsamo Labial Fresas 24h Orof, 12.00,370.0, 10.00,VB,Active,2028-08-01,Maquillaje,Labios,24
+ST3361,"Base Liquida 36h 3 in 1 Base, Primer y Corrector Anthaway", 13.00,408.0, 11.00,VB,Active,2027-12-01,Maquillaje,Base de maquillaje,24
+ST3352,Base Liquida 36h Vitamina C Fit me! Anthaway, 13.00,384.0, 11.00,VB,Active,2027-12-01,Maquillaje,Base de maquillaje,24
+ST3350,Base Liquida 36h Hidratante Anthaway, 13.00,528.0, 11.00,VB,Active,2027-12-01,Maquillaje,Base de maquillaje,24
+161-3020,Primer para rostro Kaliya Beauty Aloe 16H, 13.00,1287.0, 11.00,VB,Active,2028-08-01,Maquillaje,Primers de maquillaje,24
+161-065,Primer para rostro Kaliya Beauty Vitamina C, 13.00,309.0, 11.00,VB,Active,2028-08-01,Maquillaje,Primers de maquillaje,24
+161-095,Primer para rostro Kaliya Beauty Alta adherencia, 13.00,1128.0, 11.00,VB,Active,2028-08-01,Maquillaje,Primers de maquillaje,24
+161-3024,Primer para rostro Kaliya Beauty Acabado húmedo definitivo, 13.00,1152.0, 11.00,VB,Active,2028-08-01,Maquillaje,Primers de maquillaje,24
+8636P,Sombra de ojos Anylady Super Girl, 95.00,96.0, 80.00,VB,Active,2027-07-01,Maquillaje,Sombra,12
+BX-330,Esponja para maquillar 3pcs Kiss Lovely, 15.00,409.0, 12.00,VB,Active,2029-01-01,Maquillaje,Esponjas de maquillaje,12
+CS043,Esponja para maquillar 6pcs Envase Plastico, 19.00,635.0, 16.00,VB,Active,2029-01-01,Maquillaje,Esponjas de maquillaje,12
+FP3137,Esponja para maquillar Sweet Beauty, 19.00,716.0, 16.00,VB,Active,2029-01-01,Maquillaje,Esponjas de maquillaje,12
+B0021-RC,Body Spray Pink in Sweet 250ml, 80.00,24.0, 71.40,VB,Inactive,,Cuidado personal,Fragancias,12
+0460,Primer Top Face Para Pieles Secas Rellena & Refresca, 13.00,696.0, 11.00,VB,Active,2027-07-01,Maquillaje,Primers de maquillaje,24
+N221,Primer Top Face Rellena & Refresca, 13.00,648.0, 11.00,VB,Active,2025-12-01,Maquillaje,Primers de maquillaje,24
+N220,Base Liquida Detoxificar Y Proteger Note, 13.00,408.0, 11.00,VB,Active,2027-06-01,Maquillaje,Base de maquillaje,24
+0455,Base Liquida Skinwera Efecto Mate Larga Duracion Top Face, 13.00,408.0, 11.00,VB,Active,2026-01-01,Maquillaje,Base de maquillaje,24
+CL814,Corrector Scanlon Alta Cobertura, 16.00,288.0, 13.00,VB,Active,2026-01-01,Maquillaje,Corrector,24
+M23-157,Mascara De Pestañas Million Pauline Sube El Volumen, 19.00,24.0, 16.00,VB,Active,2026-10-01,Maquillaje,Mascara,24
+DS335-2,Crema Depiladora Disaar 100g 5 Minutos, 42.00,24.0, 35.00,VB,Inactive,2028-07-01,Cuidado personal,Crema depiladora,12
+DS335-1,Crema Depiladora Disaar 100g 3 Minutos, 42.00,24.0, 35.00,VB,Inactive,2028-07-01,Cuidado personal,Crema depiladora,12
+DS5261,Tónico Facial Hidratante Disaar 200ml, 48.00,19.0, 40.00,VB,Active,2028-09-01,Maquillaje,Tonico facial,12
+AC3142,Tonico Facial de Arroz Aichum Beauty Nutre Y Aclara 100ml, 42.00,47.0, 35.00,VB,Active,2028-07-01,Maquillaje,Tonico facial,12
+AC3141,Contorno De Ojos Hidratante Y Aclarante De Arroz Aichun Beauty 25ml, 33.00,84.0, 28.00,VB,Active,2027-12-01,Maquillaje,Contorno de ojos,12
+AC3120,Limpiador Facial Arroz Natural Aichum Beauty Nutre La Piel 100ml, 48.00,0.0, 40.00,VB,Inactive,2028-07-01,Maquillaje,Desmaquillante ó Limpiador facial,12
+GJ7169,Set Skin Care Acido Kojic 5 Pcs, 283.00,3.0, 240.00,VB,Active,2028-06-01,Cuidado personal,Set skincare,6
+161-014,Cosmetiquera #014, 53.00,0.0, 45.00,VB,Active,2029-01-01,Maquillaje,Cosmetiquera,12
+994-02#,Sombra Anylady 15 tonos #2, 48.00,0.0, 40.00,VB,Inactive,2027-03-01,Maquillaje,Sombra,12
+994-01#,Sombra Anylady 15 tonos #1, 48.00,12.0, 40.00,VB,Active,2027-06-01,Maquillaje,Sombra,12
+S29-001,Brocha Para Maquillaje Set 7 Pzas Stay, 59.00,120.0, 50.00,Stay,Active,2029-01-01,Maquillaje,Brochas para maquillar,12
+2324,Base Beauty City Matte Aprueba de agua, 62.00,0.0, 52.00,VB,Inactive,2026-10-01,Maquillaje,Base de maquillaje,24
+2075,Base Beauty City BB cream, 62.00,95.0, 52.00,VB,Active,2027-10-01,Maquillaje,Base de maquillaje,24
+161-015,Cosmetiquera #015, 53.00,129.0, 45.00,VB,Active,2029-01-01,Maquillaje,Cosmetiquera,12
+5513,Lápiz Labial CHANLANYA Matte 5513, 15.00,624.0, 12.00,VB,Active,2027-01-01,Maquillaje,Labios,24
+5360,Lápiz Labial CHANLANYA Matte 5360, 15.00,264.0, 12.00,VB,Active,2026-01-01,Maquillaje,Labios,24
+5338,Lápiz Labial CHANLANYA Matte 5338, 15.00,456.0, 12.00,VB,Active,2026-01-01,Maquillaje,Labios,24
+5323,Lápiz Labial Huda Beauty Matte 5323, 15.00,41.0, 12.00,VB,Active,2026-01-01,Maquillaje,Labios,24
+30640,Esponja De Silicona Delicate, 18.00,336.0, 15.00,Mayz,Active,2029-01-01,Maquillaje,Esponjas de maquillaje,24
+006-003493-2,Acondicionador Vinilady Liso Intenso, 99.00,76.0, 90.00,Mayz,Active,2025-03-01,Cuidado personal,Acondicionador capilar,12
+006-003830-0,Crema Peinar Vinilady Aguacate (Super Boom) 300ml, 68.00,356.0, 57.00,Mayz,Active,2026-01-01,Cuidado personal,Crema capilar,24
+006-003893-8,Champú Vinilady 325ml Vinilady Ondas Y Rizos, 68.00,0.0, 57.00,Mayz,Inactive,2026-01-01,Cuidado personal,Shampoo capilar,12
+006-004092-4,Crema Peinar Vinilady Reparación Total 290, 68.00,293.0, 57.00,Mayz,Active,2025-10-01,Cuidado personal,Crema capilar,24
+006-004086-0,Champú Vinilady 325ml Vinilady Reparación Total, 68.00,0.0, 57.00,Mayz,Inactive,2025-10-01,Cuidado personal,Shampoo capilar,12
+006-004049-5,Champú Vinilady 325ml Vinilady Negro Absoluto, 68.00,2.0, 57.00,Mayz,Inactive,2026-01-01,Cuidado personal,Shampoo capilar,12
+006-004027-4,Champú Vinilady 325ml Vinilady Liso Intenso, 68.00,0.0, 57.00,Mayz,Inactive,2026-01-01,Cuidado personal,Shampoo capilar,12
+006-128713,Espuma P/Afeitar Majix 200ml Cool, 50.00,461.0, 42.00,Mayz,Active,2026-12-01,Cuidado personal,Espuma para afeitar,24
+006-132581,Espuma para Afeitar Janti 200ml Sensitive, 40.00,165.0, 34.00,Mayz,Active,2026-11-01,Cuidado personal,Espuma para afeitar,24
+006-C04,Shampoo Miya para Niños 12oz 2 En 1, 45.00,5231.0, 42.00,Mayz,Active,2025-03-01,Cuidado personal,Shampoo capilar,24
+006-WKL258,Gel Para Ducha 550ml Lanolin Wokali, 70.00,20.0, 63.00,Mayz,Active,2025-03-01,Cuidado personal,Gel de ducha,6
+006-WKL176,Gel Para Ducha 550ml Bamboo Wokali, 70.00,115.0, 63.00,Mayz,Active,2024-10-01,Cuidado personal,Gel de ducha,6
+006-132574,Espuma P/Afeitar Janti 200ml regular, 40.00,212.0, 34.00,Mayz,Active,2026-11-01,Cuidado personal,Espuma para afeitar,24
+1721N-B,Polvo Compacto Note Worthy 1721N-B, 29.00,660.0, 24.00,VB,Active,2027-12-01,Maquillaje,Polvo compacto,12
+18-313,Esponja Para Cocina 5pcs 18-313, 16.00,142.0, 14.00,Stay,Active,2029-01-01,Maquillaje,Esponjas de maquillaje,5
+2118N-A,Polvo compacto Note Worthy Glitter Story, 29.00,683.0, 24.00,VB,Active,2027-12-01,Maquillaje,Polvo compacto,12
+2280-47,Fijador De Maquillaje Karité Aloe Vera Control de aceite y refrescante, 45.00,0.0, 38.00,VB,Inactive,2028-03-22,Maquillaje,Fijador de maquillaje,12
+2368-47,Fijador De Maquillaje Kiss beauty Antioxidante & Control de grasa, 57.00,14.0, 48.00,VB,Inactive,,Maquillaje,Fijador de maquillaje,12
+2377-47B,Limpiador Facial Karité 150ml Rosas, 71.00,336.0, 60.00,VB,Active,2028-06-01,Maquillaje,Desmaquillante ó Limpiador facial,12
+2377-47C,Limpiador Facial Karité 150ml Vitamin E, 71.00,347.0, 60.00,VB,Active,2028-06-01,Maquillaje,Desmaquillante ó Limpiador facial,12
+2377-47A,Limpiador Facial Karité 150ml Aloe, 71.00,276.0, 60.00,VB,Active,2028-06-01,Maquillaje,Desmaquillante ó Limpiador facial,12
+35008-1,Lapiz Labial Mate Beauty Model Matte 35008-1, 13.00,42.0, 11.00,VB,Active,2027-09-01,Maquillaje,Labios,24
+35002-1,Lapiz Labial Mate Beauty Model Matte 35002-1, 13.00,474.0, 11.00,VB,Active,2027-06-01,Maquillaje,Labios,24
+56853-47,Mascara pestaña Karite 56853-47, 26.00,144.0, 22.00,VB,Active,2027-11-01,Maquillaje,Mascara,24
+56939-03HA,Gel de cejas con Ácido Hialurónico, 22.00,384.0, 18.00,VB,Active,2028-04-01,Maquillaje,Mascara,24
+68555-03,Primer Beauty Plump Prime, 57.00,156.0, 48.00,VB,Active,2028-06-01,Maquillaje,Primers de maquillaje,12
+8166-01#,Sombra para Ojos Anylady Believe in yourselve, 65.00,12.0, 55.00,VB,Active,2027-03-05,Maquillaje,Sombra,12
+8658FC,"Sombra para Ojos Sombra, Iluminador, Blush Anylady", 97.00,60.0, 76.86,BISUTERIA,Active,2028-04-01,Maquillaje,Sombra,12
+8842E,Corrector Mate Ever Beauty 8842E, 22.00,71.0, 18.00,VB,Active,2028-07-01,Maquillaje,Corrector,36
+8844E,Corrector Mate Ever Beauty 8844E, 22.00,431.0, 18.00,VB,Active,2028-06-01,Maquillaje,Corrector,36
+8843E,Corrector Mate Ever Beauty 8843E, 22.00,648.0, 18.00,VB,Active,2028-07-01,Maquillaje,Corrector,24
+9206N-L9,Polvo compacto Note Worthy Flash touch 9206N-L9, 28.00,960.0, 23.00,VB,Active,2026-01-01,Maquillaje,Polvo compacto,24
+9301N-B,Polvo compacto Note Worthy Natural nude, 29.00,528.0, 24.00,VB,Active,2027-12-01,Maquillaje,Polvo compacto,12
+A-3496,Polvo Compacto Mayeiline A-3496, 36.00,792.0, 30.00,VB,Active,2028-05-01,Maquillaje,Polvo compacto,12
+A-3495,Polvo Compacto Mayeiline A-3495, 36.00,695.0, 30.00,VB,Active,2028-05-01,Maquillaje,Polvo compacto,12
+B51,Primer Mac Skin Base Visage, 36.00,1284.0, 30.00,VB,Active,2027-04-01,Maquillaje,Primers de maquillaje,12
+B7031,Lapiz Labial Mate Beauty Model 24hr, 13.00,96.0, 11.00,VB,Active,2027-05-01,Maquillaje,Labios,24
+BOCR/009,Body 3 Pzas Pink in Sweet BOCR-009, 75.00,1.0, 63.00,VB,Inactive,,Cuidado personal,Fragancias,12
+C009,Esponja para maquillar 6 Piezas Kiss Lovely C009, 23.00,0.0, 19.00,VB,Inactive,2029-01-01,Maquillaje,Esponjas de maquillaje,12
+C008,Esponja para maquillar 6 Piezas Kiss Lovely C008, 23.00,240.0, 19.00,VB,Active,2029-01-01,Maquillaje,Esponjas de maquillaje,12
+CL822,Corrector Liquido Scanlon CL822, 17.00,336.0, 14.00,VB,Active,2027-01-01,Maquillaje,Corrector,24
+CL812,Base de Maquillaje Scanlon CL812, 48.00,12.0, 40.00,VB,Active,2026-01-01,Maquillaje,Base de maquillaje,12
+ES6016,Sombra Favor Beauty Beach, 53.00,543.0, 45.00,VB,Active,2026-07-01,Maquillaje,Sombra,16
+ES6107,Sombra Favor Beauty Kitty, 53.00,34.0, 45.00,VB,Active,2026-06-01,Maquillaje,Sombra,16
+F004,Base Lorea SPF50+ Antioxidante, 20.00,3305.0, 16.00,VB,Active,2026-01-01,Maquillaje,Base de maquillaje,12
+F003,Base Maybelline SPF50+ Alta cobertura, 25.00,2898.0, 16.00,VB,Active,2026-01-01,Maquillaje,Base de maquillaje,12
+F007A,Primer CHANLANYA glitter, 38.00,168.0, 32.00,VB,Active,2026-01-01,Maquillaje,Primers de maquillaje,12
+F007B,Primer CHANLANYA transparente, 38.00,192.0, 32.00,VB,Active,2026-01-01,Maquillaje,Primers de maquillaje,12
+FP-375,Esponja Puff Sweet beauty FP-375, 38.00,2.0, 32.00,VB,Inactive,2029-01-01,Maquillaje,Esponjas de maquillaje,12
+GJ7192,Tonico Facial de Acido Hialuronico 150ml GuanJing, 53.00,71.0, 45.00,VB,Active,2028-05-01,Maquillaje,Tonico facial,12
+H64070 C,Base Huda Beauty Matte FPS 50+ todo tipo de pieles, 50.00,972.0, 42.00,VB,Active,2028-04-01,Maquillaje,Base de maquillaje,12
+H98144-A,Lápiz Labial Huda Matte H98144-A, 15.00,3402.0, 12.00,VB,Active,2028-06-01,Maquillaje,Labios,24
+H98149-24B,Lápiz Labial Huda Colores que duran todo el dia, 15.00,3624.0, 12.00,VB,Active,2028-04-01,Maquillaje,Labios,24
+JM-570,Pestañas 1pcs Nooralazawi Nudes 3D, 12.00,40.0, 10.00,VB,Active,2026-01-01,Maquillaje,Articulos para pestañas,12
+JM-603,Pestañas 1pcs Nooralazawi hechas a mano 5D, 12.00,208.0, 10.00,VB,Active,2026-01-01,Maquillaje,Articulos para pestañas,10
+JM-599,Pestañas 1 pcs Nooralazawi hechas a mano 3D, 12.00,32.0, 10.00,VB,Active,2026-01-01,Maquillaje,Articulos para pestañas,10
+L014,Primer Fit me! Alta duracion Love is beauty 24hr, 36.00,1229.0, 30.00,VB,Active,2026-01-01,Maquillaje,Primers de maquillaje,12
+LC1161,Aceite Labial Magic LC1161, 13.00,2544.0, 11.00,VB,Active,2028-06-01,Maquillaje,Labios,24
+LC1164,Aceite Labial Magic LC1164, 13.00,1072.0, 11.00,VB,Active,2028-07-01,Maquillaje,Labios,24
+LC1197,Aceite Labial Magic LC1197, 13.00,288.0, 11.00,VB,Active,2028-07-01,Maquillaje,Labios,24
+LC1201,Aceite Labial Magic LC1201, 13.00,1240.0, 11.00,VB,Active,2028-06-01,Maquillaje,Labios,30
+LC1230,Balsamo Para Labios Magic LC1230, 13.00,1404.0, 11.00,VB,Active,2028-07-01,Maquillaje,Labios,12
+LC1218,Aceite Labial Magic LC1218, 13.00,24.0, 11.00,VB,Active,2028-07-01,Maquillaje,Labios,24
+LC1220,Aceite Labial Magic LC1220, 13.00,168.0, 11.00,VB,Active,2028-07-01,Maquillaje,Labios,24
+LC1204,Aceite Labial Magic LC1204, 13.00,352.0, 11.00,VB,Active,2028-06-01,Maquillaje,Labios,24
+LC1207,Brillo Para Labios Mate Magic Be sweet, 13.00,0.0, 11.00,VB,Inactive,2028-07-01,Maquillaje,Labios,24
+LC1227,Brillo Para Labios Mate Magic color perfecto, 13.00,0.0, 11.00,VB,Inactive,2028-10-01,Maquillaje,Labios,24
+LC1268,Brillo Para Labios Magic paleta corazón, 13.00,0.0, 11.00,VB,Inactive,2028-08-01,Maquillaje,Labios,24
+LC929,Brillo para Labios Magic corazón love, 13.00,0.0, 11.00,VB,Inactive,2028-04-01,Maquillaje,Labios,24
+LC618,Brillo De Labios Magic gatita, 13.00,0.0, 11.00,VB,Inactive,2028-05-01,Maquillaje,Labios,24
+LO903,Polvo suelto banana Scanlon, 32.00,36.0, 27.00,VB,Active,2027-01-01,Maquillaje,Polvo compacto,12
+LS112,Balsamo Para Labios Magic paleta espiral, 13.00,792.0, 11.00,VB,Active,2028-05-01,Maquillaje,Labios,24
+M0045,Polvo Compacto Doble Million Pauline 24hr, 53.00,96.0, 45.00,VB,Active,2026-04-01,Maquillaje,Polvo compacto,12
+M0010,Base Million Pauline Esencia de caracol SPF 25+, 45.00,132.0, 38.00,VB,Active,2025-09-01,Maquillaje,Base de maquillaje,12
+LS115,Balsamo Para Labios Magic Taza gatito, 15.00,624.0, 12.00,VB,Active,2028-07-01,Maquillaje,Labios,24
+LS116,Balsamo Para Labios Magic refresco, 15.00,2136.0, 12.00,VB,Active,2028-07-01,Maquillaje,Labios,24
+M23-27,Polvo Compacto y corrector Million Pauline Mate, 53.00,0.0, 45.00,VB,Inactive,2027-04-01,Maquillaje,Polvo compacto,12
+M22-51,Polvo Compacto Doble Million Pauline tono claro, 53.00,81.0, 45.00,VB,Active,2026-01-01,Maquillaje,Polvo compacto,12
+M23-36,Mascara Million Pauline Refresca y revive, 29.00,1219.0, 24.00,VB,Active,2026-05-01,Maquillaje,Mascara,12
+M22-81,Mascara Million Pauline Ma XXL, 29.00,1224.0, 24.00,VB,Active,2026-04-01,Maquillaje,Mascara,12
+MB-023,Lapiz para cejas, 21.00,144.0, 18.00,VB,Inactive,2026-01-01,Maquillaje,Delineador,12
+OLU973-3,Perfume niña candy sweet azul, 43.00,0.0, 36.00,VB,Inactive,,Cuidado personal,Perfumes,16
+OLU988-1,Perfume niña science, 43.00,0.0, 36.00,VB,Inactive,,Cuidado personal,Perfumes,12
+P004,Primer baby skin Maybelline borrador de poros, 18.00,3792.0, 14.00,VB,Active,2026-01-01,Maquillaje,Primers de maquillaje,24
+P003,Primer base Mate Infalible Lorel, 18.00,3324.0, 14.00,VB,Active,2026-01-01,Maquillaje,Primers de maquillaje,12
+DL-313,Shampoo Tinte Negro Dr Lana, 177.00,5.0, 150.00,VB,Inactive,,Cuidado personal,Shampoo capilar,12
+RE-2004,Secadora De Cabello Remlngton 5000w, 271.00,10.0, 230.00,VB,Active,2029-01-26,Maquillaje,Secadora de cabello,6
+RE-2038,Secadora De Cabello Reddenton 3000w, 306.00,15.0, 260.00,VB,Active,2029-01-26,Maquillaje,Secadora de cabello,3
+RKQ-DM30,Serum Facial de Arroz Erha21 30ml, 30.00,3.0, 25.00,VB,Inactive,2026-06-01,Cuidado personal,Serum facial,24
+RKQ-2609,Serum Facial de Colágeno Erha21 30ml, 30.00,399.0, 25.00,VB,Active,2026-06-01,Cuidado personal,Serum facial,24
+KQ-6201,Serum Facial Vitamina C Erha21 30ml, 30.00,465.0, 25.00,VB,Active,2026-06-01,Cuidado personal,Serum facial,24
+RX150X,Limpiador Facial 150ml Multi proposito, 53.00,181.0, 45.00,VB,Active,2026-05-01,Maquillaje,Desmaquillante ó Limpiador facial,12
+KQ-VC150X,Limpiador Facial 150ml Vitamina C, 53.00,81.0, 45.00,VB,Active,2026-03-01,Maquillaje,Desmaquillante ó Limpiador facial,12
+KQ-VE100,Serum Facial de Vitamina E 100ml, 48.00,142.0, 40.00,VB,Active,2026-03-01,Cuidado personal,Serum facial,12
+KQ-BNS100,Serum Facial de Acido Hialuronico 100ml, 48.00,250.0, 40.00,VB,Active,2026-03-01,Cuidado personal,Serum facial,12
+KQ-DM100,Serum Facial de Arroz 100ml, 48.00,179.0, 40.00,VB,Active,2026-06-01,Cuidado personal,Serum facial,12
+S2-0064,Pala Plastica cuadrada Stay, 23.00,0.0, 19.00,Stay,Inactive,2029-01-26,Cuidado personal,Pala para pedicure,12
+S2-0287,Perfiladora De Ceja 2 pzas Stay, 36.00,0.0, 32.00,Stay,Inactive,2029-01-26,Maquillaje,Perfiladoras,12
+S2-0122,Espejo personal ovalado Stay, 37.00,0.0, 28.00,Stay,Inactive,2029-01-01,Maquillaje,Espejo,12
+S2-0759,Set de esponjas para maquillar Stay, 25.00,24.0, 22.00,Stay,Active,2029-01-01,Maquillaje,Esponjas de maquillaje,12
+S2-0737,Cepillo peinilla para Cabello Stay, 26.00,233.0, 22.00,Stay,Active,2029-01-01,Maquillaje,"Cepillo, peines y peinillas",12
+S2-1035,Cepillo Para Cabello Stay Osito, 52.00,24.0, 44.00,Stay,Inactive,2029-01-26,Maquillaje,"Cepillo, peines y peinillas",12
+S2-1276,Set para Ceja Set 3 Pzas, 36.00,0.0, 32.00,Stay,Inactive,2029-01-26,Cuidado personal,Tijera,12
+S2-1371,Rizador de Pestaña Stay, 41.00,60.0, 36.00,Stay,Active,2029-01-01,Maquillaje,Encrespador,12
+S21-021,Pincel Para Uñas, 14.00,22.0, 12.00,Stay,Active,2026-01-01,Maquillaje,Uñas,12
+S29-1193,Esponja Facial Stay 6 piezas, 33.00,107.0, 29.00,Stay,Active,2029-01-01,Maquillaje,Esponjas de maquillaje,6
+S37-0884,Pala para Pedicure Madera Stay, 24.00,0.0, 21.00,Stay,Inactive,2029-01-01,Cuidado personal,Pala para pedicure,12
+S6-1363,Mascara Stay ultra volumen, 35.00,216.0, 31.00,Stay,Active,2025-12-01,Maquillaje,Mascara,24
+S7-001,Mascara Stay transparente en gel, 33.00,360.0, 29.00,Stay,Active,2026-05-01,Maquillaje,Mascara,24
+SD31936,Ampolla Facial con Vitamina C 7pcs x 2ml, 33.00,129.0, 28.00,VB,Active,2025-08-01,Cuidado personal,Serum facial,12
+SD31943,Ampolla Facial 24K Gold 7pcs x 2ml, 33.00,113.0, 28.00,VB,Active,2025-11-01,Cuidado personal,Serum facial,12
+SD30878,Ampolla Facial con Acido Hialuronico 7pcs x 2ml, 33.00,27.0, 28.00,VB,Active,2026-07-01,Cuidado personal,Serum facial,12
+SE812,Sombra para ojos y contorno Scanlon, 33.00,207.0, 28.00,VB,Active,2027-01-01,Maquillaje,Sombra,12
+SE872,Sombra Scanlon 35 tonos, 83.00,316.0, 70.00,VB,Active,2027-01-01,Maquillaje,Sombra,6
+ST3312,Corrector Anthaway Alta definición, 12.00,1176.0, 10.00,VB,Active,2028-05-01,Maquillaje,Corrector,24
+ST3315,Corrector Anthaway Babe Skin, 13.00,1992.0, 11.00,VB,Active,2028-05-01,Maquillaje,Corrector,24
+ST3343,Base Anthaway Multiefecto, 13.00,456.0, 11.00,VB,Active,2027-03-01,Maquillaje,Base de maquillaje,24
+ST3362,Base para maquillaje Super Stay, 13.00,336.0, 11.00,VB,Active,2027-12-01,Maquillaje,Base de maquillaje,24
+ST3373,Corrector Anthaway 36 horas, 12.00,1991.0, 10.00,VB,Active,2028-03-01,Maquillaje,Corrector,24
+ST3816A,Mascara Anthaway transparente azul, 10.00,2304.0, 8.00,VB,Active,2028-04-01,Maquillaje,Mascara,48
+ST3817R,Mascara Anthaway transparente rosado, 10.00,3552.0, 8.00,VB,Active,2028-04-01,Maquillaje,Mascara,48
+ST3828,Brillo Para Labios Anthaway azul, 10.00,1308.0, 8.00,VB,Active,2028-05-01,Maquillaje,Labios,12
+ST3827,Brillo Para Labios Anthaway rosada, 10.00,1524.0, 8.00,VB,Active,2028-05-01,Maquillaje,Labios,12
+V019,Body Spray amber romance 250ml, 71.00,33.0, 60.00,VB,Inactive,,Cuidado personal,Fragancias,18
+WA-012,Rasuradora 3 Hojillas Wao azul!, 45.00,144.0, 40.00,Stay,Active,2029-01-01,Cuidado personal,Rasuradora,12
+WA-223,Afeitadora 3 Hojillas morada, 38.00,250.0, 32.00,Stay,Active,2029-01-01,Cuidado personal,Rasuradora,12
+Y3014,Primer Kaliya Beauty Vitamina C, 13.00,384.0, 11.00,VB,Active,2028-06-01,Maquillaje,Primers de maquillaje,24
+Y3015,Primer Kaliya Beauty Unicor, 13.00,3136.0, 11.00,VB,Active,2028-06-01,Maquillaje,Primers de maquillaje,24
+Z204,Primer Kaliya Beauty, 13.00,24.0, 11.00,VB,Active,2025-03-01,Maquillaje,Primers de maquillaje,24
+F001,Base All Hours YvestSaintLaurent, 42.00,1132.0, 35.00,VB,Active,2026-01-01,Maquillaje,Base de maquillaje,12
+M0281,Base Velvet Touch SPF+ 10 Million Pauline, 42.00,324.0, 35.00,VB,Active,2026-10-01,Maquillaje,Base de maquillaje,12
+S6-1140A,Iluminador y bronceador Stay, 38.00,48.0, 33.00,Stay,Active,2025-07-01,Maquillaje,Iluminadores,24
+T51037,Lápiz Labial Top Lady, 15.00,2112.0, 12.00,VB,Active,2028-06-01,Maquillaje,Labios,24
+WHD-A03,Serum Facial de Aloe Vera 30ml, 31.00,62.0, 26.00,VB,Active,2025-09-01,Cuidado personal,Serum facial,12
+161-003,Toallas Humedas 25pcs, 17.00,70.0, 14.00,VB,Active,2026-07-01,Cuidado personal,Toallas humedas,12
+8171,Sombra AnyLady Only You, 42.00,1557.0, 35.00,VB,Active,2027-06-01,Maquillaje,Sombra,24
+8138,Sombra AnyLady Little, 36.00,695.0, 30.00,VB,Active,2027-06-01,Maquillaje,Sombra,24
+ST3351,Base Pro BB Cream Anthaway, 13.00,192.0, 11.00,VB,Active,2027-12-01,Maquillaje,Base de maquillaje,24
+123,Bálsamo Para Labios Cute Fruit, 13.00,840.0, 11.00,VB,Active,2026-03-01,Maquillaje,Labios,24
+161-009,Cosmetiquera, 59.00,0.0, 50.00,VB,Inactive,2029-01-01,Maquillaje,Cosmetiquera,12
+161-008,Rizador De Pestaña Princess Art, 26.00,112.0, 22.00,VB,Active,2029-01-01,Maquillaje,Encrespador,12
+H64026 C,Base Huda Beauty Fauxlens, 45.00,516.0, 38.00,VB,Active,2028-04-01,Maquillaje,Base de maquillaje,12
+S6-1130,Delineador Liquido azul Stay, 29.00,141.0, 31.00,Stay,Active,2025-03-22,Maquillaje,Delineador,24
+ST009,Primer L.A Girl Alta definición, 13.00,408.0, 11.00,VB,Active,2028-04-01,Maquillaje,Primers de maquillaje,24
+WA-047,Sombra para ojos Wao!, 41.00,216.0, 36.00,Stay,Active,2026-05-01,Maquillaje,Sombra,24
+974,Sombra AnyLady Dream Big, 48.00,84.0, 40.00,VB,Active,2027-05-01,Maquillaje,Sombra,12
+8342,Balsamo + Exfoliante Labial, 33.00,1.0, 28.00,VB,Inactive,,Maquillaje,Labios,24
+H7043,Iluminador con Glitter Huda Beauty, 26.00,2.0, 22.00,VB,Inactive,2028-10-01,Maquillaje,Iluminadores,24
+F002,Base Loreal Paris Revital Fit, 36.00,837.0, 30.00,VB,Active,2026-01-01,Maquillaje,Base de maquillaje,12
+6001,Protector Solar, 33.00,597.0, 28.00,VB,Active,2025-05-01,Cuidado personal,Protector Solar,12
+BX3626,Piedra Jade, 33.00,1032.0, 28.00,VB,Active,2029-01-01,Maquillaje,Piedra Jade,12
+BX-3503,Perfiladora De Ceja, 17.00,596.0, 14.00,VB,Active,2029-01-01,Maquillaje,Perfiladoras,12
+M0273,Mascara de Pestañas 7D Million Pauline, 25.00,284.0, 21.00,VB,Active,2026-06-01,Maquillaje,Mascara,48
+GJ7181,Limpiador Facial Retinol 100g, 50.00,65.0, 42.00,VB,Active,2026-05-01,Maquillaje,Desmaquillante ó Limpiador facial,12
+JS-1228,Pegamento para Pestañas, 9.00,50.0, 7.00,VB,Active,2025-12-01,Maquillaje,Articulos para pestañas,12
+DS51994,Contorno De Ojos 25ml, 42.00,336.0, 35.00,VB,Active,2028-06-01,Maquillaje,Contorno de ojos,24
+BX3612,Set De Limpieza Facial, 77.00,101.0, 65.00,VB,Active,2029-01-01,Maquillaje,Esponjas de maquillaje,6
+BX3535,Set De Maquillaje, 106.00,16.0, 90.00,VB,Active,2026-01-01,Maquillaje,Esponjas de maquillaje,4
+8243,Mascara Para Pies, 36.00,24.0, 30.00,VB,Inactive,2025-12-01,Maquillaje,Mascara,12
+SB802,Rubor Scalon, 71.00,167.0, 60.00,VB,Active,2028-01-01,Maquillaje,Blusher,12
+M23-48,Mascara de Pestañas Sky High, 28.00,984.0, 23.00,VB,Active,2026-04-01,Maquillaje,Mascara,24
+GJ7193,Serum Facial de Acido Hialuronico 40ml, 38.00,83.0, 32.00,VB,Active,2028-05-01,Cuidado personal,Serum facial,12
+9603V,Polvo Compacto + Rubor Viktorisa Sempre, 38.00,0.0, 32.00,VB,Inactive,2027-12-01,Maquillaje,Polvo compacto,12
+VS1712,Polvo Compacto y Bronceador Viktorisa Sempre, 38.00,720.0, 32.00,VB,Active,2026-01-01,Maquillaje,Polvo compacto,12
+8294,Mascara de Pestañas 24H Sky High, 19.00,671.0, 16.00,VB,Active,2025-12-01,Maquillaje,Mascara,24
+2188VS,Polvo Suelto Viktorisa Sempre, 30.00,912.0, 25.00,VB,Active,2026-12-01,Maquillaje,Polvo compacto,12
+SZ-256,Brocha para maquillar 5 Pzas, 30.00,67.0, 25.00,VB,Active,2029-01-01,Maquillaje,Brochas para maquillar,12
+M0195,Primer Million Pauline, 40.00,216.0, 34.00,VB,Active,2025-11-01,Maquillaje,Primers de maquillaje,12
+9206N,Polvo Compacto Note Flash Touch 9206N, 22.00,816.0, 18.00,VB,Active,2026-01-01,Maquillaje,Polvo compacto,24
+BX3600,Pegamento Para Uñas, 11.00,492.0, 9.00,VB,Active,2025-12-01,Maquillaje,Uñas,12
+BX-414,Kit para Uñas 4 Pzs, 32.00,119.0, 27.00,VB,Active,2029-01-01,Maquillaje,Uñas,12
+BX-842,Encrespadora de Pestaña, 22.00,848.0, 18.00,VB,Active,2029-01-01,Maquillaje,Encrespador,12
+68603-47,Corrector Super BB, 22.00,360.0, 18.00,VB,Active,2028-05-01,Maquillaje,Corrector,24
+LC1182,Aceite Labial + Tinte Para Labios, 22.00,0.0, 18.00,VB,Inactive,2028-06-01,Maquillaje,Labios,24
+OLU909-6,Perfume Tubular Vercage, 22.00,96.0, 18.00,VB,Inactive,,Cuidado personal,Perfumes,24
+OLU909-81,Perfume Tubular Swiss Army, 22.00,0.0, 18.00,VB,Inactive,,Cuidado personal,Perfumes,24
+OLU909-112,Perfume Tubular Mome Blang, 22.00,117.0, 18.00,VB,Active,,Cuidado personal,Perfumes,24
+OLU909-171,Perfume Tubular Invictus V, 22.00,24.0, 18.00,VB,Active,,Cuidado personal,Perfumes,24
+OLU909-91,Perfume Tubular Invictus, 22.00,0.0, 18.00,VB,Inactive,,Cuidado personal,Perfumes,12
+OLU909-50,Perfume Tubular Boos, 22.00,0.0, 18.00,VB,Inactive,,Cuidado personal,Perfumes,24
+OLU909-31,Perfume Tubular Blue De Chenale, 22.00,48.0, 18.00,VB,Active,,Cuidado personal,Perfumes,24
+OLU909-2,Perfume Tubular Billion Men, 22.00,0.0, 18.00,VB,Inactive,,Cuidado personal,Perfumes,24
+OLU909-113,Perfume Tubular 212 Sexy Man, 22.00,0.0, 18.00,VB,Inactive,,Cuidado personal,Perfumes,24
+JM-544,Pestañas Postizas 8mm, 24.00,240.0, 20.00,VB,Active,2026-01-01,Maquillaje,Articulos para pestañas,12
+C013,Esponjas para maquillar Kiss Lovely C013, 24.00,12.0, 20.00,VB,Active,2029-01-01,Maquillaje,Esponjas de maquillaje,6
+T345-24F,Pintura De Uña, 13.00,0.0, 11.00,VB,Inactive,2028-02-01,Maquillaje,Uñas,24
+MM-048,Parche Para Ojos De Colágeno, 5.00,9316.0, 4.00,VB,Active,2025-08-01,Maquillaje,Parche para ojos,10
+BQY74930,Mascarilla Facial Hidratante de Pepino, 5.00,10.0, 4.00,VB,Inactive,2026-04-01,Cuidado personal,Mascarilla facial,10
+SZ-997,Brochas para maquillar 7 Pcs, 95.00,376.0, 80.00,VB,Active,2029-01-01,Maquillaje,Brochas para maquillar,6
+GJ7182,Locion Retinol 100g, 59.00,19.0, 50.00,VB,Active,2028-05-01,Cuidado personal,Serum facial,12
+GJ7194,Locion Acido Hialuronico 100g, 53.00,60.0, 45.00,VB,Active,2028-05-01,Cuidado personal,Serum facial,12
+GJ7186,Contorno De Ojos Retinol 30g, 53.00,116.0, 45.00,VB,Active,2028-05-01,Maquillaje,Contorno de ojos,12
+8158,Sombra AnyLady, 45.00,389.0, 38.00,VB,Active,2027-05-01,Maquillaje,Sombra,12
+GJ7191,Limpiador Facial Acido Hialuronico 100g, 48.00,165.0, 40.00,VB,Active,2028-05-01,Maquillaje,Desmaquillante ó Limpiador facial,12
+FP-3032,Esponja Puff, 48.00,24.0, 40.00,VB,Inactive,2029-01-26,Maquillaje,Esponjas de maquillaje,12
+GJ7028,Contorno De Ojos 20ml, 48.00,168.0, 40.00,VB,Active,2028-03-01,Maquillaje,Contorno de ojos,24
+SZ-213,Brochas 6 Piezas, 48.00,0.0, 40.00,VB,Inactive,2029-01-26,Maquillaje,Brochas para maquillar,12
+VS8861,Polvo Compacto Viktorisa Sempre, 26.00,799.0, 22.00,VB,Active,2028-12-01,Maquillaje,Polvo compacto,12
+JM4010,Pestañas 3pcs, 26.00,0.0, 22.00,VB,Inactive,2026-01-01,Maquillaje,Articulos para pestañas,12
+LO902,Polvo Suelto Scalon, 26.00,11.0, 22.00,VB,Active,2027-01-01,Maquillaje,Polvo compacto,12
+HCC323,Corrector Y Contorno, 26.00,120.0, 22.00,VB,Active,2028-08-01,Maquillaje,Corrector,24
+LC1147,Aceite Labial + Tinte Para Labios, 26.00,120.0, 22.00,VB,Active,2028-06-01,Maquillaje,Labios,24
+J827,Primer Mattefyng Suncreeen, 13.00,480.0, 11.00,VB,Active,2025-04-01,Maquillaje,Primers de maquillaje,24
+J826,Primer Cubreporos, 13.00,624.0, 11.00,VB,Active,2025-04-01,Maquillaje,Primers de maquillaje,24
+ST3313,Corrector Natural Anthaway, 13.00,676.0, 11.00,VB,Active,2025-11-01,Maquillaje,Corrector,24
+ST3366,Corrector Mate, 13.00,816.0, 11.00,VB,Active,2028-07-01,Maquillaje,Corrector,24
+LC991,Brillo Para Labios 24h, 13.00,0.0, 11.00,VB,Inactive,2028-06-01,Maquillaje,Labios,24
+ST3342,Base Liviana Natural Mate ANTAWAY, 13.00,288.0, 11.00,VB,Active,2027-03-03,Maquillaje,Base de maquillaje,24
+ST3356,Base 36h con Antioxidante Dream Urban Cover Anthaway, 13.00,0.0, 11.00,VB,Inactive,2027-12-01,Maquillaje,Base de maquillaje,24
+878,Sombra AnyLady, 29.00,624.0, 24.00,VB,Active,2027-05-01,Maquillaje,Sombra,12
+9815V,Polvo Compacto 2 en 1 Viktorisa Sempre, 29.00,660.0, 24.00,VB,Active,2026-12-01,Maquillaje,Polvo compacto,12
+9301VS,Rubor Victorisa Sempre, 29.00,671.0, 24.00,VB,Active,2027-12-01,Maquillaje,Blusher,12
+LC607,Brillo para Labios, 16.00,1100.0, 13.00,VB,Active,2028-07-01,Maquillaje,Labios,24
+JM-4119,Pestañas 2pcs 3D, 18.00,564.0, 15.00,VB,Active,2026-01-01,Maquillaje,Articulos para pestañas,12
+36380-47,Labial Matte Karité, 18.00,1032.0, 15.00,VB,Active,2028-04-01,Maquillaje,Labios,24
+LC1141,Tinte Para Labios Ice Cream, 15.00,24.0, 12.00,VB,Active,2028-05-01,Maquillaje,Labios,24
+H211-24B,Pintura De Uñas, 15.00,0.0, 12.00,VB,Inactive,2028-05-01,Maquillaje,Uñas,24
+EB7060,Lápiz Para Cejas, 12.00,696.0, 10.00,VB,Active,2028-06-01,Maquillaje,Delineador,24
+2950-47ABCDEF,Bálsamo Labial de Karité, 12.00,288.0, 10.00,VB,Active,2028-03-01,Maquillaje,Labios,48
+YD612,Delineador Huda ABC WaterProof, 15.00,48.0, 12.00,VB,Active,2026-01-01,Maquillaje,Delineador,24
+MB-022,Lápiz Delineador cafe, 15.00,634.0, 12.00,VB,Active,2026-01-01,Maquillaje,Delineador,12
+1808W,Brocha Individual Shadow Brush, 15.00,654.0, 12.00,VB,Active,2029-01-01,Maquillaje,Brochas para maquillar,12
+21261VS-C,Rubor 2 en 1 Sombra y Rubor, 15.00,96.0, 12.00,VB,Active,2026-01-01,Maquillaje,Blusher,24
+DE8035,Parches Para Ojos, 6.00,1278.0, 5.00,VB,Active,2028-01-01,Maquillaje,Parche para ojos,10
+DE8036,Parches Para Labios, 6.00,1358.0, 5.00,VB,Active,2028-01-01,Maquillaje,Labios,10
+OLU938-3,Perfume 2i2 para hombre 100ml, 59.00,0.0, 48.00,VB,Inactive,,Cuidado personal,Perfumes,12
+7233,Lipgloss Filler Ever Beauty, 19.00,2.0, 16.00,VB,Inactive,2028-08-01,Maquillaje,Labios,48
+7152E,Lapiz Labial Mate, 22.00,903.0, 18.00,VB,Active,2027-06-01,Maquillaje,Labios,24
+161-0462,Base Alta Cobertura Reducción De Poros, 22.00,504.0, 18.00,VB,Active,2026-08-01,Maquillaje,Base de maquillaje,12
+7166E,Labial Ever Beauty, 24.00,528.0, 20.00,VB,Active,2028-01-01,Maquillaje,Labios,48
+56839-03,Gel Para Cejas Invisible, 24.00,167.0, 20.00,VB,Active,2028-06-01,Maquillaje,Mascara,12
+PK145,Corrector Liquido Pink Key, 24.00,288.0, 20.00,VB,Active,2027-09-01,Maquillaje,Corrector,48
+M610,Mascara Para Pestañas, 16.00,576.0, 13.00,VB,Active,2029-01-26,Maquillaje,Mascara,24
+TE836,Iluminador Terra Cotta Scalon, 31.00,0.0, 26.00,VB,Inactive,2026-01-01,Maquillaje,Iluminadores,12
+M2602,Corrector Antiojeras 24h, 16.00,648.0, 13.00,VB,Active,2026-01-01,Maquillaje,Corrector,24
+ST3804,Corrector Alta Cobertura, 16.00,408.0, 13.00,VB,Active,2028-05-01,Maquillaje,Corrector,24
+Y-801,Brillo Labial, 15.00,0.0, 12.00,VB,Inactive,2026-01-01,Maquillaje,Labios,24
+68960-03CN,Protector Solar 90+, 36.00,3.0, 30.00,VB,Inactive,2028-09-01,Cuidado personal,Protector Solar,12
+H96041,Serum Facial Vitamina C 30ml, 30.00,92.0, 25.00,VB,Active,2028-07-01,Cuidado personal,Serum facial,12
+H96040,Serum Facial Aloe Vera 30ml, 30.00,169.0, 25.00,VB,Active,2028-07-01,Cuidado personal,Serum facial,12
+56964-47,Mascara Para Pestañas Transparente, 26.00,144.0, 22.00,VB,Active,2028-07-01,Maquillaje,Mascara,12
+OLU938-1,Perfume Legend para hombre 100ml, 59.00,0.0, 48.00,VB,Inactive,,Cuidado personal,Perfumes,12
+OLU938-18,Perfume Cool Girl 100ml, 59.00,0.0, 48.00,VB,Inactive,,Cuidado personal,Perfumes,12
+OLU938-10,Perfume Bozzs para hombre 100ml, 59.00,1.0, 48.00,VB,Inactive,,Cuidado personal,Perfumes,12
+YMX-1123,Crema Facial de Acido Hialurinico 50g, 48.00,40.0, 40.00,VB,Active,2027-03-01,Cuidado personal,Crema facial,12
+006-X2096,Removedor Corporal de Manchas Naranja XQM 100ml, 39.00,645.0, 42.00,Mayz,Active,2025-12-01,Cuidado personal,Crema blanqueadora,25
+006-X2097,Removedor Corporal Manchas Coconut XQM 100ml, 39.00,669.0, 42.00,Mayz,Active,2025-12-01,Cuidado personal,Crema blanqueadora,25
+006-485512,Crema Corporal Miya Avena 8 Oz, 45.00,0.0, 42.00,Mayz,Inactive,2024-06-30,Cuidado personal,Crema corporal,24
+006-SP404B,Crema Miya Corporal 15ozs Vitamina E, 45.00,2253.0, 42.00,Mayz,Active,2025-04-01,Cuidado personal,Crema corporal,12
+006-SP404A,Crema Miya Corporal 15ozs Aloe Vera, 45.00,2211.0, 42.00,Mayz,Active,2025-04-28,Cuidado personal,Crema corporal,12
+006-485516,Crema Miya Corporal Cocoa 12oz, 45.00,441.0, 42.00,Mayz,Active,2025-04-01,Cuidado personal,Crema corporal,24
+006-485515,Crema corporal Aloe Miya 12 Oz, 45.00,62.0, 42.00,Mayz,Active,2025-04-01,Cuidado personal,Crema corporal,24
+006-003994-2,Champu Sachet Vinilady Brillo Intenso, 29.00,0.0, 32.00,Mayz,Inactive,2025-02-01,Cuidado personal,Shampoo capilar,12
+006-003995-0,Champu Sachet Vinilady Ondas Y Cachos, 38.00,1.0, 32.00,Mayz,Inactive,2025-01-01,Cuidado personal,Shampoo capilar,12
+006-M1648,Mascarilla Hidroplastica Facial Tea Tree 120g, 49.00,555.0, 44.00,Mayz,Active,2025-12-01,Cuidado personal,Mascarilla facial,48
+006-M1647,Mascarilla Hidroplastica Facial de Olivo Skin White 120g, 49.00,738.0, 44.00,Mayz,Active,2025-12-01,Cuidado personal,Mascarilla facial,48
+006-FM08890,Crema para Pies Fasmc 100ml, 39.00,253.0, 37.00,Mayz,Active,2024-09-01,Cuidado personal,Crema para pies,36
+006-01086,Shampoo Olive`n Body 400ml, 75.00,12.0, 59.00,Mayz,Active,2025-08-01,Cuidado personal,Shampoo capilar,12
+046-U218570,Mascarilla Charcoal Beauty Formulas 100ml, 65.00,681.0, 59.00,Mayz,Active,2025-06-01,Cuidado personal,Mascarilla facial,12
+006-WKL52931,Crema Blanqueadora Wokali 100ml, 75.00,11.0, 69.00,Mayz,Inactive,2024-09-01,Cuidado personal,Crema blanqueadora,36
+046-U401240,Tónico Facial Vit C Beauty Formula 150ml, 82.00,411.0, 69.00,Mayz,Active,2026-01-01,Maquillaje,Tonico facial,6
+046-U423020,Limpiador Facial Vit C Beauty Formula 150ml, 82.00,156.0, 69.00,Mayz,Active,2026-01-01,Maquillaje,Desmaquillante ó Limpiador facial,12
+046-U325127,Parches de Gel Para Ojos Carbón Beauty Formula 6UND, 79.00,128.0, 67.00,Mayz,Active,2025-12-01,Maquillaje,Parche para ojos,6
+046-U401232,Crema Facial Hidratante de Dia Vit C Beauty Formulas 100ml, 79.00,756.0, 67.00,Mayz,Active,2025-12-01,Cuidado personal,Crema facial,12
+006-102884-7,Champu Vinilady 325ml Ondas, 68.00,3.0, 57.00,Mayz,Inactive,,Cuidado personal,Shampoo capilar,12
+006-003936-5,Champu Vinilady 325ml Vinilady Natural Relax, 59.00,29.0, 57.00,Mayz,Active,2025-05-01,Cuidado personal,Shampoo capilar,12
+006-000661-0,Champu Vinilady 325ml Liso Intenso, 68.00,3.0, 57.00,Mayz,Inactive,,Cuidado personal,Shampoo capilar,12
+006-000659-9,Champu Vinilady 325ml Vinilady Fuerza Maxima, 65.00,7.0, 57.00,Mayz,Inactive,2025-02-01,Cuidado personal,Shampoo capilar,12
+006-002985-8,Shampoo Anti Caspa Mentol For Men Vinilady 190ml, 89.00,21.0, 86.00,Mayz,Active,2025-03-01,Cuidado personal,Shampoo capilar,24
+006-003015-5,Kit Champu 330ml + Acond 310g Vinilady Forca Maxima, 109.00,12.0, 102.00,Mayz,Active,2025-03-01,Cuidado personal,Shampoo capilar,6
+006-002852-5,Protector Solar Karite & Vitamina E Fps50 Vinilady 120g, 189.00,6.0, 248.00,Mayz,Active,2024-11-01,Cuidado personal,Protector Solar,12
+S17-007,Tratamiento Para Cabello Coco 800g Stay, 108.00,1.0, 72.00,Stay,Inactive,2026-05-07,Cuidado personal,Tratamientos capilares,18
+S17-005,Tratamiento Para Cabello Argan 800g Stay, 108.00,18.0, 72.00,Stay,Inactive,2027-10-07,Cuidado personal,Tratamientos capilares,18
+S17-009,Tratamiento Para Cabello Aloe Y Keratina 800g Stay, 108.00,1.0, 71.00,Stay,Inactive,2027-11-30,Cuidado personal,Tratamientos capilares,18
+S32-001,Toallas Humedas 30 Hojas Pepino Stay, 25.00,0.0, 20.00,Stay,Inactive,2026-09-01,Cuidado personal,Toallas humedas,12
+S32-1160,Toallas Húmeda 100 Hojas Antibacterial, 57.00,81.0, 50.00,Stay,Active,2025-12-01,Cuidado personal,Toallas humedas,6
+S35-0606,Talco P/Pies 24 Horas, 48.00,0.0, 42.00,Stay,Inactive,2026-01-01,Cuidado personal,Talco,24
+S6-1140B,Sombra 2 En 1 Stay, 38.00,312.0, 33.00,Stay,Active,2025-07-01,Maquillaje,Sombra,24
+WA-035,Shampoo Y Acondicionador Wao 1380 Ml Coco, 286.00,24.0, 200.00,Stay,Active,2025-10-01,Cuidado personal,Shampoo capilar,6
+WA-034,Shampoo Y Acondicionador Wao 1380 Ml Aloe, 286.00,57.0, 200.00,Stay,Active,2025-10-01,Cuidado personal,Shampoo capilar,6
+S17-001,Shampoo Y Acondicionador Caja Oliva Stay, 128.00,0.0, 89.00,Stay,Inactive,2026-04-01,Cuidado personal,Shampoo capilar,24
+S17-023,Shampoo Y Acondicionador Caja Argan, 128.00,0.0, 89.00,Stay,Active,2025-07-01,Cuidado personal,Shampoo capilar,24
+S17-019,Shampoo Y Acondicionador 1000 Ml Oliva, 215.00,0.0, 150.00,Stay,Inactive,2026-02-01,Cuidado personal,Shampoo capilar,8
+S17-021,Shampoo Y Acondicionador Keratina 1000ml Stay, 215.00,0.0, 150.00,Stay,Inactive,2027-11-22,Cuidado personal,Shampoo capilar,8
+S17-024,Shampoo Y Acondicionador 1000 Ml Argan, 215.00,0.0, 150.00,Stay,Inactive,2026-02-01,Cuidado personal,Shampoo capilar,8
+S51-0923,Shampoo Ge Niño y Niña 1000ml, 149.00,5.0, 125.00,Stay,Inactive,,Cuidado personal,Shampoo capilar,8
+S23-1345,Shampoo Coco Brillante 500ml, 113.00,0.0, 79.00,Stay,Inactive,2026-05-01,Cuidado personal,Shampoo capilar,12
+S17-1121,Shampoo 1000ml Coconut, 95.00,88.0, 84.00,Stay,Active,2024-07-01,Cuidado personal,Shampoo capilar,16
+WA-218,Rubor WAO!, 40.00,48.0, 35.00,Stay,Active,2026-04-01,Maquillaje,Blusher,24
+WA-221,Mascara de Pestaña Azul WAO! 24H, 29.00,120.0, 35.00,Stay,Active,2024-03-22,Maquillaje,Mascara,24
+S8-1005,Mascara de Pestaña Stay 2 En 1, 42.00,575.0, 37.00,Stay,Active,2026-12-01,Maquillaje,Mascara,24
+S36-001,Puntero Pincel De Uñas 5 Pcs, 45.00,300.0, 40.00,Stay,Active,2029-01-01,Maquillaje,Uñas,12
+S3-011,Protector Solar 50 SPF Stay, 72.00,72.0, 50.00,Stay,Active,2026-11-30,Cuidado personal,Protector Solar,36
+S2-0658,Pinza Para Ceja Muñeca, 19.00,1.0, 16.00,Stay,Inactive,,Cuidado personal,Crema depiladora,12
+S2-0868,Pinza Depiladora para Ceja Stay, 19.00,6.0, 16.00,Stay,Active,2029-01-01,Cuidado personal,Crema depiladora,12
+S2-0511,Pala Y Lima De Pedicure 4 En 1, 48.00,3.0, 40.00,Stay,Inactive,2029-01-01,Cuidado personal,Pala para pedicure,12
+S2-0063,Pala Para Pedicure Plastica, 23.00,0.0, 19.00,Stay,Inactive,2029-01-01,Cuidado personal,Pala para pedicure,12
+S2-0066,Pala Para pies Metalica Stay, 20.00,185.0, 17.00,Stay,Active,2029-01-01,Cuidado personal,Pala para pedicure,12
+S26-004,Navaja De Belleza 2 En 1, 23.00,636.0, 20.00,Stay,Active,2029-01-01,Cuidado personal,Navaja para barba,12
+S40-1021,Mascarilla Hidroplastica Facial de Pepino Stay, 59.00,222.0, 57.00,Stay,Active,2024-04-01,Cuidado personal,Mascarilla facial,12
+S18-002,Mascarilla Facial De Pepino Stay, 20.00,438.0, 17.00,Stay,Active,2024-07-01,Cuidado personal,Mascarilla facial,10
+S18-001,Mascarilla Facial De Aloe Vera Stay, 20.00,431.0, 17.00,Stay,Active,2024-07-01,Cuidado personal,Mascarilla facial,10
+S18-003,Mascarilla Facial De Aguacate Stay, 20.00,999.0, 17.00,Stay,Active,2024-07-01,Cuidado personal,Mascarilla facial,10
+WA-009,Locion Refrescante After Shave P/Hombre 8 Onzas, 39.00,2.0, 44.00,Stay,Inactive,2023-11-01,Cuidado personal,Barbería,24
+S35-008,Locion Corporal Intense 532ml, 78.00,0.0, 54.00,Stay,Inactive,2026-01-01,Cuidado personal,Crema corporal,12
+S35-005,Locion Corporal Aloe Vera 532ml, 78.00,81.0, 54.00,Stay,Active,2026-01-01,Cuidado personal,Crema corporal,12
+S35-023,Limpiador Facial Verde 200ml, 63.00,431.0, 44.00,Stay,Active,2026-01-01,Maquillaje,Desmaquillante ó Limpiador facial,24
+S35-0939,Limpiador Facial Rosado 200ml, 63.00,447.0, 44.00,Stay,Active,2026-01-01,Maquillaje,Desmaquillante ó Limpiador facial,24
+S2-0581,Limpia Cutícula Stay, 20.00,84.0, 15.00,Stay,Active,2029-01-01,Maquillaje,Uñas,12
+S2-0061,Lima Para Uña Stay, 12.00,270.0, 10.00,Stay,Active,2029-01-01,Cuidado personal,Lima manicure,12
+S2-0925,Lima Para Pedicure Azucar, 29.00,276.0, 25.00,Stay,Active,2029-01-01,Cuidado personal,Lima manicure,12
+S2-0771,Lima Para Pedicure Stay, 12.00,361.0, 10.00,Stay,Active,2029-01-01,Cuidado personal,Lima manicure,12
+S33-004,Jabon Para Manos Stay 413ml Mint, 45.00,19.0, 40.00,Stay,Active,2023-04-01,Cuidado personal,Jabón para manos,12
+S33-008,Jabon Para Manos Stay 413ml Apple, 45.00,37.0, 40.00,Stay,Active,2023-04-01,Cuidado personal,Jabón para manos,12
+S27-002,Serum Para Cabello Stay Olive, 65.00,0.0, 58.00,Stay,Inactive,2025-09-01,Cuidado personal,Serum capilar,12
+S11-1066,Formador Barba Stay, 21.00,84.0, 18.00,Stay,Active,2029-01-01,Cuidado personal,Barbería,12
+S23-008,Exfoliante Para Rostro Menta 500ml, 162.00,6.0, 113.00,Stay,Inactive,2025-01-01,Cuidado personal,Exfoliante corporal,24
+S23-1165,Exfoliante Para Rostro Frutos Silvestres 500ml Stay, 149.00,6.0, 113.00,Stay,Inactive,2025-08-01,Cuidado personal,Exfoliante corporal,24
+S23-001,Exfoliante Para Rostro Durazno 500ml, 162.00,6.0, 113.00,Stay,Inactive,2025-01-01,Cuidado personal,Exfoliante corporal,24
+S23-009,Exfoliante Para Rostro Avena Y Miel 500ml Stay, 149.00,103.0, 113.00,Stay,Active,2025-08-01,Cuidado personal,Exfoliante corporal,24
+WA-007,Exfoliante Facial Wao 250ml, 66.00,663.0, 47.00,Stay,Active,2023-11-01,Cuidado personal,Exfoliante corporal,12
+S35-1151,Exfoliante Facial Frutos Silvestres. 6 Oz 170g, 66.00,230.0, 47.00,Stay,Active,2023-11-01,Cuidado personal,Exfoliante corporal,24
+S35-0711,Exfoliante Corporal Mango Y Naranja 532ml, 69.00,0.0, 47.00,Stay,Inactive,2027-10-01,Cuidado personal,Exfoliante corporal,12
+S35-001,Exfoliante Corporal Green Tea 532ml, 69.00,1.0, 47.00,Stay,Inactive,2026-07-01,Cuidado personal,Exfoliante corporal,12
+S35-003,Exfoliante Corporal Cocoa 532ml, 69.00,1.0, 47.00,Stay,Inactive,2027-12-01,Cuidado personal,Exfoliante corporal,12
+S35-0712,Exfoliante Corporal Berry Blast 532ml, 69.00,0.0, 47.00,Stay,Inactive,2027-10-01,Cuidado personal,Exfoliante corporal,12
+S35-002,Exfoliante Corporal Aloe Vera 532ml Stay, 69.00,0.0, 47.00,Stay,Inactive,2026-07-01,Cuidado personal,Exfoliante corporal,12
+S2-0796,Esponja Facial Makeup Puff, 26.00,120.0, 23.00,Stay,Active,2029-01-01,Maquillaje,Esponjas de maquillaje,12
+S2-0361,Esponja Facial Exfoliante Stay, 24.00,311.0, 21.00,Stay,Active,2029-01-01,Maquillaje,Esponjas de maquillaje,12
+S20-10AS,Esmalte Para Uña 4 Tonos Pasteles, 20.00,7.0, 17.00,Stay,Inactive,,Maquillaje,Uñas,12
+S20-05AS,Esmalte Para Uña 12 Colores, 20.00,492.0, 17.00,Stay,Active,2026-01-01,Maquillaje,Uñas,12
+S2-0866,Encrespadora de Pestaña Stay, 30.00,225.0, 25.00,Stay,Active,2029-01-01,Maquillaje,Encrespador,12
+S2-0971,Desmaquillante Facial, 67.00,12.0, 59.00,Stay,Active,2025-12-01,Maquillaje,Desmaquillante ó Limpiador facial,12
+S40-1150,Agua Micelar Desmaquillante Stay, 73.00,32.0, 62.00,Stay,Active,2026-03-01,Maquillaje,Desmaquillante ó Limpiador facial,24
+S6-1362,Delineador 5D Waterprof, 44.00,108.0, 39.00,Stay,Active,2026-03-22,Maquillaje,Delineador,12
+S6-1234,Delineador Lapiz, 11.00,1.0, 9.00,Stay,Inactive,2028-03-01,Maquillaje,Delineador,48
+WA-048,Crema Para Peinar 250ml Romero Wao!, 85.00,49.0, 66.00,Stay,Active,2025-12-01,Cuidado personal,Crema capilar,48
+WA-049,Crema Para Peinar 250ml Coco Wao, 85.00,89.0, 66.00,Stay,Active,2027-11-15,Cuidado personal,Crema capilar,12
+WA-050,Crema Para Peinar 250ml Aloe Wao!, 85.00,63.0, 66.00,Stay,Active,2026-05-15,Cuidado personal,Crema capilar,12
+S23-0538,Crema para Peinar Olive 300ml Stay, 98.00,1.0, 68.00,Stay,Inactive,2025-12-01,Cuidado personal,Crema capilar,48
+S35-015,Crema depiladora de Aloe Vera, 72.00,0.0, 47.00,Stay,Inactive,2027-10-18,Cuidado personal,Crema depiladora,12
+S23-1346,Crema Para Peinar Y Tratamiento Coco 500ml Stay, 118.00,129.0, 82.00,Stay,Active,2026-03-22,Cuidado personal,Tratamientos capilares,12
+S23-1350,Crema para Peinar Y Tratamiento Aloe Vera 500ml, 118.00,1.0, 82.00,Stay,Inactive,2025-11-01,Cuidado personal,Tratamientos capilares,12
+S6-1364,Corrector de color Stay, 58.00,120.0, 51.00,Stay,Active,2027-03-01,Maquillaje,Corrector,24
+S2-0618,Brocha De Barbero, 55.00,520.0, 46.00,Stay,Active,2029-01-01,Cuidado personal,Brochas barbero,12
+S16-002,Base con Vitamina E y SPF 30+, 44.00,96.0, 39.00,Stay,Active,2026-05-01,Maquillaje,Base de maquillaje,24
+A163,Delineador doble a prueba de Agua, 24.00,144.0, 18.45,BISUTERIA,Active,2025-12-01,Maquillaje,Delineador,48
+0457,Base Liquida Acabado Radiante Y Humectante Top Face, 13.00,168.0, 11.00,VB,Active,2027-08-01,Maquillaje,Base de maquillaje,24
+006-485514,Crema corporal Miya 12oz Avena, 45.00,115.0, 42.00,Mayz,Active,2025-04-30,Cuidado personal,Crema corporal,24
+LC911,Bálsamo Para Labios Magic corazón doble, 13.00,0.0, 11.00,VB,Inactive,2027-11-01,Maquillaje,Labios,12
+B853,Perfume Boos The Scent Brown 100ml, 89.00,44.0, 75.00,VB,Active,,Cuidado personal,Perfumes,12
+B0015-BD-1,Body Spray Fly Away 250ml, 76.00,0.0, 68.25,Ushas,Inactive,2028-12-01,Cuidado personal,Fragancias,12
+WA-174,Polvo Compacto WAO!, 37.00,264.0, 32.00,Stay,Active,2025-12-01,Maquillaje,Polvo compacto,24
+ST3311,Corrector Vitality Anthaway, 13.00,216.0, 11.00,VB,Active,2028-05-13,Maquillaje,Corrector,24
+F-A20,Body Victoria's Fleur Face & Love 250ml, 77.00,0, 65.00,VB,Inactive,,Cuidado personal,Fragancias,12
+RC-20,Brochas 5 Piezas, 26.00,0, 22.00,VB,Inactive,,Maquillaje,Brochas para maquillar,12
+B0018-BO,Crema Corporal Le Temps B0018-BO, 57.00,0, 48.00,VB,Inactive,,Cuidado personal,Crema corporal,12
+B0018-MC,Crema Corporal Pink in Sweet Escarchada B0018-MC, 57.00,13.0, 48.00,VB,Inactive,,Cuidado personal,Crema corporal,12
+DS5264,Crema Facial Hidratante Antiarrugas Y Antiedad Disaar 120g, 48.00,0, 40.00,VB,Inactive,,Cuidado personal,Crema facial,12
+006-002817-7,Crema Para Peinar Coco Nutrición 290gr, 68.00,0, 57.00,Mayz,Inactive,,Cuidado personal,Crema capilar,24
+006-002519-4,Crema Para Peinar Vinilady Brillo Intenso 290gr, 68.00,0, 57.00,Mayz,Inactive,,Cuidado personal,Crema capilar,24
+S8-007,Delineador De Ojos En Gel 24 horas Negro, 48.00,0, 42.00,Stay,Inactive,,Maquillaje,Delineador,12
+S8-007M,Delineador De Ojos En Gel Chocolate y Cafe, 43.00,0, 42.00,Stay,Inactive,,Maquillaje,Delineador,12
+S2-0123,Espejo personal Stay, 40.00,0, 32.00,Stay,Inactive,,Maquillaje,Espejo,12
+006-003767-2,Kit Champu 330ml + Acond 310g Vinilady Boom, 120.00,0, 102.00,Mayz,Inactive,,Cuidado personal,Shampoo capilar,6
+DS5260,Limpiador Facial Limpieza Profunda Acabado Iluminador Disaar 200g, 59.00,0, 50.00,VB,Inactive,,Maquillaje,Desmaquillante ó Limpiador facial,12
+2690702,Parche para Ojos, 4.00,0, 3.07,BISUTERIA,Inactive,,Maquillaje,Parche para ojos,10
+OLU938-15,Perfume Lacoste para mujer 100ml, 59.00,0, 48.00,VB,Inactive,,Cuidado personal,Perfumes,12
+OLU909-32,Perfume Tubular Vercage Eros, 22.00,0, 18.00,VB,Inactive,,Cuidado personal,Perfumes,24
+JM-695,Pestañas 5pcs, 36.00,0, 30.00,VB,Inactive,,Maquillaje,Articulos para pestañas,12
+SC807,Polvo Contorno Scalon Happy, 38.00,0, 32.00,VB,Inactive,,Maquillaje,Polvo compacto,12
+S17-026,Shampoo Y Acondicionador 1000 ML Coco, 215.00,11.0, 150.00,Stay,Active,,Cuidado personal,Shampoo capilar,8
+S17-022,Shampoo Y Acondicionador Caja Keratina, 128.00,0, 89.00,Stay,Inactive,,Cuidado personal,Shampoo capilar,24
+T-70014,Sombra Para Ojos, 53.00,0, 45.00,VB,Inactive,,Maquillaje,Sombra,12
+LC915,Tinte Para Labios Magic conejito cesta, 13.00,0, 11.00,VB,Inactive,,Maquillaje,Labios,24
+LC835,Tinte Para Labios Magic Dear Darling, 13.00,0, 11.00,VB,Inactive,,Maquillaje,Labios,12
+S32-002,Toallas Humedas 30 Hojas Sábila Stay, 25.00,0, 20.00,Stay,Inactive,,Cuidado personal,Toallas humedas,12
+OLU938-23,Perfume King of Seduction, 59.00,36.0, 48.00,VB,Active,,Cuidado personal,Perfumes,12
+OLU938-30,Perfume Disell, 59.00,18.0, 48.00,VB,Active,,Cuidado personal,Perfumes,12
+OLU938-32,Perfume Bozzs para mujer, 59.00,2.0, 48.00,VB,Inactive,,Cuidado personal,Perfumes,12
+OLU938-4,Perfume For Alway, 59.00,0.0, 48.00,VB,Inactive,,Cuidado personal,Perfumes,12
+OLU938-5,Perfume 2i2 VIP Men, 59.00,162.0, 48.00,VB,Active,,Cuidado personal,Perfumes,12
+OLU938-57,Perfume Invictus V, 59.00,156.0, 48.00,VB,Active,,Cuidado personal,Perfumes,12
+B926,Perfume I Can, 85.00,12.0, 72.00,VB,Active,,Cuidado personal,Perfumes,12
+B721-3,Perfume Invictus Negro, 109.00,108.0, 90.00,VB,Active,,Cuidado personal,Perfumes,12
+B721,Perfume Invictus Gris, 109.00,108.0, 99.00,VB,Active,,Cuidado personal,Perfumes,12
+B693,Perfume Giiq, 72.00,47.0, 68.00,VB,Active,,Cuidado personal,Perfumes,12
+B807,Perfume La vida es bella, 107.00,0.0, 84.00,VB,Inactive,,Cuidado personal,Perfumes,12
+B17,Perfume Dolce & Gabbana, 136.00,0.0, 115.00,VB,Inactive,,Cuidado personal,Perfumes,12
+S17-002,Shampoo Y Acondicionador Caja Romero Stay, 128.00,0.0, 89.00,Stay,Inactive,,Cuidado personal,Shampoo capilar,24
+S17-004,Shampoo Y Acondicionador Caja Aloe Vera Stay, 128.00,0.0, 89.00,Stay,Active,,Cuidado personal,Shampoo capilar,24
+WA-033,Shampoo Y Acondicionador Wao 1380 Ml Romero, 286.00,12.0, 200.00,Stay,Active,,Cuidado personal,Shampoo capilar,6
+S17-025,Shampoo Y Acondicionador Cola de caballo Romero 1000ml Stay, 215.00,12.0, 145.00,Stay,Active,,Cuidado personal,Shampoo capilar,8
+S17-020,Shampoo Y Acondicionador Aloe Vera 1000ml Stay, 215.00,0.0, 145.00,Stay,Active,,Cuidado personal,Shampoo capilar,8
+R182,Balsamo para labios Paleta Romantic, 15.00,0.0, 11.76,VB,Inactive,,Maquillaje,Labios,24
+LG2519,Labial Matte Ushas, 25.00,0.0, 21.18,VB,Inactive,,Maquillaje,Labios,24
+FC647,Iluminador My Custom, 52.00,0.0, 44.71,VB,Inactive,,Maquillaje,Iluminadores,24
+LC1102,Brillo Labial Magic, 20.00,0.0, 17.00,VB,Inactive,,Maquillaje,Labios,24
+M19-50,Delineador fino negro Gala Fever Million Pauline, 32.00,0.0, 18.00,VB,Inactive,,Maquillaje,Delineador,24
+161-SHVD1LTM,Shampoo & Acondicionador Vida 1000ml Menta, 279.00,1219.0, 115.00,AjSiles,Active,2027-06-24,Cuidado personal,Shampoo capilar,12
+161-SHVD500M,Shampoo & Acondicionador Vida 500ml Menta, 169.00,2301.0, 69.00,AjSiles,Active,2027-06-24,Cuidado personal,Shampoo capilar,12
+161-TRVD500M,Tratamiento VIDA 500ml Menta, 129.00,722.0, 53.00,AjSiles,Active,2027-06-25,Cuidado personal,Tratamientos capilares,48
+161-SHVD1LTGR,Shampoo & Acondicionador Vida 1000ml Ginger, 279.00,1235.0, 115.00,AjSiles,Active,2027-06-25,Cuidado personal,Shampoo capilar,12
+161-SHVD500GR,Shampoo & Acondicionador Vida 500ml Ginger, 169.00,2311.0, 69.00,AjSiles,Active,2027-06-25,Cuidado personal,Shampoo capilar,12
+161-TRVD500GR,Tratamiento VIDA 500ml Ginger, 129.00,747.0, 53.00,AjSiles,Active,2027-06-25,Cuidado personal,Tratamientos capilares,48
+161-SHVD1LTARG,Shampoo & Acondicionador Vida 1000ml Argan, 279.00,1232.0, 115.00,AjSiles,Active,2027-06-25,Cuidado personal,Shampoo capilar,12
+161-SHVD500ARG,Shampoo & Acondicionador Vida 500ml Argan, 169.00,2311.0, 69.00,AjSiles,Active,2027-06-25,Cuidado personal,Shampoo capilar,12
+161-TRVD500ARG,Tratamiento VIDA 500ml Argan, 129.00,723.0, 53.00,AjSiles,Active,2027-06-25,Cuidado personal,Tratamientos capilares,48
+161-SHVD1LTKT,Shampoo & Acondicionador Vida 1000ml Keratina, 279.00,1231.0, 115.00,AjSiles,Active,2027-06-25,Cuidado personal,Shampoo capilar,12
+161-SHVD500KT,Shampoo & Acondicionador Vida 500ml Keratina, 169.00,2305.0, 69.00,AjSiles,Active,2027-06-25,Cuidado personal,Shampoo capilar,12
+161-TRVD500KT,Tratamiento VIDA 500ml Keratina, 129.00,729.0, 53.00,AjSiles,Active,2027-06-25,Cuidado personal,Tratamientos capilares,48
+161-SHVDT500CO,Shampoo Tinte VIDA Castaño Oscuro 500ml, 129.00,9232.0, 53.00,AjSiles,Active,2027-06-25,Cuidado personal,Shampoo capilar,48
+161-SHVDT500CN,Shampoo Tinte VIDA Castaño Natural 500ml, 129.00,9241.0, 53.00,AjSiles,Active,2027-06-25,Cuidado personal,Shampoo capilar,48
+161-SHVDT500N,Shampoo Tinte VIDA Negro 500ml, 129.00,18875.0, 53.00,AjSiles,Active,2027-06-25,Cuidado personal,Shampoo capilar,48
+CD2203-15,PERFUME HAYA, 75.00,0.0, 60.00,VB,Inactive,2029-07-22,Cuidado personal,Perfumes,12
+CD2203-11,PERFUME DIMMAH, 75.00,12.0, 60.00,VB,Inactive,,Cuidado personal,Perfumes,12
+CD2203-2,PERFUME AMEERAT AL ARAB, 75.00,0.0, 60.00,VB,Inactive,,Cuidado personal,Perfumes,12
+CD2203-13,PERFUME HEIBAH, 75.00,0.0, 60.00,VB,Inactive,,Cuidado personal,Perfumes,12
+BC9004,PERFUME BLOSSOM CANDY 88, 50.00,30.0, 40.00,VB,Active,,Cuidado personal,Perfumes,12
+BC9007,PERFUME 95, 50.00,42.0, 40.00,VB,Active,,Cuidado personal,Perfumes,12
+BC9002,PERFUME BLOSSOM CANDY 04, 50.00,30.0, 40.00,VB,Active,,Cuidado personal,Perfumes,12
+BC9003,PERFUME BLOSSOM CANDY 92, 50.00,18.0, 40.00,VB,Active,,Cuidado personal,Perfumes,12
+BW1004,PERFUME SPRAY GRAPE, 60.00,0.0, 48.00,VB,Inactive,,Cuidado personal,Perfumes,18
+BW1001,PERFUME SPRAY STRAWBERRY, 60.00,0.0, 48.00,VB,Inactive,,Cuidado personal,Perfumes,18
+BW1007,PERFUME SPRAY PINK CHERRY, 60.00,0.0, 48.00,VB,Inactive,,Cuidado personal,Perfumes,18
+BW1002,PERFUME SPRAY HONEY PEACH, 60.00,0.0, 48.00,VB,Inactive,,Cuidado personal,Perfumes,18
+CD002,PERFUME CARAMELO YOU CRACK, 85.00,90.0, 68.00,VB,Active,,Cuidado personal,Perfumes,18
+CD003,PERFUME CARAMELO SOMEBUNNY, 85.00,84.0, 68.00,VB,Active,,Cuidado personal,Perfumes,18
+CD008,PERFUME CARAMELO ETERNAL SUNFLOWER, 85.00,84.0, 68.00,VB,Active,,Cuidado personal,Perfumes,18
+CD016,PERFUME CARAMELO LOVE, 85.00,84.0, 68.00,VB,Active,,Cuidado personal,Perfumes,18
+29029-47,Balsamo para Labios Karité, 15.00,168.0, 12.00,VB,Active,2028-12-01,Maquillaje,Labios,24
+M-34-C,Lapiz para cejas Miss Demi, 15.00,336.0, 12.00,VB,Active,,Maquillaje,Articulos para Cejas,48
+8035,Balsamo para Labios, 9.00,0.0, 7.20,VB,Inactive,2028-11-01,Maquillaje,Labios,24
+HL5696,Mascara Hold Morning, 12.00,240.0, 9.60,VB,Active,2028-05-10,Maquillaje,Mascara,24
+DR-F2303,Base Dawang Rose, 13.00,216.0, 10.40,VB,Active,2027-07-01,Maquillaje,Base de maquillaje,24
+HB5581,Balsamo Hold Morning, 13.00,48.0, 10.40,VB,Active,2028-04-10,Maquillaje,Labios,24
+HL5636,Brillo para labios Hold Morning, 15.00,240.0, 12.00,VB,Active,2028-05-01,Maquillaje,Labios,24
+HB5598,Balsamo Hold Morning, 12.00,144.0, 9.60,VB,Active,2028-05-01,Maquillaje,Labios,24
+AL010,Lápiz Labial y Brillo Aozy, 27.00,168.0, 22.40,VB,Active,2028-04-01,Maquillaje,Labios,24
+36597-47,Lapiz Labial Booster Magic Karite, 17.00,120.0, 14.40,VB,Active,2029-01-01,Maquillaje,Labios,24
+L3519,Rubor Liquido Only Beauty, 38.00,204.0, 32.00,VB,Active,2027-11-01,Maquillaje,Blusher,12
+PB3079,Rubor Liquido Pink Key, 33.00,144.0, 28.00,VB,Active,2028-05-01,Maquillaje,Blusher,24
+DO2406,Set de Uñas Pink Key, 30.00,98.0, 24.00,VB,Active,,Maquillaje,Uñas,12
+70959-03,Serum para Labios  Kiss Beauty, 21.00,168.0, 17.60,VB,Active,2029-05-01,Maquillaje,Labios,24
+71071-03B,Agrandador de Labios Kiss Beauty, 25.00,144.0, 20.80,VB,Active,2028-11-01,Maquillaje,Labios,24
+AL016,Brillo Labial Aozy, 17.00,96.0, 14.40,VB,Active,,Maquillaje,Labios,24
+51365-47,Colorante para labios y mejias Karité, 33.00,120.0, 28.00,VB,Active,2029-06-01,Maquillaje,Labios,24
+PK7793,Corrector e Iluminador Pink Key, 38.00,192.0, 32.00,VB,Active,2028-05-01,Maquillaje,Corrector,24
+PK-044,Rubor en crema Pink Key, 29.00,242.0, 24.00,VB,Active,2029-06-01,Maquillaje,Blusher,24
+AL022,Brillo para labios Aozy, 19.00,96.0, 16.00,VB,Active,2028-04-01,Maquillaje,Labios,24
+M-31,Lápiz para cejas Miss Demi, 12.00,336.0, 9.60,VB,Active,,Maquillaje,Articulos para Cejas,48
+M-23,Lapiz para labios Miss Demi, 10.00,76.0, 8.00,VB,Active,,Maquillaje,Labios,48
+M-32,Lapiz para cejas Miss Demi, 12.00,480.0, 9.60,VB,Active,,Maquillaje,Articulos para Cejas,48
+HL5687,Aceite para labios  Hold Morning, 15.00,144.0, 12.00,VB,Active,2028-05-01,Maquillaje,Labios,24
+HL5688,Aceite para labios Hold Morning, 15.00,120.0, 12.00,VB,Active,2028-08-01,Maquillaje,Labios,24
+BBW1006,Body Spray Red Rose, 57.00,72.0, 48.00,VB,Active,,Cuidado personal,Perfumes,18
+BBW1001,Body Spray Strawberry, 57.00,42.0, 48.00,VB,Active,,Cuidado personal,Perfumes,18
+BBW1002,Body Spray Honey Peach, 57.00,116.0, 48.00,VB,Active,,Cuidado personal,Perfumes,18
+BBW1003,Body Spray Hami Melon, 57.00,71.0, 48.00,VB,Active,,Cuidado personal,Perfumes,18
+BBW1004,Body Spray Grape, 57.00,46.0, 48.00,VB,Active,,Cuidado personal,Perfumes,18
+BBW1005,Body Spray Grapefruit, 57.00,72.0, 48.00,VB,Active,,Cuidado personal,Perfumes,18
+BBW1007,Body Spray Pink Cherry, 57.00,48.0, 48.00,VB,Active,,Cuidado personal,Perfumes,18
+BBW1008,Body Spray Green Cactus, 57.00,53.0, 48.00,VB,Active,,Cuidado personal,Perfumes,18
+BBW1009,Body Spray Purple Orchid, 57.00,72.0, 48.00,VB,Active,,Cuidado personal,Perfumes,18
+BBW1010,Body Spray Yellow Daisy, 57.00,71.0, 48.00,VB,Active,,Cuidado personal,Perfumes,18
+HB5608,Balsamo para labios Hold Morning, 15.00,288.0, 12.00,VB,Active,2028-05-10,Maquillaje,Labios,24
+HB5610,Balsamo para labios Hold Morning, 15.00,288.0, 12.00,VB,Active,2028-07-09,Maquillaje,Labios,24
+L9112,Brillo Labial Only Beauty, 22.00,288.0, 18.40,VB,Active,,Maquillaje,Labios,24
+AL020,Brillo Labial Aozy, 15.00,288.0, 12.00,VB,Active,2028-08-09,Maquillaje,Labios,24
+1129,Polvo de Hadas RPK, 19.00,576.0, 16.00,VB,Active,2028-04-01,Maquillaje,Iluminadores,24
+GJ7198,Protector Solar GuanJing, 33.00,144.0, 28.00,VB,Active,2029-01-09,Cuidado personal,Protector Solar,12
+OLU518,Perfume Men 2i2 Gris, 76.00,192.0, 64.00,VB,Active,,Cuidado personal,Perfumes,12
+OLU518-1,Perfume 2i2 Sexy Men, 76.00,96.0, 64.00,VB,Active,,Cuidado personal,Perfumes,12
+B924,Perfume Bozzs Primary, 90.00,96.0, 76.00,VB,Active,,Cuidado personal,Perfumes,12
+B924-2,Perfume Bozzs Golden, 90.00,96.0, 76.00,VB,Active,,Cuidado personal,Perfumes,12
+B810,Perfume Olumapea, 128.00,192.0, 108.00,VB,Active,,Cuidado personal,Perfumes,12
+B810-1,Perfume Olumapea Aqua, 128.00,192.0, 108.00,VB,Active,,Cuidado personal,Perfumes,12
+B519-1,Perfume 2i2 Vip Rose, 128.00,96.0, 108.00,VB,Active,,Cuidado personal,Perfumes,12
+B519-2,Perfume Vip Wild, 128.00,96.0, 108.00,VB,Active,,Cuidado personal,Perfumes,12
+MY002,Perfume Inversion Intense Gray, 85.00,96.0, 72.00,VB,Active,,Cuidado personal,Perfumes,12
+MY002-1,Perfume Inversion Intense Black, 85.00,96.0, 72.00,VB,Active,,Cuidado personal,Perfumes,12
+MY002-2,Perfume Inversion Intense White, 85.00,96.0, 72.00,VB,Active,,Cuidado personal,Perfumes,12
+MY017,Perfume To my Boy, 85.00,96.0, 72.00,VB,Active,,Cuidado personal,Perfumes,12
+MY018,Perfume Lakocite Black, 85.00,96.0, 72.00,VB,Active,,Cuidado personal,Perfumes,12
+MY034,Perfume Daicy So Sweet, 85.00,96.0, 72.00,VB,Active,,Cuidado personal,Perfumes,12
+MY049,Perfume La Vida Bella, 85.00,96.0, 72.00,VB,Active,,Cuidado personal,Perfumes,12
+MY049-1,Perfume La Vida Bella, 85.00,96.0, 72.00,VB,Active,,Cuidado personal,Perfumes,12
+MY049-2,Perfume La Vida Bella, 85.00,96.0, 72.00,VB,Active,,Cuidado personal,Perfumes,12
+OLU4001,Perfume Invictus Set, 142.00,48.0, 120.00,VB,Active,,Cuidado personal,Perfumes,12
+OLU4002,Perfume Blue de Chinela Set, 142.00,48.0, 120.00,VB,Active,,Cuidado personal,Perfumes,12
+OLU4003,Perfume 717 IMP Men Set, 142.00,48.0, 120.00,VB,Active,,Cuidado personal,Perfumes,12
+OLU4004,Perfume 1 Million Set, 142.00,48.0, 120.00,VB,Active,,Cuidado personal,Perfumes,12
+OLU4006,Perfume La Vida Bella Set, 142.00,48.0, 120.00,VB,Active,,Cuidado personal,Perfumes,12
+OLU4007,Perfume Olumapea Set, 142.00,48.0, 120.00,VB,Active,,Cuidado personal,Perfumes,12
+OLU4008,Perfume Sexy Scandal Set, 142.00,48.0, 120.00,VB,Active,,Cuidado personal,Perfumes,12
+OLU4009,Perfume Lady Million Set, 142.00,48.0, 120.00,VB,Active,,Cuidado personal,Perfumes,12

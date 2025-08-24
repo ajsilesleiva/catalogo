@@ -1,0 +1,397 @@
+<html lang="es">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Comisiones por vendedor – Zoho Books</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <style>
+        :root {
+            --bg: #212529;
+            --card: #111827;
+            --muted: #94a3b8;
+            --text: #e5e7eb;
+            --accent: #22c55e;
+            --danger: #ef4444;
+            --border: #1f2937;
+        }
+
+        html,
+        body {
+            height: 100%;
+        }
+
+        body {
+            margin: 0;
+            font-family: system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, "Helvetica Neue", Arial;
+            background: var(--bg);
+            color: var(--text);
+        }
+
+        .container {
+            max-width: 90%;
+            margin: 32px auto;
+            padding: 0 16px;
+        }
+
+        .card {
+            background: var(--card);
+            border: 1px solid var(--border);
+            border-radius: 16px;
+            padding: 20px;
+            box-shadow: 0 10px 25px rgba(0, 0, 0, .25);
+        }
+
+        h1 {
+            font-size: 24px;
+            margin: 0 0 12px 0
+        }
+
+        .muted {
+            color: var(--muted);
+            font-size: 14px
+        }
+
+        .grid {
+            display: grid;
+            grid-template-columns: repeat(12, 1fr);
+            gap: 12px
+        }
+
+        .field {
+            display: flex;
+            flex-direction: column;
+            gap: 6px
+        }
+
+        label {
+            font-size: 13px;
+            color: var(--muted)
+        }
+
+        input,
+        select,
+        button {
+            border-radius: 10px;
+            border: 1px solid var(--border);
+            background: #0b1220;
+            color: var(--text);
+        }
+
+        input,
+        select {
+            padding: 10px
+        }
+
+        button {
+            padding: 10px 14px;
+            cursor: pointer
+        }
+
+        .btn {
+            background: #0b1220;
+            border: 1px solid #243148
+        }
+
+        .btn-primary {
+            background: var(--accent);
+            border-color: #16a34a;
+            color: #07110a;
+            font-weight: 600
+        }
+
+        .btn-ghost {
+            background: transparent;
+            border-color: #243148
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 16px;
+             background: var(--card);
+        }
+
+        #tabla thead th {
+            position: sticky;
+            top: 0;
+            background-color: #1e1e2f;
+            /* color de fondo del header (ajústalo a tu tema oscuro) */
+            color: #fff;
+            /* color de texto */
+            z-index: 2;
+            /* asegura que quede encima de las filas */
+            padding: 8px;
+            border-bottom: 2px solid #444;
+            /* línea separadora */
+        }
+
+        #tabla tbody td {
+            padding: 6px 8px;
+            border-bottom: 1px solid #333;
+        }
+
+        /* línea separadora */
+        th,
+        td {
+            padding: 10px;
+            border-bottom: 1px solid var(--border);
+            text-align: left
+        }
+
+        th {
+            font-size: 12px;
+            text-transform: uppercase;
+            letter-spacing: .06em;
+            color: var(--muted)
+        }
+
+        tfoot td {
+            font-weight: 700;
+            border-top: 2px solid var(--border)
+        }
+
+        .right {
+            text-align: right
+        }
+
+        .status {
+            display: inline-block;
+            padding: 2px 8px;
+            border-radius: 999px;
+            border: 1px solid #2a364d;
+            color: #9fb2d6;
+            font-size: 12px
+        }
+
+        .row-actions {
+            white-space: nowrap
+        }
+
+        .pill {
+            display: inline-flex;
+            gap: 6px;
+            align-items: center;
+            padding: 6px 10px;
+            border: 1px solid #223047;
+            border-radius: 999px;
+            color: #a3e3bb;
+            background: rgba(34, 197, 94, .08)
+        }
+
+        .warn {
+            color: #ffb4b4;
+            background: rgba(239, 68, 68, .08);
+            border-color: #4b2228
+        }
+
+        .flex {
+            display: flex;
+            gap: 10px;
+            align-items: center
+        }
+
+        .mt-2 {
+            margin-top: 8px
+        }
+
+        .mt-3 {
+            margin-top: 12px
+        }
+
+        .mt-4 {
+            margin-top: 16px
+        }
+
+        .mt-6 {
+            margin-top: 24px
+        }
+
+        .hidden {
+            display: none
+        }
+
+        /* Fila bonificada (total 0, sin base ni comisión) */
+        tr.bonificacion {
+            opacity: .65;
+            background: rgba(148, 163, 184, .08);
+            /* gris suave */
+        }
+
+        /* Insignia BONIFICACIÓN */
+        .badge-bonificacion {
+            display: inline-block;
+            padding: 2px 8px;
+            margin-left: 8px;
+            font-size: 11px;
+            font-weight: 600;
+            border-radius: 999px;
+            border: 1px solid #334155;
+            color: #e2e8f0;
+            background: #0b1220;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <div class="card">
+            <h1>Comisiones por vendedor</h1>
+            <!-- Texto descriptivo con spans dinámicos -->
+            <div class="muted mt-2">
+                Filtra por vendedor y rango de fechas. Calcula
+                <span id="txtVida">8%</span> en líneas del fabricante <strong>VIDA</strong>
+                y <span id="txtOtros">5%</span> para los demás, siempre sobre la base sin IVA
+                (15% por defecto o el tax de la línea), conforme a tu política.
+            </div>
+            <div class="grid mt-4">
+                <div class="field" style="grid-column: span 4;">
+                    <label for="salesperson">Vendedor</label>
+                    <div class="flex">
+                        <select id="salesperson"
+                            title="Lista de vendedores (si tu backend expone /api/salespersons)"></select>
+                        <input id="salespersonId" placeholder="o escribe ID manual" style="width: 180px" />
+                    </div>
+                    <!-- <div class="muted">Usa el desplegable si tu backend devuelve vendedores; si no, pega el
+                        <em>salesperson_id</em> de Zoho.
+                    </div> -->
+                </div>
+                <div class="field" style="grid-column: span 2;">
+                    <label for="start">Desde</label>
+                    <input type="date" id="start" />
+                </div>
+                <div class="field" style="grid-column: span 2;">
+                    <label for="end">Hasta</label>
+                    <input type="date" id="end" />
+                </div>
+                <div class="field" style="grid-column: span 2;">
+                    <label for="quick">Rango rápido</label>
+                    <select id="quick">
+                        <option value="custom">— Elegir… —</option>
+                        <option value="today">Hoy</option>
+                        <option value="yesterday">Ayer</option>
+                        <option value="this_week">Esta semana</option>
+                        <option value="last_7">Últimos 7 días</option>
+                        <option value="this_month">Este mes</option>
+                        <option value="last_month">Mes pasado</option>
+                        <option value="last_30">Últimos 30 días</option>
+                    </select>
+                </div>
+                <div class="field" style="grid-column: span 4;">
+                    <!-- % Comisión VIDA -->
+                    <div class="flex">
+                        <label for="rateVida">% comisión VIDA</label>
+                        <input type="number" id="rateVida" value="8" min="0" max="100" step="0.1" />
+                    </div>
+                    <!-- % Comisión Otros -->
+                    <div class="flex">
+                        <label for="rateOtros">% comisión Otros</label>
+                        <input type="number" id="rateOtros" value="5" min="0" max="100" step="0.1" />
+                    </div>
+                </div>
+                <div class="field" style="grid-column: span 2;">
+                    <label>&nbsp;</label>
+                    <button class="btn-primary" id="btnBuscarFactura">Buscar</button>
+                </div>
+                <div class="field" style="grid-column: span 2;">
+                    <label>&nbsp;</label>
+                    <button class="btn" id="btnCSV">Exportar CSV</button>
+                </div>
+            </div>
+        </div>
+        <div class="mt-3 flex">
+            <span id="badgePeriodo" class="pill"></span>
+            <span id="badgeVendedor" class="pill"></span>
+            <span id="badgeInfo" class="status hidden"></span>
+        </div>
+        <table id="tabla" class="mt-4">
+            <thead>
+                <tr>
+                    <th># Factura</th>
+                    <th>Cliente</th>
+                    <th>Fecha factura</th>
+                    <th>Fecha pago</th>
+                    <th class="right">Unid VIDA</th>
+                    <th class="right">Unid Otros</th>
+                    <th class="right">Base VIDA</th>
+                    <th class="right">8% VIDA</th>
+                    <th class="right">Base Otros</th>
+                    <th class="right">5% Otros</th>
+                    <th class="right">Comisión total</th>
+                </tr>
+            </thead>
+            <tbody></tbody>
+
+            <tfoot>
+                <tr>
+                    <td colspan="4">Totales</td>
+                    <td class="right" id="tQtyVida">0</td>
+                    <td class="right" id="tQtyOtros">0</td>
+                    <td class="right" id="tBaseVida">0.00</td>
+                    <td class="right" id="tComVida">0.00</td>
+                    <td class="right" id="tBaseOtros">0.00</td>
+                    <td class="right" id="tComOtros">0.00</td>
+                    <td class="right" id="tComTotal">0.00</td>
+                </tr>
+                 <tr>
+                    <td colspan="4">Total en Ventas</td>
+                    <td class="right" id="ventaTotal">0.00</td>
+                    <td colspan="6"></td>
+                </tr>
+                <tr>
+                    <td colspan="4">Ticket Promedio</td>
+                    <td class="right" id="promedioFactura">0.00</td>
+                    <td colspan="6"></td>
+                </tr>
+                <tr>
+                    <td colspan="4">Participacion en VIDA</td>
+                    <td class="right" id="pctVida">0.00</td>
+                    <td colspan="6"></td>
+                </tr>
+                <tr>
+                    <td colspan="4">Participacion en otros</td>
+                    <td class="right" id="pctOtros">0.00</td>
+                    <td colspan="6"></td>
+                </tr>
+            </tfoot>
+        </table>
+    </div>
+    <script defer src="js/comisiones.js"></script>
+    <script defer src="js/layout.js"></script>
+    <script>
+        const $ = s => document.querySelector(s);
+        const start = $('#start');
+        const end = $('#end');
+        const quick = $('#quick');
+
+        const toISO = d => d.toISOString().slice(0, 10);
+        const startOfWeek = d => { const x = new Date(d); const w = (x.getDay() + 6) % 7; x.setDate(x.getDate() - w); x.setHours(0, 0, 0, 0); return x; };
+        const endOfWeek = d => { const s = startOfWeek(d); s.setDate(s.getDate() + 6); return s; };
+        const startOfMonth = d => new Date(d.getFullYear(), d.getMonth(), 1);
+        const endOfMonth = d => new Date(d.getFullYear(), d.getMonth() + 1, 0);
+
+        function setRange(a, b) { start.value = toISO(a); end.value = toISO(b); }
+
+        // Valores por defecto: este mes → hoy
+        setRange(startOfMonth(new Date()), new Date());
+
+        quick.addEventListener('change', (e) => {
+            const v = e.target.value;
+            const today = new Date(); today.setHours(0, 0, 0, 0);
+            const yest = new Date(today); yest.setDate(yest.getDate() - 1);
+
+            if (v === 'today') return setRange(today, today);
+            if (v === 'yesterday') return setRange(yest, yest);
+            if (v === 'this_week') return setRange(startOfWeek(today), endOfWeek(today));
+            if (v === 'last_7') { const d = new Date(today); d.setDate(d.getDate() - 6); return setRange(d, today); }
+            if (v === 'this_month') return setRange(startOfMonth(today), endOfMonth(today));
+            if (v === 'last_month') { const d = new Date(today.getFullYear(), today.getMonth() - 1, 1); return setRange(startOfMonth(d), endOfMonth(d)); }
+            if (v === 'last_30') { const d = new Date(today); d.setDate(d.getDate() - 29); return setRange(d, today); }
+            if (v === '') { const d = new Date(today); d.setDate(d.getDate() - 29); return setRange(d, today); }
+            // custom → no hace nada
+        });
+    </script>
+</body>
+
+</html>

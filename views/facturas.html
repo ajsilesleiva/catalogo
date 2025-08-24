@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8" />
+  <title>Buscar Facturas Zoho Inventory</title>
+  <style>
+    /* Estilos mínimos para el autocompletado */
+    #autocompleteList {
+      position: absolute;
+      background: #fff;
+      border: 1px solid #ccc;
+      margin: 0;
+      padding: 0;
+      list-style-type: none;
+      width: 300px;
+      /* Ajusta según tu layout */
+      max-height: 200px;
+      overflow-y: auto;
+    }
+
+    #autocompleteList li {
+      padding: 6px;
+      cursor: pointer;
+    }
+
+    #autocompleteList li:hover {
+      background-color: #eee;
+    }
+
+    /* Contenedor de la información de la factura seleccionada */
+    #infoFactura {
+      margin-top: 20px;
+    }
+
+    #infoFactura table {
+      border-collapse: collapse;
+    }
+
+    #infoFactura table,
+    #infoFactura th,
+    #infoFactura td {
+      border: 1px solid #ccc;
+      padding: 6px;
+    }
+  </style>
+</head>
+
+<body>
+  <h1>Buscador de Facturas (con Peso)</h1>
+
+  <div style="position: relative;">
+    <input type="text" id="searchInvoice" placeholder="Escribe # de factura..." autocomplete="off" />
+    <!-- Lista donde mostramos las sugerencias -->
+    <ul id="autocompleteList"></ul>
+  </div>
+
+  <div id="infoFactura"></div>
+
+  <script src="js/facturas.js"></script>
+  <script defer src="js/layout.js"></script>
+
+</body>
+
+</html>
